@@ -38,3 +38,8 @@ The ship is your second character. It advances through **Vessel Tiers** via Wayf
 - **Tier 3 (Legendary Vessel - Lvl 10):** Threefold Keel. Can install Arcane, Psionic, and Tide upgrades (e.g., Eldritch Cannons, Psychic Helm, Storm Calling).
 - **Tier 4 (Mythic Vessel - Lvl 15):** Requires rare materials (dragon bone, deep crystal). Gains traits like Ghost Ship or World Sailor.
 - **Tier 5 (Path-Maker Vessel - Lvl 20):** Creates permanent passages through reality. The ship changes the map of the world.
+
+## Captain's Techniques
+In addition to their magical and vessel progression, a Wayfinder gains **Captain's Techniques** at levels 3, 6, 9, 12, 15, and 18. These represent their growing influence over the sea, their crew, and the world itself. 
+
+*See **Chapter 5a: Captain's Techniques (Rules & Framework)** for acquisition rules and **Chapter 11: Progression Charts** for category and tier advancement summaries.*

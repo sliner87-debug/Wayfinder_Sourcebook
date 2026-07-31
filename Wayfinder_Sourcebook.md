@@ -201,6 +201,11 @@ The ship is your second character. It advances through **Vessel Tiers** via Wayf
 - **Tier 4 (Mythic Vessel - Lvl 15):** Requires rare materials (dragon bone, deep crystal). Gains traits like Ghost Ship or World Sailor.
 - **Tier 5 (Path-Maker Vessel - Lvl 20):** Creates permanent passages through reality. The ship changes the map of the world.
 
+## Captain's Techniques
+In addition to their magical and vessel progression, a Wayfinder gains **Captain's Techniques** at levels 3, 6, 9, 12, 15, and 18. These represent their growing influence over the sea, their crew, and the world itself. 
+
+*See **Chapter 5a: Captain's Techniques (Rules & Framework)** for acquisition rules and **Chapter 11: Progression Charts** for category and tier advancement summaries.*
+
 
 ---
 
@@ -238,64 +243,944 @@ Each category has a unique gameplay identity. If a technique solves a problem, t
 # Chapter 5b: Least Captain's Techniques (Levels 1-5)
 
 These techniques establish the Wayfinder's earliest identity. They emphasize positioning, environment, precision, and skill over raw statistical bonuses.
-
 ## Seamanship Techniques
-**1. Sea Legs (Passive, Self):** Ignore movement penalties from pitching decks, slick surfaces, rigging. Stand from prone as a swift action on a vessel.
-**2. Chart the Unknown (Standard, Area within 1 mile):** Study terrain/currents for 1 min. Create a mental chart. Learn safe routes, unexplored regions, or if a route is artificial. (Reveals geography only).
-**3. Favor the Current (Swift, Self, 1 round):** Ignore difficult terrain caused by water, mud, sand, snow, or loose stone for 1 round.
-**4. Mooring Line (Move, 30 ft.):** Secure a rope/chain expertly. Allies crossing ignore the first Balance/Climb check.
-**5. Read the Wind (Standard, Self):** Learn local weather trends, wind direction, and if dangerous natural weather is likely in the next few hours.
-**6. Shorefinder (Passive, Self):** Always know the direction of the nearest coastline, river outlet, harbor, or navigable shoreline while outdoors.
+
+### Sea Legs
+**Technique Name:** Sea Legs  
+**Category:** Seamanship  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Passive  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Ignore movement penalties from pitching decks, slick surfaces, rigging. Stand from prone as a swift action on a vessel.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Chart the Unknown
+**Technique Name:** Chart the Unknown  
+**Category:** Seamanship  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Area within 1 mile  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Study terrain/currents for 1 min. Create a mental chart. Learn safe routes, unexplored regions, or if a route is artificial. (Reveals geography only).  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Favor the Current
+**Technique Name:** Favor the Current  
+**Category:** Seamanship  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** Self  
+**Duration:** 1 round  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Ignore difficult terrain caused by water, mud, sand, snow, or loose stone for 1 round.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Mooring Line
+**Technique Name:** Mooring Line  
+**Category:** Seamanship  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Move  
+**Range/Target:** 30 ft.  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Secure a rope/chain expertly. Allies crossing ignore the first Balance/Climb check.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Read the Wind
+**Technique Name:** Read the Wind  
+**Category:** Seamanship  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Learn local weather trends, wind direction, and if dangerous natural weather is likely in the next few hours.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Shorefinder
+**Technique Name:** Shorefinder  
+**Category:** Seamanship  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Passive  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Always know the direction of the nearest coastline, river outlet, harbor, or navigable shoreline while outdoors.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## Duelist Techniques
-**7. Opening Measure (Swift, 1 melee opponent, 1 round):** If your next melee attack hits them this turn, you may take a 5-ft step that doesn't count against normal movement.
-**8. Crossed Steel (Immediate, Self):** When an adjacent opponent misses you, draw a weapon, switch grips, or reposition weapon without provoking attacks of opportunity.
-**9. Press the Guard (Standard, 1 opponent):** Hit with an attack to deny the target a 5-ft step before the start of your next turn.
-**10. Low Feint (Swift, 1 opponent within 30 ft):** The first ally to attack the target before your next turn gains a circumstance advantage (distraction/false opening).
-**11. Recover Balance (Immediate, Self):** Reduce involuntary movement by 5 ft, or remain standing if forced movement was 5 ft or less.
-**12. Captain's Challenge (Swift, 1 opponent within 30 ft, 1 round):** If they move away, they provoke from you. If they attack an ally instead of you, you gain +2 on your next attack against them.
+
+### Opening Measure
+**Technique Name:** Opening Measure  
+**Category:** Duelist  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 melee opponent  
+**Duration:** 1 round  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+If your next melee attack hits them this turn, you may take a 5-ft step that doesn't count against normal movement.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Crossed Steel
+**Technique Name:** Crossed Steel  
+**Category:** Duelist  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+When an adjacent opponent misses you, draw a weapon, switch grips, or reposition weapon without provoking attacks of opportunity.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Press the Guard
+**Technique Name:** Press the Guard  
+**Category:** Duelist  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 opponent  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Hit with an attack to deny the target a 5-ft step before the start of your next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Low Feint
+**Technique Name:** Low Feint  
+**Category:** Duelist  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 opponent within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+The first ally to attack the target before your next turn gains a circumstance advantage (distraction/false opening).  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Recover Balance
+**Technique Name:** Recover Balance  
+**Category:** Duelist  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Reduce involuntary movement by 5 ft, or remain standing if forced movement was 5 ft or less.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Captain's Challenge
+**Technique Name:** Captain's Challenge  
+**Category:** Duelist  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 opponent within 30 ft  
+**Duration:** 1 round  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+If they move away, they provoke from you. If they attack an ally instead of you, you gain +2 on your next attack against them.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## Corsair Techniques
-**13. First Over the Rail (Move, Self):** Move normal speed without provoking AoO from the first enemy you pass when boarding/climbing.
-**14. Break the Line (Standard, Adjacent enemy):** Make melee attack. If successful, target must give ground 5 ft or lose AoO until start of your next turn (Will negates).
-**15. Claim the Prize (Swift, 1 enemy damaged this turn):** First ally to attack target can move 5 ft before or after without provoking AoO.
-**16. Boarding Hook (Move, 30 ft.):** Pull yourself to a fixed point or pull an unattended object (up to heavy load limit) toward you.
-**17. Find the Weak Board (Standard, Object/Structure within 30 ft):** Identify weak point. First attack within 10 mins ignores 2 hardness, reduces repair DC, or creates an opening. (Uses/day = Cha mod).
-**18. False Surrender (Standard, 1 creature within 30 ft):** Bluff vs Sense Motive. Target gets -2 on next attack vs you and cannot make AoO against you until your next turn.
+
+### First Over the Rail
+**Technique Name:** First Over the Rail  
+**Category:** Corsair  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Move  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Move normal speed without provoking AoO from the first enemy you pass when boarding/climbing.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Break the Line
+**Technique Name:** Break the Line  
+**Category:** Corsair  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Adjacent enemy  
+**Duration:** Instantaneous  
+**Saving Throw:** Will  
+**Prerequisites:** None  
+
+**Effect:**  
+Make melee attack. If successful, target must give ground 5 ft or lose AoO until start of your next turn (Will negates).  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Claim the Prize
+**Technique Name:** Claim the Prize  
+**Category:** Corsair  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 enemy damaged this turn  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+First ally to attack target can move 5 ft before or after without provoking AoO.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Boarding Hook
+**Technique Name:** Boarding Hook  
+**Category:** Corsair  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Move  
+**Range/Target:** 30 ft.  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Pull yourself to a fixed point or pull an unattended object (up to heavy load limit) toward you.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Find the Weak Board
+**Technique Name:** Find the Weak Board  
+**Category:** Corsair  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Object/Structure within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Identify weak point. First attack within 10 mins ignores 2 hardness, reduces repair DC, or creates an opening. (Uses/day = Cha mod).  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### False Surrender
+**Technique Name:** False Surrender  
+**Category:** Corsair  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 creature within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Bluff vs Sense Motive. Target gets -2 on next attack vs you and cannot make AoO against you until your next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## Fleet Techniques
-**19. Captain's Signal (Swift, 1 ally within 30 ft):** Ally can immediately take a 5-ft step.
-**20. Tight Formation (Standard, Allies within 10 ft):** Allies can delay actions until immediately after another affected ally acts. Lasts 1 round.
-**21. Crew Rotation (Immediate, 2 willing allies within 30 ft):** Swap two allies' positions if attacked or forced to move. Doesn't provoke AoO, max 5 ft.
-**22. Cover the Retreat (Immediate, 1 ally within 30 ft):** When ally moves away from enemy, grant 5-ft bonus movement that doesn't provoke AoO.
-**23. Shared Burden (Standard, 1 ally within 30 ft):** Reduce forced movement on an ally by 5 ft for 1 round.
-**24. Quartermaster's Eye (Standard, Vessel/Camp in sight):** Inspect for 1 min. Accurately estimate food, water, ammo, common goods, shortages within 10% accuracy.
+
+### Captain's Signal
+**Technique Name:** Captain's Signal  
+**Category:** Fleet  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 ally within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Ally can immediately take a 5-ft step.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Tight Formation
+**Technique Name:** Tight Formation  
+**Category:** Fleet  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Allies within 10 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Allies can delay actions until immediately after another affected ally acts. Lasts 1 round.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Crew Rotation
+**Technique Name:** Crew Rotation  
+**Category:** Fleet  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** 2 willing allies within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Swap two allies' positions if attacked or forced to move. Doesn't provoke AoO, max 5 ft.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Cover the Retreat
+**Technique Name:** Cover the Retreat  
+**Category:** Fleet  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** 1 ally within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+When ally moves away from enemy, grant 5-ft bonus movement that doesn't provoke AoO.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Shared Burden
+**Technique Name:** Shared Burden  
+**Category:** Fleet  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 ally within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Reduce forced movement on an ally by 5 ft for 1 round.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Quartermaster's Eye
+**Technique Name:** Quartermaster's Eye  
+**Category:** Fleet  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Vessel/Camp in sight  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Inspect for 1 min. Accurately estimate food, water, ammo, common goods, shortages within 10% accuracy.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## Hunter Techniques
-**25. Saltmark Trail (Standard, Touched creature/object, 24 hr):** Place invisible tracking mark. Sense direction within 1 mile (Will negates).
-**26. Read the Wake (Standard, 30 ft area):** Determine recent movement, numbers, size, direction, and rough timeframe of passage.
-**27. Hidden Anchorage (Passive, Self):** Recognize natural concealment for ships/camps, ambush locations, and concealed approaches.
-**28. Ambush Route (Standard, 60 ft area):** Determine optimal approach/escape/engagement point. Allies gain +2 on first Stealth/Survival/Initiative check related to it (lasts 1 hr).
-**29. Mark the Quarry (Swift, 1 creature within 60 ft):** Know direction of their movement the first time they hide/withdraw before end of your next turn.
-**30. Expedition Sense (Passive/Special, Self):** +2 on Survival to identify natural hazards/poison. Observe 1 min to auto-detect obvious mundane hazards.
+
+### Saltmark Trail
+**Technique Name:** Saltmark Trail  
+**Category:** Hunter  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Touched creature/object  
+**Duration:** 24 hr  
+**Saving Throw:** Will  
+**Prerequisites:** None  
+
+**Effect:**  
+Place invisible tracking mark. Sense direction within 1 mile (Will negates).  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Read the Wake
+**Technique Name:** Read the Wake  
+**Category:** Hunter  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 30 ft area  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Determine recent movement, numbers, size, direction, and rough timeframe of passage.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Hidden Anchorage
+**Technique Name:** Hidden Anchorage  
+**Category:** Hunter  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Passive  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Recognize natural concealment for ships/camps, ambush locations, and concealed approaches.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Ambush Route
+**Technique Name:** Ambush Route  
+**Category:** Hunter  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 60 ft area  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Determine optimal approach/escape/engagement point. Allies gain +2 on first Stealth/Survival/Initiative check related to it (lasts 1 hr).  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Mark the Quarry
+**Technique Name:** Mark the Quarry  
+**Category:** Hunter  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 creature within 60 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Know direction of their movement the first time they hide/withdraw before end of your next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Expedition Sense
+**Technique Name:** Expedition Sense  
+**Category:** Hunter  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Passive/Special  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++2 on Survival to identify natural hazards/poison. Observe 1 min to auto-detect obvious mundane hazards.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## Mystic Techniques
-**31. Omen of the Tide (Standard, Self):** Ask a simple question about a voyage/decision. Receive a symbolic omen indicating favorable/unfavorable conditions.
-**32. Whispering Compass (Standard, Self, 1 hr):** Always know direction of a known destination/landmark you've visited.
-**33. Storm Listener (Passive, Self):** Sense approaching natural storms, abnormal atmospheric patterns, or supernatural weather (but not its source).
-**34. Sea Ward (Standard, Touch, 24 hr):** Temporary ward on vessel/camp/object. Tampering provides a brief supernatural warning visible only to you.
-**35. Echo of the Deep (Standard, Touched object/location):** Receive a brief symbolic sensory impression of its strongest recent event.
-**36. Salt Circle (Standard, 5 ft radius, 10 min):** Protective space. +2 circumstance bonus on saves vs fear and environmental hazards for creatures inside.
+
+### Omen of the Tide
+**Technique Name:** Omen of the Tide  
+**Category:** Mystic  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Ask a simple question about a voyage/decision. Receive a symbolic omen indicating favorable/unfavorable conditions.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Whispering Compass
+**Technique Name:** Whispering Compass  
+**Category:** Mystic  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Self  
+**Duration:** 1 hr  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Always know direction of a known destination/landmark you've visited.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Storm Listener
+**Technique Name:** Storm Listener  
+**Category:** Mystic  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Passive  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Sense approaching natural storms, abnormal atmospheric patterns, or supernatural weather (but not its source).  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Sea Ward
+**Technique Name:** Sea Ward  
+**Category:** Mystic  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Touch  
+**Duration:** 24 hr  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Temporary ward on vessel/camp/object. Tampering provides a brief supernatural warning visible only to you.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Echo of the Deep
+**Technique Name:** Echo of the Deep  
+**Category:** Mystic  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Touched object/location  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Receive a brief symbolic sensory impression of its strongest recent event.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Salt Circle
+**Technique Name:** Salt Circle  
+**Category:** Mystic  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 5 ft radius  
+**Duration:** 10 min  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Protective space. +2 circumstance bonus on saves vs fear and environmental hazards for creatures inside.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## First Captain Techniques
-**37. Captain's Reputation (Passive, Self):** Gain a competence bonus equal to half Wayfinder level on Diplomacy and Knowledge (local) in maritime communities.
-**38. Commander's Assessment (Standard, Group/Org within 30 ft):** Observe 1 min. Determine one obvious organizational weakness (morale, supplies, discipline, etc.).
-**39. Quartermaster's Ledger (Passive, Self):** Maintain accurate records. Cannot accidentally lose track of mundane resources personally managed.
-**40. Mark of Safe Passage (Standard, Settlement/Org, 30 days):** Establish minor connection for basic hospitality and non-hostile treatment (unless offended).
-**41. Whisper Network (Passive, Self):** In a settlement >100 people after 1 week, obtain rumors (dangers, notable figures, opportunities).
-**42. Reserve the Hold (Special, Container/Supply):** 1/day designate an emergency reserve. Know its location/contents and if disturbed. +2 on checks to manage it.
-**43. Captain's Word (Standard, Willing creature within 30 ft):** Grant +10 ft movement or free action to draw/stow item.
-**44. Banner of the Rising Tide (Standard, Allies within 30 ft, 1 hr):** Display symbol. Allies recognize genuine orders. 1/day grant +1 morale to fear saves for 1 hour.
+
+### Captain's Reputation
+**Technique Name:** Captain's Reputation  
+**Category:** First Captain  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Passive  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Gain a competence bonus equal to half Wayfinder level on Diplomacy and Knowledge (local) in maritime communities.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Commander's Assessment
+**Technique Name:** Commander's Assessment  
+**Category:** First Captain  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Group/Org within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Observe 1 min. Determine one obvious organizational weakness (morale, supplies, discipline, etc.).  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Quartermaster's Ledger
+**Technique Name:** Quartermaster's Ledger  
+**Category:** First Captain  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Passive  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Maintain accurate records. Cannot accidentally lose track of mundane resources personally managed.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Mark of Safe Passage
+**Technique Name:** Mark of Safe Passage  
+**Category:** First Captain  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Settlement/Org  
+**Duration:** 30 days  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Establish minor connection for basic hospitality and non-hostile treatment (unless offended).  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Whisper Network
+**Technique Name:** Whisper Network  
+**Category:** First Captain  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Passive  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+In a settlement >100 people after 1 week, obtain rumors (dangers, notable figures, opportunities).  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Reserve the Hold
+**Technique Name:** Reserve the Hold  
+**Category:** First Captain  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Special  
+**Range/Target:** Container/Supply  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+1/day designate an emergency reserve. Know its location/contents and if disturbed. +2 on checks to manage it.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Captain's Word
+**Technique Name:** Captain's Word  
+**Category:** First Captain  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Willing creature within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Grant +10 ft movement or free action to draw/stow item.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Banner of the Rising Tide
+**Technique Name:** Banner of the Rising Tide  
+**Category:** First Captain  
+**Tier:** Least  
+**Level Band:** Levels 1-5  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Allies within 30 ft  
+**Duration:** 1 hr  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Display symbol. Allies recognize genuine orders. 1/day grant +1 morale to fear saves for 1 hour.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
 
 
 ---
@@ -303,70 +1188,1070 @@ These techniques establish the Wayfinder's earliest identity. They emphasize pos
 # Chapter 5c: Lesser Captain's Techniques (Levels 6-11)
 
 These techniques emphasize escort control, boarding pressure, command tempo, shipboard dominance, and field adaptability.
-
 ## Seamanship Techniques
-**1. Running Tide Advance (Swift, Self & Allies within 20 ft):** Ignore first 10 ft of movement penalties from shallow water, loose deck debris, or slick surfaces until next turn.
-**2. Storm-True Bearing (Standard, Self & up to 4 allies, 10 min):** +4 competence bonus to navigate through storms, fog, current, poor visibility. (Must be on vessel/near water).
-**3. Brace the Spars (Immediate, Structure/Creature in sight):** Reduce forced movement/stability penalty by 5 when a ship/mast/structure suffers force or collision.
-**4. Keelwalker’s Poise (Swift, Self):** +4 Balance/Climb, no Balance checks for moving normal speed on decks/narrow footing until next turn.
-**5. Harbormouth Timing (Standard, 1 Ally within 30 ft):** Ally may immediately take a 5-ft step even if movement is expended, provided they are on a vessel/maritime structure.
-**6. Weather the Plunge (Immediate, Self/Adjacent ally):** Reduce falling distance by 20 ft when falling from a ship, cliff, dock, or rigging.
-**7. Tacking Shift (Move, Self):** Change movement direction without provoking AoO from one creature that threatened you, if moving across maritime terrain/docks.
+
+### Running Tide Advance
+**Technique Name:** Running Tide Advance  
+**Category:** Seamanship  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** Self & Allies within 20 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Ignore first 10 ft of movement penalties from shallow water, loose deck debris, or slick surfaces until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Storm-True Bearing
+**Technique Name:** Storm-True Bearing  
+**Category:** Seamanship  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Self & up to 4 allies  
+**Duration:** 10 min  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++4 competence bonus to navigate through storms, fog, current, poor visibility. (Must be on vessel/near water).  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Brace the Spars
+**Technique Name:** Brace the Spars  
+**Category:** Seamanship  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** Structure/Creature in sight  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Reduce forced movement/stability penalty by 5 when a ship/mast/structure suffers force or collision.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Keelwalker’s Poise
+**Technique Name:** Keelwalker’s Poise  
+**Category:** Seamanship  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++4 Balance/Climb, no Balance checks for moving normal speed on decks/narrow footing until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Harbormouth Timing
+**Technique Name:** Harbormouth Timing  
+**Category:** Seamanship  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 Ally within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Ally may immediately take a 5-ft step even if movement is expended, provided they are on a vessel/maritime structure.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Weather the Plunge
+**Technique Name:** Weather the Plunge  
+**Category:** Seamanship  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** Self/Adjacent ally  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Reduce falling distance by 20 ft when falling from a ship, cliff, dock, or rigging.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Tacking Shift
+**Technique Name:** Tacking Shift  
+**Category:** Seamanship  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Move  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Change movement direction without provoking AoO from one creature that threatened you, if moving across maritime terrain/docks.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## Duelist Techniques
-**8. Harpoon Opening (Standard, 1 creature):** Hit with a melee weapon; target takes -2 penalty to attack anyone except you until your next turn.
-**9. Saltwater Parry (Immediate, Self):** When hit by melee attack, gain +4 AC against that attack.
-**10. Cutter’s Line (Swift, 1 creature):** Hit an enemy; they cannot take 5-ft steps until your next turn.
-**11. Captain’s Pressure (Move, Threatened foe):** Foe takes -2 penalty on AoO against you and adjacent allies until next turn.
-**12. Rip Tide Counter (Immediate, Self):** When adjacent ally is hit by melee, move 5 ft and make a melee attack against the attacker at -2.
-**13. Breach and Bind (Standard, 1 creature):** Melee attack. On hit, target takes -4 to Escape Artist/grapple until next turn.
-**14. Duelist’s Claim (Swift, 1 foe within 30 ft):** +2 melee attack against them until next turn. Allies gain +1 on AoO against it.
+
+### Harpoon Opening
+**Technique Name:** Harpoon Opening  
+**Category:** Duelist  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 creature  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Hit with a melee weapon; target takes -2 penalty to attack anyone except you until your next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Saltwater Parry
+**Technique Name:** Saltwater Parry  
+**Category:** Duelist  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+When hit by melee attack, gain +4 AC against that attack.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Cutter’s Line
+**Technique Name:** Cutter’s Line  
+**Category:** Duelist  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 creature  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Hit an enemy; they cannot take 5-ft steps until your next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Captain’s Pressure
+**Technique Name:** Captain’s Pressure  
+**Category:** Duelist  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Move  
+**Range/Target:** Threatened foe  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Foe takes -2 penalty on AoO against you and adjacent allies until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Rip Tide Counter
+**Technique Name:** Rip Tide Counter  
+**Category:** Duelist  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+When adjacent ally is hit by melee, move 5 ft and make a melee attack against the attacker at -2.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Breach and Bind
+**Technique Name:** Breach and Bind  
+**Category:** Duelist  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 creature  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Melee attack. On hit, target takes -4 to Escape Artist/grapple until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Duelist’s Claim
+**Technique Name:** Duelist’s Claim  
+**Category:** Duelist  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 foe within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++2 melee attack against them until next turn. Allies gain +1 on AoO against it.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## Corsair Techniques
-**15. Boarding Rush (Standard, Self):** Move up to speed in a straight line. If ending adjacent to enemy, +2 on next melee attack this turn.
-**16. Cut the Rigging (Standard, 30 ft):** Disable one section of rope/sails/ladder/nets. Imposes -4 penalty on checks using that item until repaired.
-**17. Smoke Through the Gaps (Move, Self):** +4 Hide/Tumble in crowded, cluttered, or partially blocked spaces until next turn.
-**18. Plunder Step (Swift, Self):** If moving at least 10 ft, retrieve or stow one small object during movement without provoking AoO.
-**19. Rake the Deck (Standard, 1 creature):** Melee attack. On hit, target takes -2 Balance and cannot benefit from shipboard cover until next turn.
-**20. Grapple the Horizon (Move, Tiny/smaller object):** Grapple unattended object, tackle, or obstacle as if one size category larger to move it.
-**21. Boarding Party’s Wake (Immediate, Self/Ally):** When you/ally charges, the first ally to follow the same target next round gains +2 on that movement/attack.
+
+### Boarding Rush
+**Technique Name:** Boarding Rush  
+**Category:** Corsair  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Move up to speed in a straight line. If ending adjacent to enemy, +2 on next melee attack this turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Cut the Rigging
+**Technique Name:** Cut the Rigging  
+**Category:** Corsair  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Disable one section of rope/sails/ladder/nets. Imposes -4 penalty on checks using that item until repaired.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Smoke Through the Gaps
+**Technique Name:** Smoke Through the Gaps  
+**Category:** Corsair  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Move  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++4 Hide/Tumble in crowded, cluttered, or partially blocked spaces until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Plunder Step
+**Technique Name:** Plunder Step  
+**Category:** Corsair  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+If moving at least 10 ft, retrieve or stow one small object during movement without provoking AoO.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Rake the Deck
+**Technique Name:** Rake the Deck  
+**Category:** Corsair  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 creature  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Melee attack. On hit, target takes -2 Balance and cannot benefit from shipboard cover until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Grapple the Horizon
+**Technique Name:** Grapple the Horizon  
+**Category:** Corsair  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Move  
+**Range/Target:** Tiny/smaller object  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Grapple unattended object, tackle, or obstacle as if one size category larger to move it.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Boarding Party’s Wake
+**Technique Name:** Boarding Party’s Wake  
+**Category:** Corsair  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** Self/Ally  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+When you/ally charges, the first ally to follow the same target next round gains +2 on that movement/attack.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## Fleet Techniques
-**22. Command Vector (Swift, 1 ally within 60 ft):** +2 competence bonus on movement-based checks or attacks during movement this round.
-**23. Formation Shift (Move, up to 3 allies within 30 ft):** They may adjust 5 ft without provoking AoO if keeping in combat formation.
-**24. Hold the Wake (Immediate, 1 ally within 30 ft):** Prevent ally from provoking AoO from one chosen creature when moving.
-**25. Cannon-Ready Mind (Standard, up to 4 allies within 30 ft):** +2 initiative if not rolled; else one ally rerolls failed initiative 1/encounter.
-**26. Deckline Coordination (Standard, Allies within 20 ft, 1 min):** +2 Aid Another, and checks to climb, haul, row, load.
-**27. Signal Denial (Immediate, Enemy within 60 ft):** Impose -4 to enemy commander's check or negate one simple tactical instruction.
-**28. Tighten the Net (Standard, adjacent 10-ft square):** First enemy moving through treats it as difficult terrain until next turn.
-**29. Crew’s Second Breath (Swift, 1 ally within 30 ft):** Recover from shaken, or +2 morale save against fatigue/exhaustion.
+
+### Command Vector
+**Technique Name:** Command Vector  
+**Category:** Fleet  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 ally within 60 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++2 competence bonus on movement-based checks or attacks during movement this round.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Formation Shift
+**Technique Name:** Formation Shift  
+**Category:** Fleet  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Move  
+**Range/Target:** up to 3 allies within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+They may adjust 5 ft without provoking AoO if keeping in combat formation.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Hold the Wake
+**Technique Name:** Hold the Wake  
+**Category:** Fleet  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** 1 ally within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Prevent ally from provoking AoO from one chosen creature when moving.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Cannon-Ready Mind
+**Technique Name:** Cannon-Ready Mind  
+**Category:** Fleet  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** up to 4 allies within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++2 initiative if not rolled; else one ally rerolls failed initiative 1/encounter.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Deckline Coordination
+**Technique Name:** Deckline Coordination  
+**Category:** Fleet  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Allies within 20 ft  
+**Duration:** 1 min  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++2 Aid Another, and checks to climb, haul, row, load.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Signal Denial
+**Technique Name:** Signal Denial  
+**Category:** Fleet  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** Enemy within 60 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Impose -4 to enemy commander's check or negate one simple tactical instruction.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Tighten the Net
+**Technique Name:** Tighten the Net  
+**Category:** Fleet  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** adjacent 10-ft square  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+First enemy moving through treats it as difficult terrain until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Crew’s Second Breath
+**Technique Name:** Crew’s Second Breath  
+**Category:** Fleet  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 ally within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Recover from shaken, or +2 morale save against fatigue/exhaustion.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## Hunter Techniques
-**30. Pursuit Reading (Standard, Self, 10 min):** +4 Survival to follow tracks, spoor, or wake disturbances.
-**31. Predatory Silence (Swift, Self):** +4 Hide, no penalty for moving half speed while hiding until next turn.
-**32. Trail Snare (Standard, 10-ft square):** First creature to enter must Reflex save or speed reduced by 10 ft until end of its next turn.
-**33. Bite of the Chosen Range (Swift, 1 visible enemy):** Next ranged attack against them gains +2 and ignores soft cover this turn.
-**34. Corner the Quarry (Standard, 1 enemy within 60 ft):** They take -2 on checks to tumble, climb, swim, or escape through terrain you can observe.
-**35. Patient Ambush (Full-round, Self):** If you remain still until next turn, +4 attack against a creature that hasn't acted in combat yet.
-**36. Blood in the Water (Immediate, 1 creature within 30 ft):** When creature drops below half HP, +2 attack against them until next turn.
+
+### Pursuit Reading
+**Technique Name:** Pursuit Reading  
+**Category:** Hunter  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Self  
+**Duration:** 10 min  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++4 Survival to follow tracks, spoor, or wake disturbances.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Predatory Silence
+**Technique Name:** Predatory Silence  
+**Category:** Hunter  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++4 Hide, no penalty for moving half speed while hiding until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Trail Snare
+**Technique Name:** Trail Snare  
+**Category:** Hunter  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 10-ft square  
+**Duration:** Instantaneous  
+**Saving Throw:** Reflex  
+**Prerequisites:** None  
+
+**Effect:**  
+First creature to enter must Reflex save or speed reduced by 10 ft until end of its next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Bite of the Chosen Range
+**Technique Name:** Bite of the Chosen Range  
+**Category:** Hunter  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 visible enemy  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Next ranged attack against them gains +2 and ignores soft cover this turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Corner the Quarry
+**Technique Name:** Corner the Quarry  
+**Category:** Hunter  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 enemy within 60 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+They take -2 on checks to tumble, climb, swim, or escape through terrain you can observe.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Patient Ambush
+**Technique Name:** Patient Ambush  
+**Category:** Hunter  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Full-round  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+If you remain still until next turn, +4 attack against a creature that hasn't acted in combat yet.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Blood in the Water
+**Technique Name:** Blood in the Water  
+**Category:** Hunter  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** 1 creature within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+When creature drops below half HP, +2 attack against them until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## Mystic Techniques
-**37. Deepward Aura (Swift, Self & Allies 10 ft):** +2 save vs fear, charm, compulsion until next turn.
-**38. Tideward Insight (Standard, Self, 1 min):** +4 Sense Motive/Gather Info to detect lies, hidden intentions, manipulation.
-**39. Lantern of the Black Wake (Standard, 1 ally within 30 ft, 10 min):** Grant low-light vision, or +2 Spot if they have it.
-**40. Veil Against Salted Eyes (Immediate, Self/Ally within 30 ft):** Targeted by gaze attack: impose -2 penalty to attacker's accuracy or force 50% chance gaze fails.
-**41. Murmur of the Hull (Standard, Touching structure):** Ask one yes-or-no question about a ship/door/wall integrity, damage, or compromise.
-**42. Salt-Bound Reprieve (Immediate, 1 ally within 30 ft):** Ally fails Fort save vs disease/poison/environment; grant +2 to the result retroactively.
-**43. Rime of Calm Waters (Standard, 10 ft radius, 1 min):** Suppress one minor environmental penalty (light spray, wind, deck shake) for you/allies.
+
+### Deepward Aura
+**Technique Name:** Deepward Aura  
+**Category:** Mystic  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** Self & Allies 10 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++2 save vs fear, charm, compulsion until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Tideward Insight
+**Technique Name:** Tideward Insight  
+**Category:** Mystic  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Self  
+**Duration:** 1 min  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++4 Sense Motive/Gather Info to detect lies, hidden intentions, manipulation.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Lantern of the Black Wake
+**Technique Name:** Lantern of the Black Wake  
+**Category:** Mystic  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 ally within 30 ft  
+**Duration:** 10 min  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Grant low-light vision, or +2 Spot if they have it.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Veil Against Salted Eyes
+**Technique Name:** Veil Against Salted Eyes  
+**Category:** Mystic  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** Self/Ally within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Targeted by gaze attack: impose -2 penalty to attacker's accuracy or force 50% chance gaze fails.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Murmur of the Hull
+**Technique Name:** Murmur of the Hull  
+**Category:** Mystic  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Touching structure  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Ask one yes-or-no question about a ship/door/wall integrity, damage, or compromise.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Salt-Bound Reprieve
+**Technique Name:** Salt-Bound Reprieve  
+**Category:** Mystic  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** 1 ally within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Ally fails Fort save vs disease/poison/environment; grant +2 to the result retroactively.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Rime of Calm Waters
+**Technique Name:** Rime of Calm Waters  
+**Category:** Mystic  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 10 ft radius  
+**Duration:** 1 min  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Suppress one minor environmental penalty (light spray, wind, deck shake) for you/allies.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## First Captain Techniques
-**44. Issue the Pursuit (Swift, 1 ally within 30 ft):** +2 attack against target you have already damaged or named this encounter.
-**45. Anchor the Line (Standard, up to 4 allies within 20 ft):** +2 check/save vs forced movement, trip, bull rush until next turn.
-**46. Captain’s Repositioning (Immediate, 1 ally within 30 ft):** If adjacent to enemy, ally may shift 5 ft to a legal square without provoking from that enemy.
-**47. Order of the Clean Escape (Standard, up to 3 allies within 30 ft):** May move half speed without provoking AoO from one designated creature.
-**48. Speak as One Voice (Swift, Allies within 30 ft):** +2 on one coordinated action, Aid Another, or group skill check until next turn.
-**49. Unbroken Bearing (Immediate, Self/Ally within 30 ft):** Fails a saving throw; grant +2 after the roll.
-**50. First Through the Wake (Standard, 1 ally within 30 ft):** Gains +2 attack and saves if they move to engage the same target you attacked this round.
+
+### Issue the Pursuit
+**Technique Name:** Issue the Pursuit  
+**Category:** First Captain  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 ally within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++2 attack against target you have already damaged or named this encounter.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Anchor the Line
+**Technique Name:** Anchor the Line  
+**Category:** First Captain  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** up to 4 allies within 20 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++2 check/save vs forced movement, trip, bull rush until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Captain’s Repositioning
+**Technique Name:** Captain’s Repositioning  
+**Category:** First Captain  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** 1 ally within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+If adjacent to enemy, ally may shift 5 ft to a legal square without provoking from that enemy.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Order of the Clean Escape
+**Technique Name:** Order of the Clean Escape  
+**Category:** First Captain  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** up to 3 allies within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+May move half speed without provoking AoO from one designated creature.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Speak as One Voice
+**Technique Name:** Speak as One Voice  
+**Category:** First Captain  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** Allies within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++2 on one coordinated action, Aid Another, or group skill check until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Unbroken Bearing
+**Technique Name:** Unbroken Bearing  
+**Category:** First Captain  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** Self/Ally within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Fails a saving throw; grant +2 after the roll.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### First Through the Wake
+**Technique Name:** First Through the Wake  
+**Category:** First Captain  
+**Tier:** Lesser  
+**Level Band:** Levels 6-11  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 ally within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Gains +2 attack and saves if they move to engage the same target you attacked this round.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
 
 
 ---
@@ -374,70 +2259,1070 @@ These techniques emphasize escort control, boarding pressure, command tempo, shi
 # Chapter 5d: Greater Captain's Techniques (Levels 12-17)
 
 These techniques shape encounters through movement control, battlefield pressure, crew coordination, tactical denial, and decisive command. They reshape terrain, tempo, and morale.
-
 ## Seamanship Techniques
-**1. Breakwater Surge (Standard, Self & Allies 30 ft, 1 round):** Ignore nonmagical difficult terrain from water/wreckage/clutter. +4 to resist being knocked prone by motion/impact.
-**2. Whitecap Passage (Move, Self & 2 adjacent allies):** Move half speed across water/foam/unstable surface without falling or provoking AoO.
-**3. Keel-Sure Command (Immediate, Structure within 60 ft):** Reduce severity of force/impact/collapse by one step for all creatures on the structure until next turn.
-**4. Tidehook Maneuver (Standard, 1 creature/object 60 ft):** Ranged touch attack; pull target up to 15 ft towards you. Reflex save or denied 5-ft steps until next turn.
-**5. Undertow Footing (Swift, Self & Allies 20 ft):** +4 on opposed checks/saves vs bull rush, trip, overrun, forced movement until next turn.
-**6. Harborless Escape (Standard, up to 3 allies within 30 ft):** Move up to speed through shallow water/debris without provoking AoO from one designated enemy each.
+
+### Breakwater Surge
+**Technique Name:** Breakwater Surge  
+**Category:** Seamanship  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Self & Allies 30 ft  
+**Duration:** 1 round  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Ignore nonmagical difficult terrain from water/wreckage/clutter. +4 to resist being knocked prone by motion/impact.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Whitecap Passage
+**Technique Name:** Whitecap Passage  
+**Category:** Seamanship  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Move  
+**Range/Target:** Self & 2 adjacent allies  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Move half speed across water/foam/unstable surface without falling or provoking AoO.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Keel-Sure Command
+**Technique Name:** Keel-Sure Command  
+**Category:** Seamanship  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** Structure within 60 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Reduce severity of force/impact/collapse by one step for all creatures on the structure until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Tidehook Maneuver
+**Technique Name:** Tidehook Maneuver  
+**Category:** Seamanship  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 creature/object 60 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** Reflex  
+**Prerequisites:** None  
+
+**Effect:**  
+Ranged touch attack; pull target up to 15 ft towards you. Reflex save or denied 5-ft steps until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Undertow Footing
+**Technique Name:** Undertow Footing  
+**Category:** Seamanship  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** Self & Allies 20 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++4 on opposed checks/saves vs bull rush, trip, overrun, forced movement until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Harborless Escape
+**Technique Name:** Harborless Escape  
+**Category:** Seamanship  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** up to 3 allies within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Move up to speed through shallow water/debris without provoking AoO from one designated enemy each.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## Duelist Techniques
-**7. Captain’s Duel (Swift, 1 foe within 30 ft):** +4 melee attack against them until next turn. Foe takes -2 to attack anyone else.
-**8. Crosscut Momentum (Standard, 1 creature):** Melee attack. On hit, force 10-ft reposition toward a square adjacent to you.
-**9. Break Their Guard (Standard, 1 creature):** Melee attack. On hit, target loses dodge AC against your allies until next turn.
-**10. High-Line Riposte (Immediate, Self):** Missed by melee attack: move 10 ft and make a melee attack against attacker. If hit, they cannot take AoO until end of their next turn.
-**11. Cut the Escape (Swift, Threatened foe):** Target cannot 5-ft step away without a Reflex save.
-**12. Duelist’s Denial (Immediate, Threatened foe):** Foe casting spell/power/ranged attack: force Concentration check or -4 penalty on the attack.
-**13. Bloodline Reading (Move, 1 foe):** Gain +4 insight to attack and AC against one foe whose style you observed this combat until next turn.
+
+### Captain’s Duel
+**Technique Name:** Captain’s Duel  
+**Category:** Duelist  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 foe within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++4 melee attack against them until next turn. Foe takes -2 to attack anyone else.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Crosscut Momentum
+**Technique Name:** Crosscut Momentum  
+**Category:** Duelist  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 creature  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Melee attack. On hit, force 10-ft reposition toward a square adjacent to you.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Break Their Guard
+**Technique Name:** Break Their Guard  
+**Category:** Duelist  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 creature  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Melee attack. On hit, target loses dodge AC against your allies until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### High-Line Riposte
+**Technique Name:** High-Line Riposte  
+**Category:** Duelist  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Missed by melee attack: move 10 ft and make a melee attack against attacker. If hit, they cannot take AoO until end of their next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Cut the Escape
+**Technique Name:** Cut the Escape  
+**Category:** Duelist  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** Threatened foe  
+**Duration:** Instantaneous  
+**Saving Throw:** Reflex  
+**Prerequisites:** None  
+
+**Effect:**  
+Target cannot 5-ft step away without a Reflex save.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Duelist’s Denial
+**Technique Name:** Duelist’s Denial  
+**Category:** Duelist  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** Threatened foe  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Foe casting spell/power/ranged attack: force Concentration check or -4 penalty on the attack.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Bloodline Reading
+**Technique Name:** Bloodline Reading  
+**Category:** Duelist  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Move  
+**Range/Target:** 1 foe  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Gain +4 insight to attack and AC against one foe whose style you observed this combat until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## Corsair Techniques
-**14. Boarding Storm (Full-round, Self):** Move up to speed, make 1 melee attack during movement. If ending adjacent to a different enemy, 1 ally within 30 ft can reaction move 10 ft without provoking.
-**15. Black Flag Feint (Swift, 1 enemy within 60 ft):** Enemy takes -2 Will vs fear/intimidate until next turn.
-**16. Rope-Swing Cut (Move, Self):** Move 20 ft using rigging/ropes. Melee attack at the end without provoking AoO from first creature passed.
-**17. Prize the Deck (Standard, 10-ft square):** Area becomes difficult terrain. Enemies take -2 to remain upright there until next turn.
-**18. Loot-Driven Advance (Swift, Self & 1 adjacent ally):** After dropping/disarming/fleeing a foe, gain +2 to movement and attack rolls until next turn.
-**19. Hullbreaker Strike (Standard, 1 creature):** Melee attack. On hit, target takes AC penalty equal to your Cha mod against your attacks until next turn.
-**20. Pirate’s Surround (Immediate, Self):** Adjacent ally hits foe: shift 5 ft and gain +2 on your next melee attack against them.
+
+### Boarding Storm
+**Technique Name:** Boarding Storm  
+**Category:** Corsair  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Full-round  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Move up to speed, make 1 melee attack during movement. If ending adjacent to a different enemy, 1 ally within 30 ft can reaction move 10 ft without provoking.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Black Flag Feint
+**Technique Name:** Black Flag Feint  
+**Category:** Corsair  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 enemy within 60 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Enemy takes -2 Will vs fear/intimidate until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Rope-Swing Cut
+**Technique Name:** Rope-Swing Cut  
+**Category:** Corsair  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Move  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Move 20 ft using rigging/ropes. Melee attack at the end without provoking AoO from first creature passed.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Prize the Deck
+**Technique Name:** Prize the Deck  
+**Category:** Corsair  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 10-ft square  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Area becomes difficult terrain. Enemies take -2 to remain upright there until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Loot-Driven Advance
+**Technique Name:** Loot-Driven Advance  
+**Category:** Corsair  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** Self & 1 adjacent ally  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+After dropping/disarming/fleeing a foe, gain +2 to movement and attack rolls until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Hullbreaker Strike
+**Technique Name:** Hullbreaker Strike  
+**Category:** Corsair  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 creature  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Melee attack. On hit, target takes AC penalty equal to your Cha mod against your attacks until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Pirate’s Surround
+**Technique Name:** Pirate’s Surround  
+**Category:** Corsair  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Adjacent ally hits foe: shift 5 ft and gain +2 on your next melee attack against them.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## Fleet Techniques
-**21. Command the Wake (Swift, up to 4 allies 60 ft):** May each move 5 ft without provoking AoO.
-**22. Volley Timing (Standard, up to 3 allies):** Next attack by each before your next turn gains +2 attack/damage if attacking the same target.
-**23. Interlocking Line (Immediate, 1 ally within 30 ft):** Ally would be flanked: designate adjacent ally as second defender, negating flank bonus for 1 round.
-**24. Boarding Signal (Standard, Allies 30 ft):** May immediately draw weapon, don shield, or ready charged item without provoking AoO.
-**25. Press the Advantage (Swift, 1 impaired enemy):** Allies within 30 ft gain +2 attack against that shaken/prone/flat-footed enemy until next turn.
-**26. Crew on the Railing (Immediate, 1 ally within 30 ft):** Ally forced to move/fall prone: remain standing and reduce displacement by 5 ft.
-**27. Formation of Iron (Full-round, Allies within 20 ft):** Gain either +2 morale AC OR +2 morale saves (not both) while remaining in formation for 1 round/level.
-**28. Tactical Relay (Swift, 1 ally within 60 ft):** Ally may repeat a movement/Aid/positioning action taken this round, but at a -2 penalty.
+
+### Command the Wake
+**Technique Name:** Command the Wake  
+**Category:** Fleet  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** up to 4 allies 60 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+May each move 5 ft without provoking AoO.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Volley Timing
+**Technique Name:** Volley Timing  
+**Category:** Fleet  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** up to 3 allies  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Next attack by each before your next turn gains +2 attack/damage if attacking the same target.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Interlocking Line
+**Technique Name:** Interlocking Line  
+**Category:** Fleet  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** 1 ally within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Ally would be flanked: designate adjacent ally as second defender, negating flank bonus for 1 round.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Boarding Signal
+**Technique Name:** Boarding Signal  
+**Category:** Fleet  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Allies 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+May immediately draw weapon, don shield, or ready charged item without provoking AoO.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Press the Advantage
+**Technique Name:** Press the Advantage  
+**Category:** Fleet  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 impaired enemy  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Allies within 30 ft gain +2 attack against that shaken/prone/flat-footed enemy until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Crew on the Railing
+**Technique Name:** Crew on the Railing  
+**Category:** Fleet  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** 1 ally within 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Ally forced to move/fall prone: remain standing and reduce displacement by 5 ft.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Formation of Iron
+**Technique Name:** Formation of Iron  
+**Category:** Fleet  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Full-round  
+**Range/Target:** Allies within 20 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Gain either +2 morale AC OR +2 morale saves (not both) while remaining in formation for 1 round/level.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Tactical Relay
+**Technique Name:** Tactical Relay  
+**Category:** Fleet  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 ally within 60 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Ally may repeat a movement/Aid/positioning action taken this round, but at a -2 penalty.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## Hunter Techniques
-**29. Killbox Reading (Standard, 15-ft square):** First enemy entering takes -2 Reflex and cannot benefit from cover inside the area until your next turn.
-**30. Scent the Weak Point (Move, 1 enemy):** Gain +4 to identify weak defense/escape. First ally to attack them gains +2 attack.
-**31. Marlin Strike (Standard, 1 creature):** Ranged attack. On hit, target's speed reduced by 10 ft and cannot use special movement actions until next turn.
-**32. Corner the Escape (Immediate, 1 creature 60 ft):** Attempts to withdraw/teleport/escape: Will save or lose first 10 ft of movement.
-**33. Hunt the Panic (Swift, 1 frightened/panicked enemy 60 ft):** Takes -2 on attack, skill, saves for 1 round.
-**34. Deadwater Ambush (Full-round, Self):** If stationary, next attack vs enemy that hasn't acted yet is +4 and ignores mist/dim light concealment.
-**35. Marked Expenditure (Standard, 1 damaged creature):** Target takes -2 on checks/spells to regenerate, recover, or benefit from invisibility/concealment until next turn.
+
+### Killbox Reading
+**Technique Name:** Killbox Reading  
+**Category:** Hunter  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 15-ft square  
+**Duration:** Instantaneous  
+**Saving Throw:** Reflex  
+**Prerequisites:** None  
+
+**Effect:**  
+First enemy entering takes -2 Reflex and cannot benefit from cover inside the area until your next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Scent the Weak Point
+**Technique Name:** Scent the Weak Point  
+**Category:** Hunter  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Move  
+**Range/Target:** 1 enemy  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Gain +4 to identify weak defense/escape. First ally to attack them gains +2 attack.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Marlin Strike
+**Technique Name:** Marlin Strike  
+**Category:** Hunter  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 creature  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Ranged attack. On hit, target's speed reduced by 10 ft and cannot use special movement actions until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Corner the Escape
+**Technique Name:** Corner the Escape  
+**Category:** Hunter  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** 1 creature 60 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** Will  
+**Prerequisites:** None  
+
+**Effect:**  
+Attempts to withdraw/teleport/escape: Will save or lose first 10 ft of movement.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Hunt the Panic
+**Technique Name:** Hunt the Panic  
+**Category:** Hunter  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 frightened/panicked enemy 60 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Takes -2 on attack, skill, saves for 1 round.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Deadwater Ambush
+**Technique Name:** Deadwater Ambush  
+**Category:** Hunter  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Full-round  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+If stationary, next attack vs enemy that hasn't acted yet is +4 and ignores mist/dim light concealment.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Marked Expenditure
+**Technique Name:** Marked Expenditure  
+**Category:** Hunter  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 damaged creature  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Target takes -2 on checks/spells to regenerate, recover, or benefit from invisibility/concealment until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## Mystic Techniques
-**36. Abyssal Quiet (Swift, Self & Allies 10 ft):** +4 save vs fear, compulsion, sonic effects until next turn.
-**37. Salt-Rune Interdict (Immediate, 1 creature 60 ft):** Casting spell/using supernatural ability: impose Concentration check or reduce effect's caster level by 2.
-**38. Lantern of the Undertow (Standard, Allies 20 ft, 1 min):** Gain See Invisibility against creatures in water/mist/fog/spray.
-**39. Dreadcurrent Ward (Immediate, 1 ally 30 ft):** Fails save vs enchantment/fear/illusion: reroll with +2 bonus.
-**40. Wake-Sense Abjuration (Standard, Self & Allies 20 ft, 10 min):** +4 to notice scrying, hidden watchers, ambushes, unnatural disturbances.
-**41. Tidal Resistance (Swift, Self & Allies 10 ft):** Resistance 10 against Acid, Cold, and Electricity until next turn.
-**42. Echo of the Deep Name (Standard, 1 creature 60 ft):** Learn one fact: exact health, creature type, or if under magical influence. (No exact numbers, symbolic).
+
+### Abyssal Quiet
+**Technique Name:** Abyssal Quiet  
+**Category:** Mystic  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** Self & Allies 10 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++4 save vs fear, compulsion, sonic effects until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Salt-Rune Interdict
+**Technique Name:** Salt-Rune Interdict  
+**Category:** Mystic  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** 1 creature 60 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Casting spell/using supernatural ability: impose Concentration check or reduce effect's caster level by 2.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Lantern of the Undertow
+**Technique Name:** Lantern of the Undertow  
+**Category:** Mystic  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Allies 20 ft  
+**Duration:** 1 min  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Gain See Invisibility against creatures in water/mist/fog/spray.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Dreadcurrent Ward
+**Technique Name:** Dreadcurrent Ward  
+**Category:** Mystic  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** 1 ally 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Fails save vs enchantment/fear/illusion: reroll with +2 bonus.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Wake-Sense Abjuration
+**Technique Name:** Wake-Sense Abjuration  
+**Category:** Mystic  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Self & Allies 20 ft  
+**Duration:** 10 min  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++4 to notice scrying, hidden watchers, ambushes, unnatural disturbances.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Tidal Resistance
+**Technique Name:** Tidal Resistance  
+**Category:** Mystic  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** Self & Allies 10 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Resistance 10 against Acid, Cold, and Electricity until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Echo of the Deep Name
+**Technique Name:** Echo of the Deep Name  
+**Category:** Mystic  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 creature 60 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Learn one fact: exact health, creature type, or if under magical influence. (No exact numbers, symbolic).  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
 
 ## First Captain Techniques
-**43. Hold the Future Line (Swift, Allies 30 ft):** +2 morale attack and saves until next turn, provided they remain within 30 ft.
-**44. Directive Overwatch (Immediate, 1 ally 30 ft):** Targeted by attack: grant +4 AC against that one attack.
-**45. Named Objective (Standard, 1 enemy/goal 60 ft):** Allies gain +2 on attack rolls and opposed checks related to that target until next turn.
-**46. March Under Command (Move, up to 4 allies 30 ft):** Take a 10-ft move without provoking AoO, keeping formation.
-**47. No One Breaks Alone (Immediate, 1 ally 30 ft):** Stunned/panicked/unconscious: reduce condition severity one step for 1 round or grant +4 on the save.
-**48. Compel Formation (Standard, up to 3 allies 30 ft):** Reposition 5 ft and gain +2 AC vs AoO until next turn.
-**49. Voice of Final Tempo (Swift, 1 ally 30 ft):** Take an extra move action immediately. Cannot use more than 1/encounter per ally.
-**50. The Captain Advances (Immediate, Self):** Reduced below half HP: allies 30 ft gain +2 morale to attacks and saves for 1 round.
+
+### Hold the Future Line
+**Technique Name:** Hold the Future Line  
+**Category:** First Captain  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** Allies 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
++2 morale attack and saves until next turn, provided they remain within 30 ft.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Directive Overwatch
+**Technique Name:** Directive Overwatch  
+**Category:** First Captain  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** 1 ally 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Targeted by attack: grant +4 AC against that one attack.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Named Objective
+**Technique Name:** Named Objective  
+**Category:** First Captain  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 enemy/goal 60 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Allies gain +2 on attack rolls and opposed checks related to that target until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### March Under Command
+**Technique Name:** March Under Command  
+**Category:** First Captain  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Move  
+**Range/Target:** up to 4 allies 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Take a 10-ft move without provoking AoO, keeping formation.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### No One Breaks Alone
+**Technique Name:** No One Breaks Alone  
+**Category:** First Captain  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** 1 ally 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Stunned/panicked/unconscious: reduce condition severity one step for 1 round or grant +4 on the save.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Compel Formation
+**Technique Name:** Compel Formation  
+**Category:** First Captain  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** up to 3 allies 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Reposition 5 ft and gain +2 AC vs AoO until next turn.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Voice of Final Tempo
+**Technique Name:** Voice of Final Tempo  
+**Category:** First Captain  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 ally 30 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Take an extra move action immediately. Cannot use more than 1/encounter per ally.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### The Captain Advances
+**Technique Name:** The Captain Advances  
+**Category:** First Captain  
+**Tier:** Greater  
+**Level Band:** Levels 12-17  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** Self  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Reduced below half HP: allies 30 ft gain +2 morale to attacks and saves for 1 round.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
 
 
 ---
@@ -445,37 +3330,537 @@ These techniques shape encounters through movement control, battlefield pressure
 # Chapter 5e: Legendary Captain's Techniques (Levels 18-20)
 
 Legendary techniques alter voyages, fleets, exploration, and faction play. They are capstone-tier commands meant to change the map itself. *Note: Permanent world-changing effects require time, resources, and narrative consequences. They provide influence, opportunities, and strategic advantage, not automatic control.*
+## Seamanship Techniques
 
-## Voyage, Route, and Navigation
-**1. Crown the Course (1-hour ritual):** Name known destination on same plane. For 24 hrs, ship cannot become lost, ignores one nonmagical travel hazard, travels double pace if path exists.
-**2. Sovereign Wake (Swift, Allies 60 ft, 1 min/level):** Allies ignore penalties from wind, waves, shallow water, motion. Move across water/unstable surfaces as firm ground.
-**3. Breaker of Blockades (Standard, Obstruction 200 ft, 1 min/level):** Obstruction (boom, reef, siege barrier) is nonbinding to your vessel. Magical barriers must pass CL check or be suppressed 1 round.
-**4. Compass of Names (1-min ritual):** Name known creature/ship/harbor. Learn direction/approximate distance if on same plane, and if direct route is blocked.
-**5. Chart the Unseen Coast (Standard, 1 hr/level):** Reveal hidden coves/reefs/channels/secret routes within 1 mile/level. Allies gain navigation advantage, natural hazards cannot surprise.
-**6. Map of Ash and Wake (10-min ritual):** Create living tactical chart out to 1 mile/level showing routes, ruins, recent mass movements. +Bonus to nav/strategy/ambush-prevention for 24 hrs.
-**7. The Map Kneels (1-hour ritual):** Alter nonmagical terrain in 1-mile radius (shift sandbars, carve channels). Lasts 24 hrs. (Repeated 7 days makes permanent).
-**8. Unnamed Harbor (10-min ritual):** Designate concealed anchorage. For 24 hrs, vessel rests without mundane detection. Enemies must physically search.
+### Crown the Course
+**Technique Name:** Crown the Course  
+**Category:** Seamanship  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** 1-hour ritual  
+**Range/Target:** Personal  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
 
-## Ship Combat and Quarterdeck Authority
-**9. Ship of the Line (Full-round, Vessel, 10 min/level):** Vessel becomes mythic. Speed increases, hull harder to breach, weapons strike harder, crew gains strong morale.
-**10. Sovereign Quarterdeck (1-hour ritual, 24 hr):** Controlled vessel/fortress becomes sovereign nexus. Allies gain defense/coordination, you may issue command effects as if physically present.
-**11. Fleet in the Mind (Standard, 24 hr):** Telepathic command network among willing allies/crew within 1 mile/level bearing your mark. Coordinate as if adjacent.
-**12. Admiral’s Oath (10-min ritual, 24 hr):** Bind up to 12 willing allies. Immunity to fear/charm, each rerolls one failed save vs sworn enemy/threat once per duration.
-**13. Wake of Dread Authority (Standard, 120 ft):** Enemies seeing your banner/vessel must Will save or become shaken for 1 min (frightened 1 round if already shaken).
-**14. Tide of Reprisal (Immediate):** When ship/crew is damaged by naval assault/monster, trigger counterstroke: vessel moves half speed, one allied ship/crew action occurs as reaction.
-**15. Chain the Storm (Full-round, 1-mile radius, 10 min/level):** Command weather. Calm sea, strengthen wind, steer storm, or lash enemy vessels with penalties.
-**16. Through the Needle’s Eye (Immediate, 1 min):** When vessel would be trapped/grounded, reduce effective width/clearance requirement by half. Ignore first collision.
-**17. The World Makes Room (Standard, 100-ft path, 1 min/level):** Natural obstacles part/shift/yield enough for ship to pass.
-**18. Cut the Pursuit (1-hour ritual, 24 hr):** Ship/crew cannot be tracked by mundane means, magical tracking needs opposed check. Leave misleading wake/trail.
+**Effect:**  
+Name known destination on same plane. For 24 hrs, ship cannot become lost, ignores one nonmagical travel hazard, travels double pace if path exists.  
 
-## Exploration, Faction Play, and Sovereignty
-**19. First Captain’s Judgment (Swift, 1 faction/leader, 24 hr):** Declare enemy leader/faction. Allies gain advantage acting against their agents/assets. Disguised members easier to identify.
-**20. Claim the Island (8-hour ritual, 30 days):** Claim controlled fort/harbor. Authority treated as legitimate by neutral powers. Safe harbor, supply, patrol benefits.
-**21. Last Harbor Promise (1-hour ritual, 24 hr):** Establish hidden sanctuary. Allies can rest safely, cannot be surprised unless physically infiltrated, resist scrying.
-**22. Banners of Every Port (Standard, 24 hr):** Display insignia. Treated as recognized hospitality by neutral maritime communities/dockmasters. Major bonus to negotiation/access.
-**23. Sea-Law’s Verdict (Standard, 1 round/level):** In a dispute/duel/boarding, impose temporary law: no outside aid, no hidden repositioning, no retreat by opposing leader (Will negates).
-**24. First Captain Ascendant (Swift, 1 round/level):** Living embodiment of command. Allies gain major morale to attacks/saves/coordination. Commands reach through battlefield noise.
-**25. The World Follows the Flag (1-hour ritual, 30 days):** Choose known region/route. Faction gains sovereign passage, hidden routes, influence over access. Hostile claimants suffer severe penalties.
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Sovereign Wake
+**Technique Name:** Sovereign Wake  
+**Category:** Seamanship  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** Allies 60 ft  
+**Duration:** 1 min/level  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Allies ignore penalties from wind, waves, shallow water, motion. Move across water/unstable surfaces as firm ground.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Breaker of Blockades
+**Technique Name:** Breaker of Blockades  
+**Category:** Seamanship  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** Obstruction 200 ft  
+**Duration:** 1 min/level  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Obstruction (boom, reef, siege barrier) is nonbinding to your vessel. Magical barriers must pass CL check or be suppressed 1 round.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Compass of Names
+**Technique Name:** Compass of Names  
+**Category:** Seamanship  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** 1-min ritual  
+**Range/Target:** Personal  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Name known creature/ship/harbor. Learn direction/approximate distance if on same plane, and if direct route is blocked.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Chart the Unseen Coast
+**Technique Name:** Chart the Unseen Coast  
+**Category:** Seamanship  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 hr/level  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Reveal hidden coves/reefs/channels/secret routes within 1 mile/level. Allies gain navigation advantage, natural hazards cannot surprise.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Map of Ash and Wake
+**Technique Name:** Map of Ash and Wake  
+**Category:** Seamanship  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** 10-min ritual  
+**Range/Target:** Personal  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Create living tactical chart out to 1 mile/level showing routes, ruins, recent mass movements. +Bonus to nav/strategy/ambush-prevention for 24 hrs.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### The Map Kneels
+**Technique Name:** The Map Kneels  
+**Category:** Seamanship  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** 1-hour ritual  
+**Range/Target:** Personal  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Alter nonmagical terrain in 1-mile radius (shift sandbars, carve channels). Lasts 24 hrs. (Repeated 7 days makes permanent).  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Unnamed Harbor
+**Technique Name:** Unnamed Harbor  
+**Category:** Seamanship  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** 10-min ritual  
+**Range/Target:** Personal  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Designate concealed anchorage. For 24 hrs, vessel rests without mundane detection. Enemies must physically search.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+## Duelist Techniques
+
+### Ship of the Line
+**Technique Name:** Ship of the Line  
+**Category:** Duelist  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** Full-round  
+**Range/Target:** Vessel  
+**Duration:** 10 min/level  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Vessel becomes mythic. Speed increases, hull harder to breach, weapons strike harder, crew gains strong morale.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Sovereign Quarterdeck
+**Technique Name:** Sovereign Quarterdeck  
+**Category:** Duelist  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** 1-hour ritual  
+**Range/Target:** 24 hr  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Controlled vessel/fortress becomes sovereign nexus. Allies gain defense/coordination, you may issue command effects as if physically present.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Fleet in the Mind
+**Technique Name:** Fleet in the Mind  
+**Category:** Duelist  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 24 hr  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Telepathic command network among willing allies/crew within 1 mile/level bearing your mark. Coordinate as if adjacent.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Admiral’s Oath
+**Technique Name:** Admiral’s Oath  
+**Category:** Duelist  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** 10-min ritual  
+**Range/Target:** 24 hr  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Bind up to 12 willing allies. Immunity to fear/charm, each rerolls one failed save vs sworn enemy/threat once per duration.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Wake of Dread Authority
+**Technique Name:** Wake of Dread Authority  
+**Category:** Duelist  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 120 ft  
+**Duration:** Instantaneous  
+**Saving Throw:** Will  
+**Prerequisites:** None  
+
+**Effect:**  
+Enemies seeing your banner/vessel must Will save or become shaken for 1 min (frightened 1 round if already shaken).  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Tide of Reprisal
+**Technique Name:** Tide of Reprisal  
+**Category:** Duelist  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** Personal  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+When ship/crew is damaged by naval assault/monster, trigger counterstroke: vessel moves half speed, one allied ship/crew action occurs as reaction.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Chain the Storm
+**Technique Name:** Chain the Storm  
+**Category:** Duelist  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** Full-round  
+**Range/Target:** 1-mile radius  
+**Duration:** 10 min/level  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Command weather. Calm sea, strengthen wind, steer storm, or lash enemy vessels with penalties.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Through the Needle’s Eye
+**Technique Name:** Through the Needle’s Eye  
+**Category:** Duelist  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** Immediate  
+**Range/Target:** 1 min  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+When vessel would be trapped/grounded, reduce effective width/clearance requirement by half. Ignore first collision.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### The World Makes Room
+**Technique Name:** The World Makes Room  
+**Category:** Duelist  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 100-ft path  
+**Duration:** 1 min/level  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Natural obstacles part/shift/yield enough for ship to pass.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Cut the Pursuit
+**Technique Name:** Cut the Pursuit  
+**Category:** Duelist  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** 1-hour ritual  
+**Range/Target:** 24 hr  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Ship/crew cannot be tracked by mundane means, magical tracking needs opposed check. Leave misleading wake/trail.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+## First Captain Techniques
+
+### First Captain’s Judgment
+**Technique Name:** First Captain’s Judgment  
+**Category:** First Captain  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 faction/leader  
+**Duration:** 24 hr  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Declare enemy leader/faction. Allies gain advantage acting against their agents/assets. Disguised members easier to identify.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Claim the Island
+**Technique Name:** Claim the Island  
+**Category:** First Captain  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** 8-hour ritual  
+**Range/Target:** 30 days  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Claim controlled fort/harbor. Authority treated as legitimate by neutral powers. Safe harbor, supply, patrol benefits.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Last Harbor Promise
+**Technique Name:** Last Harbor Promise  
+**Category:** First Captain  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** 1-hour ritual  
+**Range/Target:** 24 hr  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Establish hidden sanctuary. Allies can rest safely, cannot be surprised unless physically infiltrated, resist scrying.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Banners of Every Port
+**Technique Name:** Banners of Every Port  
+**Category:** First Captain  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 24 hr  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Display insignia. Treated as recognized hospitality by neutral maritime communities/dockmasters. Major bonus to negotiation/access.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### Sea-Law’s Verdict
+**Technique Name:** Sea-Law’s Verdict  
+**Category:** First Captain  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** Standard  
+**Range/Target:** 1 round/level  
+**Duration:** Instantaneous  
+**Saving Throw:** Will  
+**Prerequisites:** None  
+
+**Effect:**  
+In a dispute/duel/boarding, impose temporary law: no outside aid, no hidden repositioning, no retreat by opposing leader (Will negates).  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### First Captain Ascendant
+**Technique Name:** First Captain Ascendant  
+**Category:** First Captain  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** Swift  
+**Range/Target:** 1 round/level  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Living embodiment of command. Allies gain major morale to attacks/saves/coordination. Commands reach through battlefield noise.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
+### The World Follows the Flag
+**Technique Name:** The World Follows the Flag  
+**Category:** First Captain  
+**Tier:** Legendary  
+**Level Band:** Levels 18-20  
+**Type:** Extraordinary  
+**Action Type:** 1-hour ritual  
+**Range/Target:** 30 days  
+**Duration:** Instantaneous  
+**Saving Throw:** None  
+**Prerequisites:** None  
+
+**Effect:**  
+Choose known region/route. Faction gains sovereign passage, hidden routes, influence over access. Hostile claimants suffer severe penalties.  
+
+**Scaling:**  
+None  
+
+**Flavor Text:**  
+*A display of the Wayfinder's growing mastery.*
+
 
 
 ---

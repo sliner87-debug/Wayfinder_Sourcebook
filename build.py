@@ -19,7 +19,8 @@ files = [
     "12_Visual_Production_Plan.md",
     "13_Production_Audits.md",
     "14_World_Development_Report.md",
-    "15_Glossary_and_Index.md"
+    "15_Glossary_and_Index.md",
+    "16_Publication_Readiness_Review.md"
 ]
 
 combined = "# Wayfinder Corsair Campaign Setting & Rulebook\n\n"

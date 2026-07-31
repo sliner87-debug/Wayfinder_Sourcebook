@@ -863,11 +863,6 @@ The source archive confirms that the framework and archetypes exist, but the app
 Player Guide Status
 
 COMPLETE: Character-building framework
-
-Pending:
-
-Exact technique progression tables
-
 Level-by-level sample builds
 
 Final archetype optimization guides

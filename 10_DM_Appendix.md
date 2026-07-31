@@ -203,7 +203,7 @@ political restrictions,
 
 supernatural hazards.
 
-Captain Technique Impact
+Captain's Technique Impact
 
 Ask:
 

@@ -1,0 +1,183 @@
+# Chapter 15: Glossary and Master Index
+
+## Glossary of Terms
+
+- **Captain's Technique:** A magical or extraordinary ability granted by the Wayfinder class, representing the captain's mastery over their vessel, crew, and the elements.
+- **Living Ship:** The Wayfinder's magical vessel, progressing in power alongside the captain. Upgrades via Tiers (Driftwood, Captain's, Legendary, Mythic, Path-Maker).
+- **Navigator Spirit:** A spectral entity or manifestation of the sea's will that guides the Wayfinder.
+- **Shattered Expanse:** The primary setting for the campaign, an ocean dotted with ruins, impossible geography, and shifting magical tides.
+- **Tier:** The power scaling system for Captain's Techniques and Vessels. The four Technique Tiers are Least, Lesser, Greater, and Legendary.
+
+## Master Technique Index
+
+The following is an alphabetical index of every Captain's Technique available in the sourcebook.
+
+- Abyssal Quiet
+- Admiral’s Oath
+- Ambush Route
+- Anchor the Line
+- Banner of the Rising Tide
+- Banners of Every Port
+- Bite of the Chosen Range
+- Black Flag Feint
+- Blood in the Water
+- Bloodline Reading
+- Boarding Hook
+- Boarding Party’s Wake
+- Boarding Rush
+- Boarding Signal
+- Boarding Storm
+- Brace the Spars
+- Breach and Bind
+- Break Their Guard
+- Break the Line
+- Breaker of Blockades
+- Breakwater Surge
+- Cannon-Ready Mind
+- Captain's Challenge
+- Captain's Reputation
+- Captain's Signal
+- Captain's Word
+- Captain’s Duel
+- Captain’s Pressure
+- Captain’s Repositioning
+- Chain the Storm
+- Chart the Unknown
+- Chart the Unseen Coast
+- Claim the Island
+- Claim the Prize
+- Command Vector
+- Command the Wake
+- Commander's Assessment
+- Compass of Names
+- Compel Formation
+- Corner the Escape
+- Corner the Quarry
+- Cover the Retreat
+- Crew Rotation
+- Crew on the Railing
+- Crew’s Second Breath
+- Crosscut Momentum
+- Crossed Steel
+- Crown the Course
+- Cut the Escape
+- Cut the Pursuit
+- Cut the Rigging
+- Cutter’s Line
+- Deadwater Ambush
+- Deckline Coordination
+- Deepward Aura
+- Directive Overwatch
+- Dreadcurrent Ward
+- Duelist’s Claim
+- Duelist’s Denial
+- Echo of the Deep
+- Echo of the Deep Name
+- Expedition Sense
+- False Surrender
+- Favor the Current
+- Find the Weak Board
+- First Captain Ascendant
+- First Captain’s Judgment
+- First Over the Rail
+- First Through the Wake
+- Fleet in the Mind
+- Formation Shift
+- Formation of Iron
+- Grapple the Horizon
+- Harborless Escape
+- Harbormouth Timing
+- Harpoon Opening
+- Hidden Anchorage
+- High-Line Riposte
+- Hold the Future Line
+- Hold the Wake
+- Hullbreaker Strike
+- Hunt the Panic
+- Interlocking Line
+- Issue the Pursuit
+- Keel-Sure Command
+- Keelwalker’s Poise
+- Killbox Reading
+- Lantern of the Black Wake
+- Lantern of the Undertow
+- Last Harbor Promise
+- Loot-Driven Advance
+- Low Feint
+- Map of Ash and Wake
+- March Under Command
+- Mark of Safe Passage
+- Mark the Quarry
+- Marked Expenditure
+- Marlin Strike
+- Mooring Line
+- Murmur of the Hull
+- Named Objective
+- No One Breaks Alone
+- Omen of the Tide
+- Opening Measure
+- Order of the Clean Escape
+- Patient Ambush
+- Pirate’s Surround
+- Plunder Step
+- Predatory Silence
+- Press the Advantage
+- Press the Guard
+- Prize the Deck
+- Pursuit Reading
+- Quartermaster's Eye
+- Quartermaster's Ledger
+- Rake the Deck
+- Read the Wake
+- Read the Wind
+- Recover Balance
+- Reserve the Hold
+- Rime of Calm Waters
+- Rip Tide Counter
+- Rope-Swing Cut
+- Running Tide Advance
+- Salt Circle
+- Salt-Bound Reprieve
+- Salt-Rune Interdict
+- Saltmark Trail
+- Saltwater Parry
+- Scent the Weak Point
+- Sea Legs
+- Sea Ward
+- Sea-Law’s Verdict
+- Shared Burden
+- Ship of the Line
+- Shorefinder
+- Signal Denial
+- Smoke Through the Gaps
+- Sovereign Quarterdeck
+- Sovereign Wake
+- Speak as One Voice
+- Storm Listener
+- Storm-True Bearing
+- Tacking Shift
+- Tactical Relay
+- The Captain Advances
+- The Map Kneels
+- The World Follows the Flag
+- The World Makes Room
+- Through the Needle’s Eye
+- Tidal Resistance
+- Tide of Reprisal
+- Tidehook Maneuver
+- Tideward Insight
+- Tight Formation
+- Tighten the Net
+- Trail Snare
+- Unbroken Bearing
+- Undertow Footing
+- Unnamed Harbor
+- Veil Against Salted Eyes
+- Voice of Final Tempo
+- Volley Timing
+- Wake of Dread Authority
+- Wake-Sense Abjuration
+- Weather the Plunge
+- Whisper Network
+- Whispering Compass
+- Whitecap Passage

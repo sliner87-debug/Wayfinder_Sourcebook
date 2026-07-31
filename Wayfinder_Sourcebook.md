@@ -100,7 +100,7 @@ How you are treated on the rescue ship heavily influences your arrival at the Ho
 
 # Chapter 3: Races & Transformations
 
-The base race of this setting is the **Tideborn Pixie**, but players do not stay "just" pixies. As they explore the oceans, they undergo the **Fey Transformation System**, accumulating templates that reflect the magic, ruins, and pacts they encounter. 
+While the campaign setting supports many races across the Shattered Expanse, the example base race for this specific Wayfinder is the **Tideborn Pixie**. However, characters do not stay "just" their starting race. As they explore the oceans, they undergo the **Fey Transformation System**, accumulating templates that reflect the magic, ruins, and pacts they encounter. 
 
 ## Base Race: Tideborn Pixie
 "A Pixie born from ocean currents, ancient routes, and the forgotten magic between shores."
@@ -193,7 +193,7 @@ At level 1, the Wayfinder awakens a personal spirit companion—the "mirror" of 
 4. **Evolution:** The spirit evolves at levels 5, 10, 15, and 20 based on the captain's actions (e.g., Guardian Aspect, Sage Aspect, Dominator Aspect, Pathfinder Aspect). At level 20, it becomes the embodiment of your legend.
 
 ## The Living Ship Bond
-The ship is your second character. It advances through **Vessel Tiers** via Wayfinder Level, Chronicle Achievements, and Physical Transformation.
+The ship is your second character. It advances through **Vessel Tiers** via Wayfinder level, Chronicle Achievements, and Physical Transformation.
 - **Tier 0 (Mortal Ship):** Normal vessel with maintenance costs.
 - **Tier 1 (Claimed Vessel - Lvl 3):** Ship recognizes you. You sense its condition.
 - **Tier 2 (Awakened Vessel - Lvl 6):** Gains intelligence/personality. Becomes an Arcane, Psionic, or Tide vessel.
@@ -216,7 +216,7 @@ In addition to their magical and vessel progression, a Wayfinder gains **Captain
 A Captain's Technique is not a spell, a maneuver, or a psionic power. It is a legendary trick, habit, doctrine, or philosophy that has become supernatural through repetition and authority. The Wayfinder learns 6 Captain's Techniques over their career (at levels 3, 6, 9, 12, 15, 18), though class features/milestones may grant more.
 
 ## Mechanics
-- **Save DC Formula:** `10 + 1/2 Wayfinder Level + Charisma Modifier`.
+- **Save DC Formula:** `10 + 1/2 Wayfinder level + Charisma Modifier`.
 - **Usage Limits:** Unless stated otherwise, they are generally at-will or have specific per-encounter/per-day limits outlined in their text.
 - **Action Types:** Standard D&D 3.5e actions (Standard, Move, Swift, Immediate, Passive/Special).
   - *Global Rule:* A Wayfinder may only use **one Immediate Action Captain's Technique per round** to prevent reaction bloat.
@@ -1011,7 +1011,7 @@ None
 **Flavor Text:**  
 *A display of the Wayfinder's growing mastery.*
 
-## First Captain Techniques
+## First Captain's Techniques
 
 ### Captain's Reputation
 **Technique Name:** Captain's Reputation  
@@ -2103,7 +2103,7 @@ None
 **Flavor Text:**  
 *A display of the Wayfinder's growing mastery.*
 
-## First Captain Techniques
+## First Captain's Techniques
 
 ### Issue the Pursuit
 **Technique Name:** Issue the Pursuit  
@@ -3153,7 +3153,7 @@ None
 **Flavor Text:**  
 *A display of the Wayfinder's growing mastery.*
 
-## First Captain Techniques
+## First Captain's Techniques
 
 ### Hold the Future Line
 **Technique Name:** Hold the Future Line  
@@ -3712,7 +3712,7 @@ None
 **Flavor Text:**  
 *A display of the Wayfinder's growing mastery.*
 
-## First Captain Techniques
+## First Captain's Techniques
 
 ### First Captain’s Judgment
 **Technique Name:** First Captain’s Judgment  
@@ -5832,7 +5832,7 @@ political restrictions,
 
 supernatural hazards.
 
-Captain Technique Impact
+Captain's Technique Impact
 
 Ask:
 
@@ -6642,7 +6642,7 @@ This chapter contains the finalized progression tables for Captain's Techniques.
 
 ## Captain's Technique Acquisition
 
-| Wayfinder Level | Technique Acquired | Max Tier |
+| Wayfinder level | Technique Acquired | Max Tier |
 | --- | --- | --- |
 | 3rd | 1st | Least |
 | 6th | 2nd | Lesser |
@@ -12242,7 +12242,7 @@ reefs,
 enemy commanders,
 political restrictions,
 supernatural hazards.
-Captain Technique Impact
+Captain's Technique Impact
 Ask:
 “What advantage does this technique create?”
 Examples:
@@ -19037,7 +19037,7 @@ with:
 ChatGPT-Pirate Adventure Setup 2.txt
 Save DC
 Approved:
-10 + 1/2 Wayfinder Level + Charisma Modifier
+10 + 1/2 Wayfinder level + Charisma Modifier
 ChatGPT-Pirate Adventure Setup 2.txt
 7. Comparison Against Existing Systems
 Warlock Invocations
@@ -19667,7 +19667,7 @@ Alphabetical Index
 Player reference
 DM reference
 Condition reference
-Captain Technique reference
+Captain's Technique reference
 6. Printable Advancement Tables
 Needed for:
 class progression
@@ -19697,7 +19697,7 @@ Needs one editorial pass.
 Examples:
 Captain
 Wayﬁnder
-Captain Technique
+Captain's Technique
 Technique
 Spirit
 Navigator Spirit
@@ -19762,7 +19762,7 @@ Political Inﬂuence
 Need long-term sandbox testing.
 E. Recommended Production Order
 Phase 1
-Finalize Captain Technique Archive
+Finalize Captain's Technique Archive
 Phase 2
 Populate Progression Charts
 Phase 3
@@ -19796,7 +19796,7 @@ Campaign Rules ✅  Complete
 Balance Philosophy ✅  Complete
 Player Rules 🟡  Nearly Complete
 DM Rules ✅  Complete
-Captain Technique Framework ✅  Complete
+Captain's Technique Framework ✅  Complete
 Technique Archive 🔴  Missing
 Progression Tables 🔴  Missing
 Example Builds 🔴  Missing
@@ -20454,7 +20454,7 @@ Captain Identity
 Campaign Role
 Minor Terminology Issues
 Some capitalization varies:
-Captain Technique
+Captain's Technique
 Captain's Technique
 Captain's Techniques
 Recommendation:
@@ -20462,7 +20462,7 @@ Use "Captain's Technique" for singular.
 Use "Captain's Techniques" for plural throughout.
 Some archetype names vary slightly:
 Fleet Admiral
-FleetAdmiral
+Fleet Admiral
 Recommendation:
 Standardize to Fleet Admiral.
 Formatting inconsistencies exist with:
@@ -21266,7 +21266,7 @@ Editorial Issues
 Minor
 Singular/plural usage varies.
 Observed forms include:
-Captain Technique
+Captain's Technique
 Captain's Technique
 Captain's Techniques
 🚀  Powered by ChatGPT Exporter 82 / 136
@@ -21286,7 +21286,7 @@ Minor
 Some archetype names appear with inconsistent spacing.
 Example:
 Fleet Admiral
-FleetAdmiral
+Fleet Admiral
 Recommendation:
 Use Fleet Admiral consistently.
 2. Numbering Audit
@@ -22688,6 +22688,193 @@ remember.
 7/31/2026, 7:39:15 AM
 🚀  Powered by ChatGPT Exporter 136 / 136
 
+
+
+---
+
+# Chapter 15: Glossary and Master Index
+
+## Glossary of Terms
+
+- **Captain's Technique:** A magical or extraordinary ability granted by the Wayfinder class, representing the captain's mastery over their vessel, crew, and the elements.
+- **Living Ship:** The Wayfinder's magical vessel, progressing in power alongside the captain. Upgrades via Tiers (Driftwood, Captain's, Legendary, Mythic, Path-Maker).
+- **Navigator Spirit:** A spectral entity or manifestation of the sea's will that guides the Wayfinder.
+- **Shattered Expanse:** The primary setting for the campaign, an ocean dotted with ruins, impossible geography, and shifting magical tides.
+- **Tier:** The power scaling system for Captain's Techniques and Vessels. The four Technique Tiers are Least, Lesser, Greater, and Legendary.
+
+## Master Technique Index
+
+The following is an alphabetical index of every Captain's Technique available in the sourcebook.
+
+- Abyssal Quiet
+- Admiral’s Oath
+- Ambush Route
+- Anchor the Line
+- Banner of the Rising Tide
+- Banners of Every Port
+- Bite of the Chosen Range
+- Black Flag Feint
+- Blood in the Water
+- Bloodline Reading
+- Boarding Hook
+- Boarding Party’s Wake
+- Boarding Rush
+- Boarding Signal
+- Boarding Storm
+- Brace the Spars
+- Breach and Bind
+- Break Their Guard
+- Break the Line
+- Breaker of Blockades
+- Breakwater Surge
+- Cannon-Ready Mind
+- Captain's Challenge
+- Captain's Reputation
+- Captain's Signal
+- Captain's Word
+- Captain’s Duel
+- Captain’s Pressure
+- Captain’s Repositioning
+- Chain the Storm
+- Chart the Unknown
+- Chart the Unseen Coast
+- Claim the Island
+- Claim the Prize
+- Command Vector
+- Command the Wake
+- Commander's Assessment
+- Compass of Names
+- Compel Formation
+- Corner the Escape
+- Corner the Quarry
+- Cover the Retreat
+- Crew Rotation
+- Crew on the Railing
+- Crew’s Second Breath
+- Crosscut Momentum
+- Crossed Steel
+- Crown the Course
+- Cut the Escape
+- Cut the Pursuit
+- Cut the Rigging
+- Cutter’s Line
+- Deadwater Ambush
+- Deckline Coordination
+- Deepward Aura
+- Directive Overwatch
+- Dreadcurrent Ward
+- Duelist’s Claim
+- Duelist’s Denial
+- Echo of the Deep
+- Echo of the Deep Name
+- Expedition Sense
+- False Surrender
+- Favor the Current
+- Find the Weak Board
+- First Captain Ascendant
+- First Captain’s Judgment
+- First Over the Rail
+- First Through the Wake
+- Fleet in the Mind
+- Formation Shift
+- Formation of Iron
+- Grapple the Horizon
+- Harborless Escape
+- Harbormouth Timing
+- Harpoon Opening
+- Hidden Anchorage
+- High-Line Riposte
+- Hold the Future Line
+- Hold the Wake
+- Hullbreaker Strike
+- Hunt the Panic
+- Interlocking Line
+- Issue the Pursuit
+- Keel-Sure Command
+- Keelwalker’s Poise
+- Killbox Reading
+- Lantern of the Black Wake
+- Lantern of the Undertow
+- Last Harbor Promise
+- Loot-Driven Advance
+- Low Feint
+- Map of Ash and Wake
+- March Under Command
+- Mark of Safe Passage
+- Mark the Quarry
+- Marked Expenditure
+- Marlin Strike
+- Mooring Line
+- Murmur of the Hull
+- Named Objective
+- No One Breaks Alone
+- Omen of the Tide
+- Opening Measure
+- Order of the Clean Escape
+- Patient Ambush
+- Pirate’s Surround
+- Plunder Step
+- Predatory Silence
+- Press the Advantage
+- Press the Guard
+- Prize the Deck
+- Pursuit Reading
+- Quartermaster's Eye
+- Quartermaster's Ledger
+- Rake the Deck
+- Read the Wake
+- Read the Wind
+- Recover Balance
+- Reserve the Hold
+- Rime of Calm Waters
+- Rip Tide Counter
+- Rope-Swing Cut
+- Running Tide Advance
+- Salt Circle
+- Salt-Bound Reprieve
+- Salt-Rune Interdict
+- Saltmark Trail
+- Saltwater Parry
+- Scent the Weak Point
+- Sea Legs
+- Sea Ward
+- Sea-Law’s Verdict
+- Shared Burden
+- Ship of the Line
+- Shorefinder
+- Signal Denial
+- Smoke Through the Gaps
+- Sovereign Quarterdeck
+- Sovereign Wake
+- Speak as One Voice
+- Storm Listener
+- Storm-True Bearing
+- Tacking Shift
+- Tactical Relay
+- The Captain Advances
+- The Map Kneels
+- The World Follows the Flag
+- The World Makes Room
+- Through the Needle’s Eye
+- Tidal Resistance
+- Tide of Reprisal
+- Tidehook Maneuver
+- Tideward Insight
+- Tight Formation
+- Tighten the Net
+- Trail Snare
+- Unbroken Bearing
+- Undertow Footing
+- Unnamed Harbor
+- Veil Against Salted Eyes
+- Voice of Final Tempo
+- Volley Timing
+- Wake of Dread Authority
+- Wake-Sense Abjuration
+- Weather the Plunge
+- Whisper Network
+- Whispering Compass
+- Whitecap Passage
 
 
 ---

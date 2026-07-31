@@ -4,7 +4,7 @@ This chapter contains the finalized progression tables for Captain's Techniques.
 
 ## Captain's Technique Acquisition
 
-| Wayfinder Level | Technique Acquired | Max Tier |
+| Wayfinder level | Technique Acquired | Max Tier |
 | --- | --- | --- |
 | 3rd | 1st | Least |
 | 6th | 2nd | Lesser |

@@ -1,6 +1,6 @@
 # Chapter 3: Races & Transformations
 
-The base race of this setting is the **Tideborn Pixie**, but players do not stay "just" pixies. As they explore the oceans, they undergo the **Fey Transformation System**, accumulating templates that reflect the magic, ruins, and pacts they encounter. 
+While the campaign setting supports many races across the Shattered Expanse, the example base race for this specific Wayfinder is the **Tideborn Pixie**. However, characters do not stay "just" their starting race. As they explore the oceans, they undergo the **Fey Transformation System**, accumulating templates that reflect the magic, ruins, and pacts they encounter. 
 
 ## Base Race: Tideborn Pixie
 "A Pixie born from ocean currents, ancient routes, and the forgotten magic between shores."

@@ -467,7 +467,7 @@ Alphabetical Index
 Player reference
 DM reference
 Condition reference
-Captain Technique reference
+Captain's Technique reference
 6. Printable Advancement Tables
 Needed for:
 class progression
@@ -497,7 +497,7 @@ Needs one editorial pass.
 Examples:
 Captain
 Wayﬁnder
-Captain Technique
+Captain's Technique
 Technique
 Spirit
 Navigator Spirit
@@ -562,7 +562,7 @@ Political Inﬂuence
 Need long-term sandbox testing.
 E. Recommended Production Order
 Phase 1
-Finalize Captain Technique Archive
+Finalize Captain's Technique Archive
 Phase 2
 Populate Progression Charts
 Phase 3
@@ -596,7 +596,7 @@ Campaign Rules ✅  Complete
 Balance Philosophy ✅  Complete
 Player Rules 🟡  Nearly Complete
 DM Rules ✅  Complete
-Captain Technique Framework ✅  Complete
+Captain's Technique Framework ✅  Complete
 Technique Archive 🔴  Missing
 Progression Tables 🔴  Missing
 Example Builds 🔴  Missing
@@ -1254,7 +1254,7 @@ Captain Identity
 Campaign Role
 Minor Terminology Issues
 Some capitalization varies:
-Captain Technique
+Captain's Technique
 Captain's Technique
 Captain's Techniques
 Recommendation:
@@ -1262,7 +1262,7 @@ Use "Captain's Technique" for singular.
 Use "Captain's Techniques" for plural throughout.
 Some archetype names vary slightly:
 Fleet Admiral
-FleetAdmiral
+Fleet Admiral
 Recommendation:
 Standardize to Fleet Admiral.
 Formatting inconsistencies exist with:
@@ -2066,7 +2066,7 @@ Editorial Issues
 Minor
 Singular/plural usage varies.
 Observed forms include:
-Captain Technique
+Captain's Technique
 Captain's Technique
 Captain's Techniques
 🚀  Powered by ChatGPT Exporter 82 / 136
@@ -2086,7 +2086,7 @@ Minor
 Some archetype names appear with inconsistent spacing.
 Example:
 Fleet Admiral
-FleetAdmiral
+Fleet Admiral
 Recommendation:
 Use Fleet Admiral consistently.
 2. Numbering Audit

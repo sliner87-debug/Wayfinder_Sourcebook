@@ -5,7 +5,7 @@
 A Captain's Technique is not a spell, a maneuver, or a psionic power. It is a legendary trick, habit, doctrine, or philosophy that has become supernatural through repetition and authority. The Wayfinder learns 6 Captain's Techniques over their career (at levels 3, 6, 9, 12, 15, 18), though class features/milestones may grant more.
 
 ## Mechanics
-- **Save DC Formula:** `10 + 1/2 Wayfinder Level + Charisma Modifier`.
+- **Save DC Formula:** `10 + 1/2 Wayfinder level + Charisma Modifier`.
 - **Usage Limits:** Unless stated otherwise, they are generally at-will or have specific per-encounter/per-day limits outlined in their text.
 - **Action Types:** Standard D&D 3.5e actions (Standard, Move, Swift, Immediate, Passive/Special).
   - *Global Rule:* A Wayfinder may only use **one Immediate Action Captain's Technique per round** to prevent reaction bloat.

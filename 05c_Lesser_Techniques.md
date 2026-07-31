@@ -916,7 +916,7 @@ None
 **Flavor Text:**  
 *A display of the Wayfinder's growing mastery.*
 
-## First Captain Techniques
+## First Captain's Techniques
 
 ### Issue the Pursuit
 **Technique Name:** Issue the Pursuit  

@@ -4641,7 +4641,7 @@ reefs,
 enemy commanders,
 political restrictions,
 supernatural hazards.
-Captain Technique Impact
+Captain's Technique Impact
 Ask:
 “What advantage does this technique create?”
 Examples:
@@ -11436,7 +11436,7 @@ with:
 ChatGPT-Pirate Adventure Setup 2.txt
 Save DC
 Approved:
-10 + 1/2 Wayfinder Level + Charisma Modifier
+10 + 1/2 Wayfinder level + Charisma Modifier
 ChatGPT-Pirate Adventure Setup 2.txt
 7. Comparison Against Existing Systems
 Warlock Invocations

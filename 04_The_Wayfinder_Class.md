@@ -31,7 +31,7 @@ At level 1, the Wayfinder awakens a personal spirit companion—the "mirror" of 
 4. **Evolution:** The spirit evolves at levels 5, 10, 15, and 20 based on the captain's actions (e.g., Guardian Aspect, Sage Aspect, Dominator Aspect, Pathfinder Aspect). At level 20, it becomes the embodiment of your legend.
 
 ## The Living Ship Bond
-The ship is your second character. It advances through **Vessel Tiers** via Wayfinder Level, Chronicle Achievements, and Physical Transformation.
+The ship is your second character. It advances through **Vessel Tiers** via Wayfinder level, Chronicle Achievements, and Physical Transformation.
 - **Tier 0 (Mortal Ship):** Normal vessel with maintenance costs.
 - **Tier 1 (Claimed Vessel - Lvl 3):** Ship recognizes you. You sense its condition.
 - **Tier 2 (Awakened Vessel - Lvl 6):** Gains intelligence/personality. Becomes an Arcane, Psionic, or Tide vessel.

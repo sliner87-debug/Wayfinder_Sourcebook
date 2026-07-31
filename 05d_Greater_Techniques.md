@@ -895,7 +895,7 @@ None
 **Flavor Text:**  
 *A display of the Wayfinder's growing mastery.*
 
-## First Captain Techniques
+## First Captain's Techniques
 
 ### Hold the Future Line
 **Technique Name:** Hold the Future Line  

@@ -1,701 +1,188 @@
-
-Captain’s Techniques Final Progression Charts
-
-Wayfinder Sourcebook - Progression Materials
-
-Status: FRAMEWORK COMPLETE - TECHNIQUE POPULATION PENDING FINAL ARCHIVE
-
-The progression structure is confirmed:
-
-Least → Lesser → Greater → Legendary
-
-with category advancement charts for:
-
-Seamanship
-
-Duelist
-
-Corsair
-
-Fleet
-
-Hunter
-
-Mystic
-
-First Captain
-
-and archetype progression charts for:
-
-Explorer Captain
-
-Storm Captain
-
-Corsair Captain
-
-Fleet Admiral
-
-Pirate King
-
-Mystic Navigator
-
-Duelist Captain
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-However, the complete approved technique lists are not available in the accessible source material. The archive confirms that the final progression charts require the finalized technique database. ChatGPT-Pirate Adventure Setup 2.txt
-
-Because this command requires:
-
-“Use only existing techniques.”
-
-“Do not create new mechanics.”
-
-“Do not change mechanics.”
-
-I cannot invent Lesser, Greater, or Legendary technique names to fill the chart. That would turn a progression document into a redesign document wearing a captain’s hat, which is exactly what this phase is avoiding.
-
-The correct production result is the following finalized chart structure.
-
-1. Category Advancement Charts
-
-Seamanship
-
-Early Identity - Least
-
-Role:
-The captain learns to understand the sea.
-
-Focus:
-
-navigation,
-
-sailing,
-
-environmental awareness,
-
-voyage survival.
-
-Existing foundation examples:
-
-Chart the Unknown
-
-navigation-focused techniques
-
-Mid-Level Specialization - Lesser
-
-Role:
-The captain begins mastering dangerous waters.
-
-Expected development:
-
-advanced navigation,
-
-difficult voyages,
-
-ship mobility,
-
-environmental mastery.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-High-Level Mastery - Greater
-
-Role:
-The captain performs extraordinary maritime feats.
-
-Expected development:
-
-extreme environments,
-
-impossible routes,
-
-advanced exploration.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-Legendary Conclusion - Legendary
-
-Role:
-The captain changes how the world understands the ocean.
-
-Expected development:
-
-world-changing voyages,
-
-supernatural maritime authority,
-
-changing the map itself.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-Duelist
-
-Early Identity - Least
-
-Role:
-A captain who proves authority personally.
-
-Focus:
-
-challenges,
-
-precision,
-
-personal combat.
-
-Mid-Level Specialization - Lesser
-
-Role:
-The captain becomes a recognized combat master.
-
-Expected development:
-
-advanced counters,
-
-officer dueling,
-
-battlefield superiority.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-High-Level Mastery - Greater
-
-Role:
-A legendary combatant among captains.
-
-Expected development:
-
-legendary personal combat,
-
-battlefield influence.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-Legendary Conclusion - Legendary
-
-Role:
-The captain’s personal reputation becomes history.
-
-Expected development:
-
-legendary challenges,
-
-unmatched authority through combat.
-
-Corsair
-
-Early Identity - Least
-
-Role:
-The raider learns disruption.
-
-Focus:
-
-boarding,
-
-exploiting weaknesses,
-
-hostile encounters.
-
-Foundation example:
-
-Find the Weak Board
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-Mid-Level Specialization - Lesser
-
-Role:
-The captain becomes a feared raider.
-
-Expected development:
-
-boarding dominance,
-
-siege tactics,
-
-enemy disruption.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-High-Level Mastery - Greater
-
-Role:
-The captain threatens major defenses.
-
-Expected development:
-
-ship destruction,
-
-siege warfare,
-
-operational attacks.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-Legendary Conclusion - Legendary
-
-Role:
-The captain becomes a force that can reshape conflicts.
-
-Expected development:
-
-legendary raids,
-
-maritime conquest.
-
-Fleet
-
-Early Identity - Least
-
-Role:
-The captain learns crew coordination.
-
-Focus:
-
-organization,
-
-teamwork,
-
-command.
-
-Mid-Level Specialization - Lesser
-
-Role:
-The captain commands multiple units.
-
-Expected development:
-
-squad command,
-
-formations,
-
-coordinated attacks.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-High-Level Mastery - Greater
-
-Role:
-The captain controls battlefield operations.
-
-Expected development:
-
-advanced fleet command,
-
-large-scale tactical influence.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-Legendary Conclusion - Legendary
-
-Role:
-The captain commands fleets remembered by history.
-
-Expected development:
-
-fleet-scale warfare,
-
-strategic naval authority.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-Hunter
-
-Early Identity - Least
-
-Role:
-The captain learns pursuit.
-
-Focus:
-
-tracking,
-
-reconnaissance,
-
-interception.
-
-Mid-Level Specialization - Lesser
-
-Role:
-The captain becomes an expert pursuer.
-
-Expected development:
-
-advanced tracking,
-
-reconnaissance,
-
-interception.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-High-Level Mastery - Greater
-
-Role:
-The captain can hunt nearly anything.
-
-Expected development:
-
-master pursuit,
-
-advanced intelligence.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-Legendary Conclusion - Legendary
-
-Role:
-The captain becomes the hunter of legends.
-
-Expected development:
-
-world-spanning pursuit,
-
-impossible targets.
-
-Mystic
-
-Early Identity - Least
-
-Role:
-The captain senses the hidden ocean.
-
-Focus:
-
-omens,
-
-supernatural navigation,
-
-storms.
-
-Mid-Level Specialization - Lesser
-
-Role:
-The captain interacts with supernatural seas.
-
-Expected development:
-
-sea magic,
-
-omens,
-
-storm interaction.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-High-Level Mastery - Greater
-
-Role:
-The captain commands supernatural maritime forces.
-
-Expected development:
-
-supernatural mastery,
-
-storm authority.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-Legendary Conclusion - Legendary
-
-Role:
-The ocean itself recognizes the captain.
-
-Expected development:
-
-supernatural maritime authority,
-
-impossible voyages.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-First Captain
-
-Early Identity - Least
-
-Role:
-The captain begins building authority.
-
-Focus:
-
-reputation,
-
-logistics,
-
-organization.
-
-Foundation examples:
-
-Captain’s Reputation
-
-Quartermaster’s Ledger
-
-Banner of the Rising Tide
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-Mid-Level Specialization - Lesser
-
-Role:
-The captain gains regional influence.
-
-Expected development:
-
-logistics,
-
-diplomacy,
-
-espionage foundations.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-High-Level Mastery - Greater
-
-Role:
-The captain becomes a regional power.
-
-Expected development:
-
-organizations,
-
-infrastructure,
-
-intelligence networks.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-Legendary Conclusion - Legendary
-
-Role:
-The captain becomes a historical maritime authority.
-
-Expected development:
-
-territories,
-
-fleets,
-
-trade routes,
-
-political influence.
-
-ChatGPT-Pirate Adventure Setup 2.txt
-
-2. Captain Archetype Progression Paths
-
-Explorer Captain
-
-Primary Categories:
-
-Seamanship
-
-Hunter
-
-Mystic
-
-Progression:
-
-Least:
-Discovery and survival foundation
-
-↓
-Lesser:
-Advanced exploration capability
-
-↓
-Greater:
-Impossible voyages and hidden locations
-
-↓
-Legendary:
-World-changing exploration
-
-Storm Captain
-
-Primary Categories:
-
-Seamanship
-
-Mystic
-
-Progression:
-
-Least:
-Understanding storms
-
-↓
-Lesser:
-Operating within dangerous weather
-
-↓
-Greater:
-Mastering storms
-
-↓
-Legendary:
-Commanding supernatural seas
-
-Corsair Captain
-
-Primary Categories:
-
-Corsair
-
-Hunter
-
-Progression:
-
-Least:
-Boarding and exploitation
-
-↓
-Lesser:
-Raiding specialization
-
-↓
-Greater:
-Siege and operational warfare
-
-↓
-Legendary:
-Legendary maritime threat
-
-Fleet Admiral
-
-Primary Categories:
-
-Fleet
-
-First Captain
-
-Progression:
-
-Least:
-Crew leadership
-
-↓
-Lesser:
-Squad and formation command
-
-↓
-Greater:
-Fleet operations
-
-↓
-Legendary:
-Historical naval command
-
-Pirate King
-
-Primary Categories:
-
-First Captain
-
-Corsair
-
-Progression:
-
-Least:
-Reputation begins
-
-↓
-Lesser:
-Regional influence
-
-↓
-Greater:
-Organizations and territory
-
-↓
-Legendary:
-Maritime sovereignty
-
-Mystic Navigator
-
-Primary Categories:
-
-Mystic
-
-Seamanship
-
-Progression:
-
-Least:
-Reading hidden signs
-
-↓
-Lesser:
-Supernatural navigation
-
-↓
-Greater:
-Mastering impossible routes
-
-↓
-Legendary:
-Changing the known map
-
-Duelist Captain
-
-Primary Categories:
-
-Duelist
-
-First Captain
-
-Progression:
-
-Least:
-Personal authority
-
-↓
-Lesser:
-Recognized mastery
-
-↓
-Greater:
-Legendary combat presence
-
-↓
-Legendary:
-Historical reputation
-
-3. Production Validation
-
-Completed
-
-✅ Progression structure
-✅ Category identities
-✅ Tier purpose
-✅ Archetype paths
-✅ No mechanics changed
-✅ No new techniques created
-
-Pending
-
-The final chart population requires:
-
-Captain's Techniques Final Archive
-
-├── Least Techniques
-├── Lesser Techniques
-├── Greater Techniques
-└── Legendary Techniques
-
-Once supplied, these charts can be converted into the final sourcebook tables with:
-
-exact technique names,
-
-level bands,
-
-category assignments,
-
-build recommendations.
-
-Current status:
-
-Progression Framework: COMPLETE
-Technique-Specific Progression Charts: WAITING ON FINAL TECHNIQUE ARCHIVE
-
+# Chapter 11: Progression Charts
+
+This chapter contains the finalized progression tables for Captain's Techniques.
+
+## Captain's Technique Acquisition
+
+| Wayfinder Level | Technique Acquired | Max Tier |
+| --- | --- | --- |
+| 3rd | 1st | Least |
+| 6th | 2nd | Lesser |
+| 9th | 3rd | Lesser |
+| 12th | 4th | Greater |
+| 15th | 5th | Greater |
+| 18th | 6th | Legendary |
+
+## Complete Technique Lookup
+
+| Technique Name | Category | Tier | Action Type |
+| --- | --- | --- | --- |
+| Boarding Hook | Corsair | Least | Move |
+| Break the Line | Corsair | Least | Standard |
+| Claim the Prize | Corsair | Least | Swift |
+| False Surrender | Corsair | Least | Standard |
+| Find the Weak Board | Corsair | Least | Standard |
+| First Over the Rail | Corsair | Least | Move |
+| Boarding Party’s Wake | Corsair | Lesser | Immediate |
+| Boarding Rush | Corsair | Lesser | Standard |
+| Cut the Rigging | Corsair | Lesser | Standard |
+| Grapple the Horizon | Corsair | Lesser | Move |
+| Plunder Step | Corsair | Lesser | Swift |
+| Rake the Deck | Corsair | Lesser | Standard |
+| Smoke Through the Gaps | Corsair | Lesser | Move |
+| Black Flag Feint | Corsair | Greater | Swift |
+| Boarding Storm | Corsair | Greater | Full-round |
+| Hullbreaker Strike | Corsair | Greater | Standard |
+| Loot-Driven Advance | Corsair | Greater | Swift |
+| Pirate’s Surround | Corsair | Greater | Immediate |
+| Prize the Deck | Corsair | Greater | Standard |
+| Rope-Swing Cut | Corsair | Greater | Move |
+| Captain's Challenge | Duelist | Least | Swift |
+| Crossed Steel | Duelist | Least | Immediate |
+| Low Feint | Duelist | Least | Swift |
+| Opening Measure | Duelist | Least | Swift |
+| Press the Guard | Duelist | Least | Standard |
+| Recover Balance | Duelist | Least | Immediate |
+| Breach and Bind | Duelist | Lesser | Standard |
+| Captain’s Pressure | Duelist | Lesser | Move |
+| Cutter’s Line | Duelist | Lesser | Swift |
+| Duelist’s Claim | Duelist | Lesser | Swift |
+| Harpoon Opening | Duelist | Lesser | Standard |
+| Rip Tide Counter | Duelist | Lesser | Immediate |
+| Saltwater Parry | Duelist | Lesser | Immediate |
+| Bloodline Reading | Duelist | Greater | Move |
+| Break Their Guard | Duelist | Greater | Standard |
+| Captain’s Duel | Duelist | Greater | Swift |
+| Crosscut Momentum | Duelist | Greater | Standard |
+| Cut the Escape | Duelist | Greater | Swift |
+| Duelist’s Denial | Duelist | Greater | Immediate |
+| High-Line Riposte | Duelist | Greater | Immediate |
+| Admiral’s Oath | Duelist | Legendary | 10-min ritual |
+| Chain the Storm | Duelist | Legendary | Full-round |
+| Cut the Pursuit | Duelist | Legendary | 1-hour ritual |
+| Fleet in the Mind | Duelist | Legendary | Standard |
+| Ship of the Line | Duelist | Legendary | Full-round |
+| Sovereign Quarterdeck | Duelist | Legendary | 1-hour ritual |
+| The World Makes Room | Duelist | Legendary | Standard |
+| Through the Needle’s Eye | Duelist | Legendary | Immediate |
+| Tide of Reprisal | Duelist | Legendary | Immediate |
+| Wake of Dread Authority | Duelist | Legendary | Standard |
+| Banner of the Rising Tide | First Captain | Least | Standard |
+| Captain's Reputation | First Captain | Least | Passive |
+| Captain's Word | First Captain | Least | Standard |
+| Commander's Assessment | First Captain | Least | Standard |
+| Mark of Safe Passage | First Captain | Least | Standard |
+| Quartermaster's Ledger | First Captain | Least | Passive |
+| Reserve the Hold | First Captain | Least | Special |
+| Whisper Network | First Captain | Least | Passive |
+| Anchor the Line | First Captain | Lesser | Standard |
+| Captain’s Repositioning | First Captain | Lesser | Immediate |
+| First Through the Wake | First Captain | Lesser | Standard |
+| Issue the Pursuit | First Captain | Lesser | Swift |
+| Order of the Clean Escape | First Captain | Lesser | Standard |
+| Speak as One Voice | First Captain | Lesser | Swift |
+| Unbroken Bearing | First Captain | Lesser | Immediate |
+| Compel Formation | First Captain | Greater | Standard |
+| Directive Overwatch | First Captain | Greater | Immediate |
+| Hold the Future Line | First Captain | Greater | Swift |
+| March Under Command | First Captain | Greater | Move |
+| Named Objective | First Captain | Greater | Standard |
+| No One Breaks Alone | First Captain | Greater | Immediate |
+| The Captain Advances | First Captain | Greater | Immediate |
+| Voice of Final Tempo | First Captain | Greater | Swift |
+| Banners of Every Port | First Captain | Legendary | Standard |
+| Claim the Island | First Captain | Legendary | 8-hour ritual |
+| First Captain Ascendant | First Captain | Legendary | Swift |
+| First Captain’s Judgment | First Captain | Legendary | Swift |
+| Last Harbor Promise | First Captain | Legendary | 1-hour ritual |
+| Sea-Law’s Verdict | First Captain | Legendary | Standard |
+| The World Follows the Flag | First Captain | Legendary | 1-hour ritual |
+| Captain's Signal | Fleet | Least | Swift |
+| Cover the Retreat | Fleet | Least | Immediate |
+| Crew Rotation | Fleet | Least | Immediate |
+| Quartermaster's Eye | Fleet | Least | Standard |
+| Shared Burden | Fleet | Least | Standard |
+| Tight Formation | Fleet | Least | Standard |
+| Cannon-Ready Mind | Fleet | Lesser | Standard |
+| Command Vector | Fleet | Lesser | Swift |
+| Crew’s Second Breath | Fleet | Lesser | Swift |
+| Deckline Coordination | Fleet | Lesser | Standard |
+| Formation Shift | Fleet | Lesser | Move |
+| Hold the Wake | Fleet | Lesser | Immediate |
+| Signal Denial | Fleet | Lesser | Immediate |
+| Tighten the Net | Fleet | Lesser | Standard |
+| Boarding Signal | Fleet | Greater | Standard |
+| Command the Wake | Fleet | Greater | Swift |
+| Crew on the Railing | Fleet | Greater | Immediate |
+| Formation of Iron | Fleet | Greater | Full-round |
+| Interlocking Line | Fleet | Greater | Immediate |
+| Press the Advantage | Fleet | Greater | Swift |
+| Tactical Relay | Fleet | Greater | Swift |
+| Volley Timing | Fleet | Greater | Standard |
+| Ambush Route | Hunter | Least | Standard |
+| Expedition Sense | Hunter | Least | Passive/Special |
+| Hidden Anchorage | Hunter | Least | Passive |
+| Mark the Quarry | Hunter | Least | Swift |
+| Read the Wake | Hunter | Least | Standard |
+| Saltmark Trail | Hunter | Least | Standard |
+| Bite of the Chosen Range | Hunter | Lesser | Swift |
+| Blood in the Water | Hunter | Lesser | Immediate |
+| Corner the Quarry | Hunter | Lesser | Standard |
+| Patient Ambush | Hunter | Lesser | Full-round |
+| Predatory Silence | Hunter | Lesser | Swift |
+| Pursuit Reading | Hunter | Lesser | Standard |
+| Trail Snare | Hunter | Lesser | Standard |
+| Corner the Escape | Hunter | Greater | Immediate |
+| Deadwater Ambush | Hunter | Greater | Full-round |
+| Hunt the Panic | Hunter | Greater | Swift |
+| Killbox Reading | Hunter | Greater | Standard |
+| Marked Expenditure | Hunter | Greater | Standard |
+| Marlin Strike | Hunter | Greater | Standard |
+| Scent the Weak Point | Hunter | Greater | Move |
+| Echo of the Deep | Mystic | Least | Standard |
+| Omen of the Tide | Mystic | Least | Standard |
+| Salt Circle | Mystic | Least | Standard |
+| Sea Ward | Mystic | Least | Standard |
+| Storm Listener | Mystic | Least | Passive |
+| Whispering Compass | Mystic | Least | Standard |
+| Deepward Aura | Mystic | Lesser | Swift |
+| Lantern of the Black Wake | Mystic | Lesser | Standard |
+| Murmur of the Hull | Mystic | Lesser | Standard |
+| Rime of Calm Waters | Mystic | Lesser | Standard |
+| Salt-Bound Reprieve | Mystic | Lesser | Immediate |
+| Tideward Insight | Mystic | Lesser | Standard |
+| Veil Against Salted Eyes | Mystic | Lesser | Immediate |
+| Abyssal Quiet | Mystic | Greater | Swift |
+| Dreadcurrent Ward | Mystic | Greater | Immediate |
+| Echo of the Deep Name | Mystic | Greater | Standard |
+| Lantern of the Undertow | Mystic | Greater | Standard |
+| Salt-Rune Interdict | Mystic | Greater | Immediate |
+| Tidal Resistance | Mystic | Greater | Swift |
+| Wake-Sense Abjuration | Mystic | Greater | Standard |
+| Chart the Unknown | Seamanship | Least | Standard |
+| Favor the Current | Seamanship | Least | Swift |
+| Mooring Line | Seamanship | Least | Move |
+| Read the Wind | Seamanship | Least | Standard |
+| Sea Legs | Seamanship | Least | Passive |
+| Shorefinder | Seamanship | Least | Passive |
+| Brace the Spars | Seamanship | Lesser | Immediate |
+| Harbormouth Timing | Seamanship | Lesser | Standard |
+| Keelwalker’s Poise | Seamanship | Lesser | Swift |
+| Running Tide Advance | Seamanship | Lesser | Swift |
+| Storm-True Bearing | Seamanship | Lesser | Standard |
+| Tacking Shift | Seamanship | Lesser | Move |
+| Weather the Plunge | Seamanship | Lesser | Immediate |
+| Breakwater Surge | Seamanship | Greater | Standard |
+| Harborless Escape | Seamanship | Greater | Standard |
+| Keel-Sure Command | Seamanship | Greater | Immediate |
+| Tidehook Maneuver | Seamanship | Greater | Standard |
+| Undertow Footing | Seamanship | Greater | Swift |
+| Whitecap Passage | Seamanship | Greater | Move |
+| Breaker of Blockades | Seamanship | Legendary | Standard |
+| Chart the Unseen Coast | Seamanship | Legendary | Standard |
+| Compass of Names | Seamanship | Legendary | 1-min ritual |
+| Crown the Course | Seamanship | Legendary | 1-hour ritual |
+| Map of Ash and Wake | Seamanship | Legendary | 10-min ritual |
+| Sovereign Wake | Seamanship | Legendary | Swift |
+| The Map Kneels | Seamanship | Legendary | 1-hour ritual |
+| Unnamed Harbor | Seamanship | Legendary | 10-min ritual |

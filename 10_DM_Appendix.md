@@ -982,3 +982,24 @@ perform final layout pass.
 
 The captain now has a rulebook for changing the world without accidentally deleting the campaign. A surprisingly difficult standard for fictional people who insist on naming ships after storms and then being shocked when storms happen.
 
+
+## NPC Captains and Villain Builds
+To seamlessly integrate Captain's Techniques into your campaign, you can assign them to notable NPCs and recurring villains.
+
+### Low-Level Rival: The Upstart Corsair (CR 4)
+- **Role:** Aggressive privateer or early campaign antagonist.
+- **Techniques:** Find the Weak Board (Least Corsair), Sea Legs (Least Seamanship).
+- **Tactics:** Relies on aggressive boarding actions and environmental hazards to overwhelm the party's ship.
+
+### Mid-Level Antagonist: The Fleet Commander (CR 10)
+- **Role:** Leader of a regional naval force or pirate armada.
+- **Techniques:** Crew Rotation (Least Fleet), Captain's Challenge (Least Duelist), plus Lesser Fleet techniques.
+- **Tactics:** Engages at scale, using formations and coordinated bombardments before closing for a dramatic duel.
+
+### Legendary Villain: The Immortal Pirate King (CR 19)
+- **Role:** Campaign-ending threat with world-shaping influence.
+- **Techniques:** Reserve the Hold (Least First Captain), Whispering Compass (Least Mystic), plus Greater and Legendary Corsair/First Captain techniques.
+- **Tactics:** Operates on a strategic level, controlling factions and impossible routes. Rarely fights directly unless backed by overwhelming supernatural support.
+
+## Treasure Considerations
+When awarding treasure to a party with a Wayfinder, consider items that enhance their chosen techniques rather than just raw stats. For example, a spyglass that grants bonus uses of *Chart the Unknown* or an enchanted cutlass that augments the *Captain's Challenge* technique.

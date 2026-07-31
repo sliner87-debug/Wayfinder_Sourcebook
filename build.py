@@ -11,7 +11,12 @@ files = [
     "05d_Greater_Techniques.md",
     "05e_Legendary_Techniques.md",
     "06_Campaign_Engines.md",
-    "07_DMs_Guide.md"
+    "07_DMs_Guide.md",
+    "08_Player_Guide.md",
+    "09_DM_Integration.md",
+    "10_DM_Appendix.md",
+    "11_Progression_Charts.md",
+    "12_Visual_Production_Plan.md"
 ]
 
 combined = "# Wayfinder Corsair Campaign Setting & Rulebook\n\n"

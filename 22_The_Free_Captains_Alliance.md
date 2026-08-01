@@ -68,3 +68,21 @@ The Free Captains do not have a uniform standing navy. They fight a guerrilla wa
 - **Naval Fleet Composition:** A chaotic mix of everything. Stolen Dominion frigates, retrofitted Consortium merchantmen, and custom-built, impossibly fast blockade runners. No two ships look alike.
 - **Combat Tactics:** Speed and surprise. They rely on ambush tactics, utilizing thick fog (often magically summoned), narrow straits, and boarding actions. They prefer to capture ships intact rather than sink them.
 - **Shipboard Weaponry:** A mix of traditional black-powder cannons (which they favor for their reliability), scavenged Arcane Ballistae, and whatever experimental, highly volatile First Captain weaponry they managed to salvage.
+
+## 7. Notable Figures
+
+- **Pirate King "Hurricane" Jax:** The boisterous, dangerously unpredictable leader of the Brethren Court. A Storm Sorcerer who claims to have won his crown in a drinking contest with a kraken. 
+- **Captain Elara "Ghost-Wake" Vance:** A brilliant tactician and defector from the Crimson Dominion's Magi-Officers. She commands the *Reckoning*, a heavily modified frigate dedicated solely to hunting Dominion slaver ships.
+- **Quartermaster Thatch:** The pragmatic, ruthless manager of Blackwake's "Chop Shop." If you need a stolen ship's identity scrubbed or a cursed artifact fenced, Thatch is the man to see.
+
+## 8. Player Character Integration
+
+- **Best Fit Backgrounds:** Sailor, Pirate, Criminal, Folk Hero, Entertainer.
+- **Favored Classes:** Fighter (Battle Master, Champion), Rogue (Swashbuckler, Thief), Barbarian (Storm Herald, Berserker), Sorcerer (Storm Sorcery).
+- **Roleplay Hook:** A Free Captain PC might be a newly minted Wayfinder looking to make a name for themselves, a runaway seeking true freedom, or an exiled noble seeking revenge against the faction that wronged them.
+
+## 9. Unique Regional Assets
+
+- **Black-Powder Firearms:** The Alliance is the primary manufacturer and user of flintlock pistols and muskets. While less reliable than a wand, they don't require magical aptitude to blow a hole in a Dominion marine.
+- **Scavenger Sails:** Canvas sails patched with the hides of minor elementals or sea monsters, allowing a ship to catch magical Aether winds that normal canvas would tear in.
+- **The Corsair's Coin:** A magically minted coin given to Sworn Crew. It acts as a token of safe passage in Blackwake Harbor and can cast *Sending* once to contact the ship's Quartermaster in an emergency.

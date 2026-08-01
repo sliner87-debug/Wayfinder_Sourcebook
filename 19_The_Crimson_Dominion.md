@@ -71,3 +71,21 @@ The Crimson Armada is the most feared sight on the Charted Waters.
 - **Ship Design:** Dominion ships are built for intimidation. They are angular, heavily armored with dark iron plating, and painted a stark, blood crimson. They do not rely solely on sails; their massive flagships are propelled by bound fire and water elementals churning paddlewheels.
 - **Shipboard Weaponry:** Instead of cannons, they use Arcane Ballistae that fire enchanted bolts, and batteries of battle-mages trained to volley *Lightning Bolt* and *Fireball* in synchronized strikes.
 - **Boarding Tactics:** The Iron Legion does not swing over on ropes. Dominion ships use magical grappling hooks that forcefully drag enemy ships against their armored hulls, while Magi cast *Hold Person* and *Web* to paralyze the enemy crew before the heavily armored marines march across the gangplanks.
+
+## 7. Notable Figures
+
+- **High Admiral Vane:** The ruthless, calculating leader of the Arcane Admiralty. A master Evoker who lost an arm in a pirate raid and replaced it with a prosthetic forged of living magma. He seeks to completely eradicate the Free Captains.
+- **Inquisitor Kaelen:** The terrifying head of the Dominion's psionic secret police. Kaelen is rarely seen, preferring to project his consciousness into the minds of his agents. He is currently obsessed with rooting out the Liberation Front.
+- **Arbiter Zyla:** A highly decorated Magi-Officer who secretly sympathizes with the abolitionists. She commands the frigate *Iron Resolution* and occasionally turns a blind eye to smuggler vessels carrying escaped slaves.
+
+## 8. Player Character Integration
+
+- **Best Fit Backgrounds:** Soldier, Sage, Acolyte, Noble, Prisoner (The Bound).
+- **Favored Classes:** Wizard (Evocation, Abjuration), Fighter (Eldritch Knight, Battle Master), Artificer (Artillerist). 
+- **Roleplay Hook:** A Dominion PC might be a loyalist trying to prove their worth, an exiled mage who grew a conscience, or a former slave (The Bound) seeking bloody vengeance against their former masters.
+
+## 9. Unique Regional Assets
+
+- **Arcane Ballistae:** Siege weapons that don't use ammunition. They draw on the operator's spell slots (or a bound elemental core) to fire bolts of raw force damage.
+- **Crimson Iron:** A dense, magically treated steel that grants Resistance to Fire damage. It is incredibly heavy, requiring specialized ship designs to stay buoyant.
+- **Wands of the Line:** Standard-issue evocation wands given to Magi-Officers, which can be slotted into shipboard amplification arrays to cast extended-range *Fireballs* during naval combat.

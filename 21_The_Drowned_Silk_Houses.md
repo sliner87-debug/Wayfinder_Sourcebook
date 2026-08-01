@@ -67,3 +67,21 @@ The Drow do not fight fair. They strike from the shadows, cripple their enemies,
 - **Naval Fleet Composition:** They do not use wooden sailing ships. They utilize biological submarines—massive, hollowed-out, undead sea leviathans (like giant armored squids or skeletal whales) piloted by Necromancers. 
 - **Combat Tactics:** They attack from below. Their "ships" breach the surface, deploying elite boarding parties that use innate darkness magic to blind the enemy crew. 
 - **Shipboard Weaponry:** They do not use cannons. They use sonic projectors that can shatter wooden hulls, and magical torpedoes that rapidly freeze the water around an enemy ship, trapping it in ice.
+
+## 7. Notable Figures
+
+- **Matron Viconia:** The ancient, terrifying head of House Xorlarrin. She is a master of Deep Magic and seeks to completely collapse the surface world's trade network by manipulating the Free Captains into war with the Dominion.
+- **Jarlaxle Baenre:** The charismatic, flamboyant leader of Bregan D'aerthe. He operates on the surface more than any other Drow, dealing in secrets, assassinations, and rare magical artifacts. He views the surface world as highly entertaining.
+- **Vhaeraun's Blade (Zin):** A heavily scarred, silent male assassin of the Crimson Guard who has begun questioning the absolute rule of the Matron Mothers after encountering a surface-dwelling Cleric of Eilistraee.
+
+## 8. Player Character Integration
+
+- **Best Fit Backgrounds:** Outlander, Urchin, Spy, Faction Agent, Prisoner (Thrall).
+- **Favored Classes:** Rogue (Assassin, Arcane Trickster), Ranger (Gloom Stalker), Sorcerer (Aberrant Mind, Shadow), Cleric (Trickery).
+- **Roleplay Hook:** A Drow PC is almost certainly an exile, a runaway Thrall, or a Bregan D'aerthe mercenary acting as a "consultant" for a Wayfinder crew. Trust will be a major, ongoing roleplay element.
+
+## 9. Unique Regional Assets
+
+- **Sonic Projectors:** Cannons that fire concentrated blasts of sound instead of iron balls. Highly effective at shattering wood and deafening surface crews.
+- **Piwafwi (Cloak of Elvenkind):** Drow cloaks woven from spider silk and infused with shadow magic, granting superior stealth. They degrade rapidly if exposed to direct sunlight for extended periods.
+- **Deep-Breather Gills:** Biological symbiotes (often looking like a slimy collar) forced upon Thralls that allow them to breathe underwater but cause intense pain if they remain out of the water for too long.

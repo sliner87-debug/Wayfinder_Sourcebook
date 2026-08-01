@@ -23062,6 +23062,24 @@ The Crimson Armada is the most feared sight on the Charted Waters.
 - **Shipboard Weaponry:** Instead of cannons, they use Arcane Ballistae that fire enchanted bolts, and batteries of battle-mages trained to volley *Lightning Bolt* and *Fireball* in synchronized strikes.
 - **Boarding Tactics:** The Iron Legion does not swing over on ropes. Dominion ships use magical grappling hooks that forcefully drag enemy ships against their armored hulls, while Magi cast *Hold Person* and *Web* to paralyze the enemy crew before the heavily armored marines march across the gangplanks.
 
+## 7. Notable Figures
+
+- **High Admiral Vane:** The ruthless, calculating leader of the Arcane Admiralty. A master Evoker who lost an arm in a pirate raid and replaced it with a prosthetic forged of living magma. He seeks to completely eradicate the Free Captains.
+- **Inquisitor Kaelen:** The terrifying head of the Dominion's psionic secret police. Kaelen is rarely seen, preferring to project his consciousness into the minds of his agents. He is currently obsessed with rooting out the Liberation Front.
+- **Arbiter Zyla:** A highly decorated Magi-Officer who secretly sympathizes with the abolitionists. She commands the frigate *Iron Resolution* and occasionally turns a blind eye to smuggler vessels carrying escaped slaves.
+
+## 8. Player Character Integration
+
+- **Best Fit Backgrounds:** Soldier, Sage, Acolyte, Noble, Prisoner (The Bound).
+- **Favored Classes:** Wizard (Evocation, Abjuration), Fighter (Eldritch Knight, Battle Master), Artificer (Artillerist). 
+- **Roleplay Hook:** A Dominion PC might be a loyalist trying to prove their worth, an exiled mage who grew a conscience, or a former slave (The Bound) seeking bloody vengeance against their former masters.
+
+## 9. Unique Regional Assets
+
+- **Arcane Ballistae:** Siege weapons that don't use ammunition. They draw on the operator's spell slots (or a bound elemental core) to fire bolts of raw force damage.
+- **Crimson Iron:** A dense, magically treated steel that grants Resistance to Fire damage. It is incredibly heavy, requiring specialized ship designs to stay buoyant.
+- **Wands of the Line:** Standard-issue evocation wands given to Magi-Officers, which can be slotted into shipboard amplification arrays to cast extended-range *Fireballs* during naval combat.
+
 
 ---
 
@@ -23138,6 +23156,24 @@ The Consortium's military is entirely privatized. They do not have citizens defe
 - **Shipboard Weaponry:** They prioritize defense. Their ships are equipped with advanced Abjuration shielding, enchanted sails for speed, and magical flares to summon nearby mercenary fleets.
 - **Combat Tactics:** They prefer to buy off enemies. If forced into a fight, they rely on overwhelming, expensive firepower (e.g., mercenaries armed with wands and enchanted ammunition) and rapid tactical retreats to protect their investments.
 
+## 7. Notable Figures
+
+- **High Factor Vance:** Head of the Gold Scale (the central banking guild). A meticulously dressed, incredibly wealthy human who treats geopolitics like a ledger. He is currently funding Salvager expeditions to secure First Captain weapons.
+- **Guildmaster Seraphina:** Leader of the Spice Cartel. She secretly employs a massive network of Free Captain privateers to sabotage her rivals' shipments, all while maintaining plausible deniability.
+- **Captain "Ironclad" Thorne:** Commander of the *Golden Defender*, the flagship of the Gold Cloaks. A highly paid mercenary who cares only for his contract, completely devoid of personal morality.
+
+## 8. Player Character Integration
+
+- **Best Fit Backgrounds:** Guild Artisan, Charlatan, Criminal/Spy, Sailor, Noble.
+- **Favored Classes:** Rogue (Swashbuckler, Mastermind), Bard (College of Eloquence), Warlock (The Fathomless - flavored as a contract with a sea entity), Wizard (Divination, Illusion).
+- **Roleplay Hook:** A Consortium PC might be a mid-level manager trying to climb the corporate ladder, a debt-dodger on the run from the Gold Cloaks, or a corporate spy embedded in another faction.
+
+## 9. Unique Regional Assets
+
+- **Abjuration Shield Emitters:** Expensive ship modifications that project a temporary, regenerative forcefield around the hull, absorbing a set amount of damage before shattering.
+- **Contract Marks:** Magical tattoos given to indentured laborers or sworn mercenaries. They act as tracking devices and can inflict pain if the wearer breaches their contract.
+- **Golden Fire:** A highly volatile, alchemically modified Greek Fire that burns even underwater. The Consortium sells it at a premium.
+
 
 ---
 
@@ -23210,6 +23246,24 @@ The Drow do not fight fair. They strike from the shadows, cripple their enemies,
 - **Naval Fleet Composition:** They do not use wooden sailing ships. They utilize biological submarines—massive, hollowed-out, undead sea leviathans (like giant armored squids or skeletal whales) piloted by Necromancers. 
 - **Combat Tactics:** They attack from below. Their "ships" breach the surface, deploying elite boarding parties that use innate darkness magic to blind the enemy crew. 
 - **Shipboard Weaponry:** They do not use cannons. They use sonic projectors that can shatter wooden hulls, and magical torpedoes that rapidly freeze the water around an enemy ship, trapping it in ice.
+
+## 7. Notable Figures
+
+- **Matron Viconia:** The ancient, terrifying head of House Xorlarrin. She is a master of Deep Magic and seeks to completely collapse the surface world's trade network by manipulating the Free Captains into war with the Dominion.
+- **Jarlaxle Baenre:** The charismatic, flamboyant leader of Bregan D'aerthe. He operates on the surface more than any other Drow, dealing in secrets, assassinations, and rare magical artifacts. He views the surface world as highly entertaining.
+- **Vhaeraun's Blade (Zin):** A heavily scarred, silent male assassin of the Crimson Guard who has begun questioning the absolute rule of the Matron Mothers after encountering a surface-dwelling Cleric of Eilistraee.
+
+## 8. Player Character Integration
+
+- **Best Fit Backgrounds:** Outlander, Urchin, Spy, Faction Agent, Prisoner (Thrall).
+- **Favored Classes:** Rogue (Assassin, Arcane Trickster), Ranger (Gloom Stalker), Sorcerer (Aberrant Mind, Shadow), Cleric (Trickery).
+- **Roleplay Hook:** A Drow PC is almost certainly an exile, a runaway Thrall, or a Bregan D'aerthe mercenary acting as a "consultant" for a Wayfinder crew. Trust will be a major, ongoing roleplay element.
+
+## 9. Unique Regional Assets
+
+- **Sonic Projectors:** Cannons that fire concentrated blasts of sound instead of iron balls. Highly effective at shattering wood and deafening surface crews.
+- **Piwafwi (Cloak of Elvenkind):** Drow cloaks woven from spider silk and infused with shadow magic, granting superior stealth. They degrade rapidly if exposed to direct sunlight for extended periods.
+- **Deep-Breather Gills:** Biological symbiotes (often looking like a slimy collar) forced upon Thralls that allow them to breathe underwater but cause intense pain if they remain out of the water for too long.
 
 
 ---
@@ -23285,6 +23339,24 @@ The Free Captains do not have a uniform standing navy. They fight a guerrilla wa
 - **Combat Tactics:** Speed and surprise. They rely on ambush tactics, utilizing thick fog (often magically summoned), narrow straits, and boarding actions. They prefer to capture ships intact rather than sink them.
 - **Shipboard Weaponry:** A mix of traditional black-powder cannons (which they favor for their reliability), scavenged Arcane Ballistae, and whatever experimental, highly volatile First Captain weaponry they managed to salvage.
 
+## 7. Notable Figures
+
+- **Pirate King "Hurricane" Jax:** The boisterous, dangerously unpredictable leader of the Brethren Court. A Storm Sorcerer who claims to have won his crown in a drinking contest with a kraken. 
+- **Captain Elara "Ghost-Wake" Vance:** A brilliant tactician and defector from the Crimson Dominion's Magi-Officers. She commands the *Reckoning*, a heavily modified frigate dedicated solely to hunting Dominion slaver ships.
+- **Quartermaster Thatch:** The pragmatic, ruthless manager of Blackwake's "Chop Shop." If you need a stolen ship's identity scrubbed or a cursed artifact fenced, Thatch is the man to see.
+
+## 8. Player Character Integration
+
+- **Best Fit Backgrounds:** Sailor, Pirate, Criminal, Folk Hero, Entertainer.
+- **Favored Classes:** Fighter (Battle Master, Champion), Rogue (Swashbuckler, Thief), Barbarian (Storm Herald, Berserker), Sorcerer (Storm Sorcery).
+- **Roleplay Hook:** A Free Captain PC might be a newly minted Wayfinder looking to make a name for themselves, a runaway seeking true freedom, or an exiled noble seeking revenge against the faction that wronged them.
+
+## 9. Unique Regional Assets
+
+- **Black-Powder Firearms:** The Alliance is the primary manufacturer and user of flintlock pistols and muskets. While less reliable than a wand, they don't require magical aptitude to blow a hole in a Dominion marine.
+- **Scavenger Sails:** Canvas sails patched with the hides of minor elementals or sea monsters, allowing a ship to catch magical Aether winds that normal canvas would tear in.
+- **The Corsair's Coin:** A magically minted coin given to Sworn Crew. It acts as a token of safe passage in Blackwake Harbor and can cast *Sending* once to contact the ship's Quartermaster in an emergency.
+
 
 ---
 
@@ -23357,6 +23429,116 @@ The Keepers do not fight in line-of-battle formations. They use the ocean itself
 - **Naval Fleet Composition:** They sail "Living Ships"—salvaged wrecks that have been completely overgrown and fused together by magically hardened coral and iron-wood kelp. They are incredibly resilient and self-repairing.
 - **Combat Tactics:** Environmental warfare. They rarely engage in broadside cannon duels. Instead, they summon localized squalls, manipulate currents to smash enemy ships into reefs, and use bonded sea creatures (like giant squids or elementals) to tear hulls apart from beneath.
 - **Shipboard Weaponry:** They do not use black powder. They use enchanted ballistae that fire explosive coral shards, and rely on their shamans to cast *Call Lightning* and *Control Water* to devastate enemy crews.
+
+## 7. Notable Figures
+
+- **High Elder Naia:** The ancient, serene voice of the Council of Elders. She is bonded to a massive, ancient sea turtle and advocates for isolationism and healing the ocean, rather than war.
+- **Warden Kael:** The aggressive, militant leader of the Cleansing Tide. He believes the only way to protect the Verdant Expanse is to sink every Dominion and Consortium ship that dares cross the horizon.
+- **Tender Maris:** A highly skilled crafter of "Living Ships" and a sympathetic contact for Wayfinders. She frequently trades minor magical charms to independent captains in exchange for news of the outside world.
+
+## 8. Player Character Integration
+
+- **Best Fit Backgrounds:** Hermit, Outlander, Sailor, Acolyte, Folk Hero.
+- **Favored Classes:** Druid (Circle of the Land - Coast, Circle of the Moon), Cleric (Nature, Tempest), Ranger (Swarmkeeper, Hunter), Monk (Way of the Four Elements).
+- **Roleplay Hook:** A Keeper PC is likely on a sacred pilgrimage to find the source of the Aether Streams, a Warden hunting a specific Drow that escaped, or a member of the "Penitent" trying to work off a past sin against the ocean.
+
+## 9. Unique Regional Assets
+
+- **Living Hull Plating:** Magically grown iron-wood kelp and coral that can be grafted onto a standard ship. It provides temporary hit points to the hull and slowly regenerates over time when submerged in seawater.
+- **Breath-Weed:** A highly prized, magically cultivated kelp that, when chewed, grants the user the ability to breathe underwater for 1 hour. The Keepers trade this very rarely.
+- **Storm-Callers:** Conches infused with elemental air magic. When blown, they can alter the direction of the wind for a short duration, crucial for escaping a naval ambush.
+
+
+---
+
+# Chapter 24: Regional Gazetteer - The Independent Salvagers
+
+*“The world ended once already. The evidence is scattered across the ocean floor. The fools in the Dominion think they can ignore it. We know that whoever controls the wreckage of the past, controls the future.”* — Chief Archaeologist Silas Vance
+
+The Independent Salvagers (often referred to simply as "The Guild") are a faction of extreme risk-takers, rogue historians, artificers, and deep-sea divers. They are dedicated to one singular, incredibly dangerous goal: retrieving the lost, highly advanced, and highly unstable technology of the "First Captains" from the Unwritten Sea. They operate on the fringes of society, driven by a mix of scholarly obsession and raw greed.
+
+## 1. Geography, Demographics & Hubs
+
+The Salvagers do not hold territory in the traditional sense. They are nomadic, following rumors and shifting Aether currents toward ancient ruins. However, they maintain one permanent, neutral stronghold.
+
+**Population Overview:**
+- Total Estimated Population: ~150,000 (Highly dispersed)
+- The Guild Masters (Lead Archaeologists): 2%
+- The Divers & Artificers (Active Crews): 48%
+- Support Staff, Appraisers, & Fences: 50%
+
+### Salvager's Haven (Capital Hub)
+Salvager's Haven is built entirely inside the skeletal remains of a truly massive, petrified leviathan that washed up on a barren atoll near the edge of the Unwritten Sea. The ribs of the beast arch over the city like a cathedral ceiling, draped in heavy canvas to keep out the harsh sun. It is a city of workshops, black markets, and intense paranoia.
+- **The Athenaeum:** A heavily guarded library where recovered First Captain logs, star-charts, and technical schematics are translated and hoarded.
+- **The Decompression Wards:** Hospitals specifically designed to treat divers suffering from "The Bends" or magical radiation poisoning from handling unstable artifacts.
+- **The Auction Block:** A massive, reinforced amphitheater where the Consortium and the Dominion quietly outbid each other for recovered weaponry.
+
+### The Diving Bells (Mobile Outposts)
+Massive, heavily armored floating platforms equipped with heavy cranes and diving bells, acting as temporary forward operating bases above newly discovered underwater ruins.
+
+## 2. Magic Systems Integration
+
+The Salvagers use magic purely as a tool to aid their excavations and survive the crushing depths.
+
+- **Arcane Magic (The Toolkit):** Abjuration is highly valued for shielding against traps and magical radiation. Transmutation is essential for *Water Breathing* and manipulating heavy wreckage.
+- **Deep Magic (The Necessary Evil):** They are the only surface faction that actively studies Deep Magic. They don't worship it like the Drow, but they use it to counteract the crushing pressure of the deep ocean. This makes them highly suspicious to other factions.
+- **Psionics (Artifact Bonding):** Many First Captain artifacts require a psionic "handshake" to operate. Psions are highly prized and highly paid to act as keys to these ancient machines.
+- **Spirit Magic (Ignored):** They view Spirit Magic as superstitious nonsense that gets in the way of scientific discovery.
+
+## 3. Faction Relations (Geopolitical Matrix)
+
+The Salvagers try to remain neutral, playing the major powers against each other to fund their expeditions.
+
+- **Grand Merchant Consortium:** *Primary Benefactors.* The Consortium funds most Salvager expeditions in exchange for the first right of refusal on any discovered technology. The relationship is highly transactional.
+- **Crimson Dominion:** *Tense Tolerance.* The Dominion wants the artifacts but hates paying for them. They frequently try to bully or annex Salvager fleets, forcing the Salvagers to hire Free Captains as escorts.
+- **Free Captains Alliance:** *Friendly Associates.* The pirates provide protection, and the Salvagers fence strange magical loot the pirates don't understand. Many Wayfinders consider themselves freelance Salvagers.
+- **Drowned Silk Houses (Drow):** *Lethal Competition.* The Drow consider the Unwritten Sea their territory. Encounters between Drow submarines and Salvager diving bells always end in violence.
+- **Spirit Keepers:** *The Watchdogs.* The Keepers despise the Salvagers for unearthing things that should remain buried. They will actively sink a Salvager ship if they believe the artifact on board is too dangerous.
+
+## 4. Societal Hierarchy (The Academic Meritocracy)
+
+Rank in the Guild is determined by what you have discovered, and more importantly, what you have survived.
+
+1. **The Guild Masters (Chief Archaeologists):** The few who have successfully commanded major expeditions into the Unwritten Sea and returned with paradigm-shifting technology.
+2. **The Artificers / Translators:** The scholars who can actually figure out how to make First Captain technology work without it detonating.
+3. **The Master Divers:** The veterans. Anyone who has survived more than ten deep-sea dives into ancient ruins is treated with immense respect (and usually sports several magical prosthetics).
+4. **The Dredgers:** The rank-and-file sailors and laborers who operate the cranes, winches, and diving bells.
+5. **The Investors:** Wealthy outsiders (usually Consortium) who fund the expeditions but have no operational authority. 
+
+## 5. Internal Politics & Rival Factions
+
+The Guild is fractured by differing philosophies on what to do with the technology they find.
+
+- **The Preservationists:** Believe artifacts should be studied, cataloged, and kept in the Athenaeum for the good of all, rather than sold to warmongers.
+- **The Profiteers:** Believe the only purpose of the Guild is to get rich selling weapons to the Dominion and Consortium.
+- **The Integrationists:** Radical artificers who actively replace their own body parts with First Captain technology, viewing it as the next step in human evolution.
+- **The Curse-Touched:** Divers who have been driven mad by the magical radiation of the deep ruins, who occasionally form violent, unpredictable cults within the lower levels of the Haven.
+
+## 6. The Military Machine
+
+The Salvagers do not have a standing army. They rely on mercenaries for defense and experimental weaponry for survival.
+
+- **Naval Fleet Composition:** They sail heavily modified, slow, incredibly sturdy salvage vessels. These ships look like floating factories, bristling with cranes, winches, and reinforced diving cages. 
+- **Combat Tactics:** Flee and cover. They avoid naval battles at all costs. If cornered, they will utilize untested, highly volatile First Captain weaponry, which is just as likely to sink their own ship as the enemy's.
+- **Shipboard Weaponry:** Experimental. A Salvager ship might be armed with a cannon that fires bolts of pure gravity, or a shielding device that turns the ship temporarily ethereal, all powered by unstable, glowing crystals.
+
+## 7. Notable Figures
+
+- **Chief Archaeologist Silas Vance:** An aging, paranoid genius who has integrated several First Captain ocular implants into his skull. He firmly believes the First Captains didn't die out, but left the planet entirely.
+- **Master Diver "Iron-Lung" Kael:** A legendary diver whose torso is almost entirely encased in a magical, pressure-regulating suit. He is the only man known to have survived a direct encounter with a Drow Leviathan and lived to tell the tale.
+- **Appraiser Lira:** The ruthless head of the Auction Block. She speaks seven languages, can identify a fake artifact at fifty paces, and has the Consortium wrapped around her finger.
+
+## 8. Player Character Integration
+
+- **Best Fit Backgrounds:** Sage, Guild Artisan, Sailor, Charlatan, Hermit.
+- **Favored Classes:** Artificer (All subclasses, especially Battlesmith and Armorer), Wizard (Transmutation, Scribes), Rogue (Thief, Arcane Trickster), Fighter (Psi Warrior).
+- **Roleplay Hook:** A Salvager PC is likely an adrenaline junkie, an academic desperate to make a name for themselves, or someone severely in debt to the Consortium looking for one big score in the Unwritten Sea.
+
+## 9. Unique Regional Assets
+
+- **Diving Suits (Pressure Armor):** Heavy, magically sealed suits of armor that allow deep-sea exploration, providing immunity to the crushing pressure of the depths but imposing disadvantage on Dexterity checks.
+- **Unstable Energy Cores:** Glowing crystals pulled from ruins. They can be used to instantly recharge spell slots or power magic items, but carry a high risk of wild magic surges or explosive failure.
+- **The Translator's Monocle:** A highly coveted magic item that casts *Comprehend Languages* specifically calibrated for ancient, dead scripts and First Captain cipher logs.
 
 
 ---

@@ -67,3 +67,21 @@ The Keepers do not fight in line-of-battle formations. They use the ocean itself
 - **Naval Fleet Composition:** They sail "Living Ships"—salvaged wrecks that have been completely overgrown and fused together by magically hardened coral and iron-wood kelp. They are incredibly resilient and self-repairing.
 - **Combat Tactics:** Environmental warfare. They rarely engage in broadside cannon duels. Instead, they summon localized squalls, manipulate currents to smash enemy ships into reefs, and use bonded sea creatures (like giant squids or elementals) to tear hulls apart from beneath.
 - **Shipboard Weaponry:** They do not use black powder. They use enchanted ballistae that fire explosive coral shards, and rely on their shamans to cast *Call Lightning* and *Control Water* to devastate enemy crews.
+
+## 7. Notable Figures
+
+- **High Elder Naia:** The ancient, serene voice of the Council of Elders. She is bonded to a massive, ancient sea turtle and advocates for isolationism and healing the ocean, rather than war.
+- **Warden Kael:** The aggressive, militant leader of the Cleansing Tide. He believes the only way to protect the Verdant Expanse is to sink every Dominion and Consortium ship that dares cross the horizon.
+- **Tender Maris:** A highly skilled crafter of "Living Ships" and a sympathetic contact for Wayfinders. She frequently trades minor magical charms to independent captains in exchange for news of the outside world.
+
+## 8. Player Character Integration
+
+- **Best Fit Backgrounds:** Hermit, Outlander, Sailor, Acolyte, Folk Hero.
+- **Favored Classes:** Druid (Circle of the Land - Coast, Circle of the Moon), Cleric (Nature, Tempest), Ranger (Swarmkeeper, Hunter), Monk (Way of the Four Elements).
+- **Roleplay Hook:** A Keeper PC is likely on a sacred pilgrimage to find the source of the Aether Streams, a Warden hunting a specific Drow that escaped, or a member of the "Penitent" trying to work off a past sin against the ocean.
+
+## 9. Unique Regional Assets
+
+- **Living Hull Plating:** Magically grown iron-wood kelp and coral that can be grafted onto a standard ship. It provides temporary hit points to the hull and slowly regenerates over time when submerged in seawater.
+- **Breath-Weed:** A highly prized, magically cultivated kelp that, when chewed, grants the user the ability to breathe underwater for 1 hour. The Keepers trade this very rarely.
+- **Storm-Callers:** Conches infused with elemental air magic. When blown, they can alter the direction of the wind for a short duration, crucial for escaping a naval ambush.

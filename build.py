@@ -27,7 +27,8 @@ files = [
     "20_The_Grand_Merchant_Consortium.md",
     "21_The_Drowned_Silk_Houses.md",
     "22_The_Free_Captains_Alliance.md",
-    "23_The_Spirit_Keepers.md"
+    "23_The_Spirit_Keepers.md",
+    "24_The_Independent_Salvagers.md"
 ]
 
 combined = "# Wayfinder Corsair Campaign Setting & Rulebook\n\n"

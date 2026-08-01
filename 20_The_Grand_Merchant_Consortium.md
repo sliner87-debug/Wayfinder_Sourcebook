@@ -70,3 +70,21 @@ The Consortium's military is entirely privatized. They do not have citizens defe
   - *The Gold Cloak Escorts:* Sleek, fast, heavily armed frigates that guard the trade lanes.
 - **Shipboard Weaponry:** They prioritize defense. Their ships are equipped with advanced Abjuration shielding, enchanted sails for speed, and magical flares to summon nearby mercenary fleets.
 - **Combat Tactics:** They prefer to buy off enemies. If forced into a fight, they rely on overwhelming, expensive firepower (e.g., mercenaries armed with wands and enchanted ammunition) and rapid tactical retreats to protect their investments.
+
+## 7. Notable Figures
+
+- **High Factor Vance:** Head of the Gold Scale (the central banking guild). A meticulously dressed, incredibly wealthy human who treats geopolitics like a ledger. He is currently funding Salvager expeditions to secure First Captain weapons.
+- **Guildmaster Seraphina:** Leader of the Spice Cartel. She secretly employs a massive network of Free Captain privateers to sabotage her rivals' shipments, all while maintaining plausible deniability.
+- **Captain "Ironclad" Thorne:** Commander of the *Golden Defender*, the flagship of the Gold Cloaks. A highly paid mercenary who cares only for his contract, completely devoid of personal morality.
+
+## 8. Player Character Integration
+
+- **Best Fit Backgrounds:** Guild Artisan, Charlatan, Criminal/Spy, Sailor, Noble.
+- **Favored Classes:** Rogue (Swashbuckler, Mastermind), Bard (College of Eloquence), Warlock (The Fathomless - flavored as a contract with a sea entity), Wizard (Divination, Illusion).
+- **Roleplay Hook:** A Consortium PC might be a mid-level manager trying to climb the corporate ladder, a debt-dodger on the run from the Gold Cloaks, or a corporate spy embedded in another faction.
+
+## 9. Unique Regional Assets
+
+- **Abjuration Shield Emitters:** Expensive ship modifications that project a temporary, regenerative forcefield around the hull, absorbing a set amount of damage before shattering.
+- **Contract Marks:** Magical tattoos given to indentured laborers or sworn mercenaries. They act as tracking devices and can inflict pain if the wearer breaches their contract.
+- **Golden Fire:** A highly volatile, alchemically modified Greek Fire that burns even underwater. The Consortium sells it at a premium.

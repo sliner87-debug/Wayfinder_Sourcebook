@@ -23,7 +23,8 @@ files = [
     "16_Publication_Readiness_Review.md",
     "17_Captains_Techniques_Completion_Report.md",
     "18_World_Atlas.md",
-    "19_The_Crimson_Dominion.md"
+    "19_The_Crimson_Dominion.md",
+    "20_The_Grand_Merchant_Consortium.md"
 ]
 
 combined = "# Wayfinder Corsair Campaign Setting & Rulebook\n\n"

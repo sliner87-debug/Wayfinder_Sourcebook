@@ -23821,6 +23821,16 @@ Wizards who manipulate the geometry of space, bending distance and location.
 - **Spatial Shift (Su):** As a swift action, you can magically teleport up to 10 feet to an unoccupied space you can see. You can use this ability a number of times per day equal to 3 + your Intelligence modifier. This movement does not provoke attacks of opportunity.
 - **Rewrite Geometry (Su):** At 8th level, as a standard action, you can force a creature within 30 feet to swap positions with you. An unwilling creature can make a Will save (DC 10 + 1/2 wizard level + Int modifier) to negate the effect. You can use this ability a number of times per day equal to your Intelligence modifier.
 
+### Gunslinger: Aether-Corsair (Archetype)
+The Shattered Expanse is fraught with danger, and the Aether-Corsair uses volatile precursor technology and flawless agility to dominate ship-to-ship boarding actions.
+
+- **Aether-Gunsmith (Ex):** At 1st level, the Aether-Corsair gains a battered aether-pistol or aether-rifle (which targets touch AC in its first range increment but misfires on a 1-2). They gain the Gunsmithing feat, but their craft relies on precursor scrap rather than black powder. This alters Gunsmithing.
+- **Corsair's Deeds:** An Aether-Corsair swaps out several standard deeds for those suited to the high seas.
+  - *Boarding Leap (Ex):* At 1st level, as long as the corsair has at least 1 grit point, they gain a +4 bonus on Acrobatics checks made to jump or swing on ropes. By spending 1 grit point as a swift action, they can move up to 15 feet ignoring difficult terrain and without provoking attacks of opportunity. This replaces the *Deadeye* deed.
+  - *Hull-Breaker (Ex):* At 3rd level, the corsair can spend 1 grit point when making a ranged attack against an object, vehicle, or ship. The attack ignores up to 10 points of the target's hardness and deals double damage on a hit. This replaces the *Pistol-Whip* deed.
+  - *Deep-Sea Shot (Su):* At 7th level, as long as the corsair has at least 1 grit point, their firearm attacks are not penalized for being fired underwater, and the range increment is not reduced by the water. This replaces the *Dead Shot* deed.
+- **Nimble Rigging (Ex):** At 2nd level, an Aether-Corsair gains a +1 dodge bonus to AC while wearing light or no armor. This bonus increases by +1 for every four levels beyond 2nd. Additionally, they gain a climb speed equal to half their base speed when climbing rigging, ropes, or ship hulls. This alters Nimble.
+
 ---
 
 ## 3. Setting-Specific Feats

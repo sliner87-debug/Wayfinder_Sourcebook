@@ -24724,3 +24724,187 @@ If the spawn takes 30 damage or more on a single turn from a creature inside it,
 
 ---
 
+# Chapter 31: The Pirate Economy
+
+In the Shattered Expanse, gold is the true god. The Crimson Dominion needs it to fuel their warmachine, the Consortium hordes it, and the Free Captains bleed for it. 
+
+This chapter provides a framework for running a dynamic mercantile campaign. Instead of just looting dungeons, players can act as privateers or smugglers, buying low, selling high, and investing their ill-gotten gains into upgrading their own secret hideout.
+
+## Trading & Cargo
+
+Cargo in the Shattered Expanse is measured in **Units**. A Unit represents roughly 1 ton of goods (a stack of crates, several large barrels, or a pallet of ingots). Different ships can hold a different maximum number of Units.
+
+### The Cargo Market
+
+The price of a Unit of cargo fluctuates based on where it is bought and sold. 
+To determine the buy/sell price of cargo in a specific port, roll on the **Market Fluctuation Table** when the players arrive, or have the DM set the modifier based on the narrative (e.g., a port under siege is desperate for food and weapons, paying double, but refuses to buy luxury goods).
+
+#### Standard Cargo Types
+| Cargo Type | Base Value (per Unit) | Description |
+| :--- | :--- | :--- |
+| **Scrap Wood / Iron** | 50 gp | Basic materials for ship repair. High demand in active warzones. |
+| **Rations & Rum** | 100 gp | Standard food supplies. High demand in isolated or starving ports. |
+| **Aether-Coal** | 250 gp | Low-grade fuel for industrial engines. |
+| **Silk & Spices** | 500 gp | Luxury goods. High demand in rich, stable ports (Consortium). |
+| **Raw Aether-Crystals** | 1,000 gp | Highly volatile fuel and magical catalyst. Illegal outside of Dominion space. |
+| **Relic Tech** | 2,500+ gp | Intact precursor technology. Extremely rare and highly illegal to trade openly. |
+
+### Market Fluctuation Table
+When players attempt to buy or sell cargo at a port, roll 1d20 to determine the local market condition for that specific Cargo Type.
+
+| 1d20 | Market Condition | Effect on Price |
+| :---: | :--- | :--- |
+| **1-3** | **Severe Surplus:** The port is flooded with this good. | Buy/Sell price is **halved (x0.5)** |
+| **4-8** | **Mild Surplus:** The good is common here. | Buy/Sell price is **reduced by 25% (x0.75)** |
+| **9-13** | **Stable:** Supply meets demand perfectly. | Buy/Sell price is exactly **Base Value (x1)** |
+| **14-18** | **Shortage:** The port desperately needs this good. | Buy/Sell price is **increased by 50% (x1.5)** |
+| **19-20** | **Desperation:** The port will pay anything for it. | Buy/Sell price is **doubled (x2)** |
+
+> [!TIP]
+> **Smuggling Contraband:** Illegal goods (like Aether-Crystals in a Consortium port) cannot be sold on the open market. Finding a black market buyer requires a successful DC 15 Charisma (Investigation or Persuasion) check. If successful, the good is always treated as being in a "Shortage" (x1.5 price). If failed by 5 or more, the authorities are alerted.
+
+---
+
+## The Pirate Hideout
+
+Amassing gold is only half the battle; pirates need a place to bury it. Players can establish a **Hideout** (a secluded island cove, an abandoned Silk House structure, or a hollowed-out sea stack) to store their wealth, repair their ship, and gain mechanical benefits.
+
+### Establishing a Hideout
+Finding a suitable, unoccupied location requires exploration. Once found, the crew must spend 5,000 gp to set up basic infrastructure (docks, a sleeping barracks, and basic defenses). 
+
+A basic Hideout provides the following benefits:
+- **Safe Harbor:** The crew can take long rests without the risk of random encounters.
+- **Drydock:** The crew can repair their ship's Hull Points at a cost of 10 gp per Hull Point (half the cost of a commercial port).
+- **Stash:** A secure vault to store excess cargo and gold without weighing down the ship.
+
+### Hideout Upgrades
+Players can invest their gold to upgrade their Hideout. Upgrades take 1d4 weeks to construct.
+
+| Upgrade | Cost (gp) | Benefit |
+| :--- | :--- | :--- |
+| **Smuggler's Tavern** | 5,000 | Attracts unsavory types. You have advantage on checks made to recruit crew or gather rumors while at the hideout. |
+| **Reinforced Artillery** | 10,000 | Installs 4 heavy cannons guarding the bay. The hideout can defend itself against minor attacks while you are away. |
+| **Arcane Workshop** | 15,000 | A dedicated space for crafting. Halves the time and gold cost required to craft magic items or potions while at the hideout. |
+| **Aether-Refinery** | 20,000 | Allows the hideout to process raw Aether-Crystals. Generates 1d4 Units of Aether-Coal per week automatically. |
+| **The Leviathan Net** | 25,000 | An array of deep-sea sonar nets. Warns the hideout of any impending monster attacks and grants the ship advantage on initiative rolls when departing the hideout. |
+| **Consortium Contacts** | 30,000 | Establishes a black-market fence on-site. You can buy and sell Cargo directly at the hideout without needing to travel to a port (always uses "Stable" market pricing). |
+
+### Hideout Defense (Optional Rule)
+A pirate's wealth attracts attention. At the end of every in-game month, roll 1d20. On a roll of 1 or 2, the Hideout is discovered and attacked by a rival faction (Dominion, Consortium, or monsters). If the players are not present, resolve the attack narratively based on the Hideout's defenses (like Reinforced Artillery). If the defenses are insufficient, the stash may be looted or the Hideout damaged.
+
+
+---
+
+# Chapter 32: The Game Master's Toolkit
+
+To truly bring the Shattered Expanse to life, a Game Master must constantly inject unpredictability into the campaign. The sea is a fickle mistress, and the forces vying for control of it are equally volatile. 
+
+This chapter provides comprehensive D100 roll tables to generate encounters, weather, loot, and rumors on the fly.
+
+---
+
+## 1. Random Maritime Encounters
+When the crew is sailing between destinations, the GM should roll on this table once per day (or night) of travel.
+
+### Maritime Encounters (d100)
+| d100 | Encounter |
+| :---: | :--- |
+| **01-10** | **Clear Skies:** No encounter. The crew makes good time. |
+| **11-15** | **Merchant Cog:** A slow-moving Consortium trade ship (CR 3). Heavily laden with 1d4 Units of Rations, but lightly defended. |
+| **16-20** | **Debris Field:** The wreckage of a recent battle. A successful DC 14 Investigation check yields 1d100 gp and 1 Unit of Scrap Wood. |
+| **21-25** | **Ghost Ship:** An abandoned vessel drifting aimlessly. There is no crew, but dinner is still warm on the table. |
+| **26-30** | **Dominion Patrol:** An Ironclad Corvette (CR 5) demands to board and inspect the players' cargo for contraband. |
+| **31-35** | **Siren's Call:** The crew hears haunting music. Every crew member must make a DC 13 Wisdom saving throw or attempt to steer the ship toward a jagged reef. |
+| **36-40** | **Floating Bazaar:** A neutral, multi-ship raft city where players can trade cargo or buy rare items. |
+| **41-45** | **Kelp Forest:** The ship enters a massive Sargasso sea. Speed is halved, and 1d4 Sentient Kelp Masses (CR 6) attack the hull. |
+| **46-50** | **Rival Pirates:** A Free Captain galleon (CR 4) flies a false flag, attempting to get close before unleashing a broadside. |
+| **51-55** | **Aether-Rift:** The sky tears open. The ship is instantly teleported 1d100 miles in a random direction. |
+| **56-60** | **Distress Signal:** A lifeboat with 1d4 starving sailors. They might be genuine survivors, or they might be Abyssal Thralls in disguise. |
+| **61-65** | **Silk House Ambush:** 2d4 Drow Deep-Weavers (CR 4) attempt to board the ship at midnight from beneath the waves. |
+| **66-70** | **Uncharted Island:** An island that is not on any map. Roll on the Uncharted Island generator (below). |
+| **71-75** | **Dominion Dreadnought:** A massive, terrifying warship (CR 15). The best option is to run and hide in a fog bank. |
+| **76-80** | **Precursor Ruin:** A metallic spire juts from the ocean. Contains 1d4 Relic Tech items, guarded by a Rogue Aegis Automaton (CR 7). |
+| **81-85** | **Mutiny on another ship:** The players come across a ship where the crew is actively hanging their captain. Do they intervene? |
+| **86-90** | **Whaling Fleet:** A fleet of highly skilled hunters chasing a massive, wounded beast. They offer a bounty if the players help. |
+| **91-95** | **The Deep Mother's Blessing:** The ocean turns black, and all damaged ships in the area are instantly repaired, though their hulls now look like they are made of bone. |
+| **96-99** | **Leviathan Sighting:** A true Leviathan breaches the surface miles away. The resulting wave forces a DC 15 Dexterity saving throw for the ship to avoid taking 4d10 bludgeoning damage. |
+| **100** | **The Flying Dutchman:** A cursed, legendary ghost ship attacks. It cannot be sunk, only outrun. |
+
+---
+
+## 2. Weather & Environmental Hazards
+The weather in the Shattered Expanse is rarely natural, heavily influenced by the raw magic of the Aether. Roll 1d20 each morning.
+
+### Aether-Weather (d20)
+| d20 | Weather Condition | Effect |
+| :---: | :--- | :--- |
+| **1-10** | **Fair Weather** | Standard travel conditions. |
+| **11-13** | **Thick Fog** | Visibility is reduced to 30 feet. Navigating requires a DC 15 Survival check to avoid getting lost. |
+| **14-15** | **Dead Calm** | No wind. Sailing ships cannot move unless they have oars or an aether-engine. |
+| **16-17** | **Gale Force Winds** | Speed is doubled, but the ship takes 1d10 bludgeoning damage every hour from the stress on the rigging. |
+| **18** | **Aether-Storm** | Green lightning fills the sky. All magic spells cast during the storm trigger a Wild Magic Surge. |
+| **19** | **Blood Rain** | Toxic, red rain falls. Any creature exposed outside takes 1d4 acid damage per minute. |
+| **20** | **Gravity Inversion** | The ocean water begins to float upward like rain in reverse. The ship is lifted into the air for 1 hour before crashing back down. |
+
+---
+
+## 3. Uncharted Island Generator
+When the players discover an island not on their map, roll to determine its nature.
+
+### Island Type (d6)
+1. **Volcanic:** Active lava flows, obsidian cliffs, high temperatures.
+2. **Jungle:** Dense, uncharted flora. Extremely humid.
+3. **Barren Rock:** Just a spire of grey stone. Excellent for a hidden base.
+4. **Precursor Metal:** The island is actually the hull of a massive, ancient, sunken spacecraft.
+5. **Coral Atoll:** A ring of sharp coral surrounding a pristine, glowing lagoon.
+6. **Fungal:** Covered in towering, bioluminescent mushrooms that release hallucinogenic spores.
+
+### Island Inhabitants (d6)
+1. **Uninhabited:** Just wildlife and nature.
+2. **Marooned Pirate:** A lone, half-mad survivor with a treasure map.
+3. **Hostile Natives:** A tribe of deeply territorial Lizardfolk or Grungs.
+4. **Dominion Outpost:** A secret military listening post.
+5. **Cult of the Deep:** Worshippers of the Leviathans conducting a ritual.
+6. **Ancient Guardian:** A slumbering golem or dragon guarding a hoard.
+
+### Island Secret (d6)
+1. **Buried Treasure:** 3d6 x 1,000 gp buried in a chest.
+2. **Cursed Idol:** Taking it grants a magic item, but curses the ship with bad luck.
+3. **Freshwater Spring:** A magical spring that cures all diseases when drunk.
+4. **Ship Graveyard:** 2d4 wrecked ships containing salvageable cargo.
+5. **Portal:** A glowing gateway leading directly to the nearest major port.
+6. **It's Alive:** The island is actually the back of a dormant, colossal sea turtle.
+
+---
+
+## 4. Port Rumors & Black Market Loot
+When players spend a night in a tavern or port, they can roll 1d10 on the Rumor table to find plot hooks, or check the Black Market Loot table (d10) to see what rare items are for sale today.
+
+### Tavern Rumors (d10)
+1. "The Dominion is building a new super-weapon at Port Vengeance."
+2. "A Silk House priestess was assassinated yesterday. War is coming."
+3. "There's a ghost ship that trades gold for memories. I swear I saw it."
+4. "The Consortium just raised the bounty on Captain Blackwood to 50,000 gp."
+5. "Don't sail east. The Leviathans are migrating early this year."
+6. "The old lighthouse on Crag Isle lit up last night. It's been abandoned for a century."
+7. "The Governor is secretly a vampire. Check the lack of mirrors in his mansion!"
+8. "I heard a crew pulled up a solid gold cannon from the abyss. It fired it once, and the gunner turned to dust."
+9. "Aether-crystal prices are about to crash. The Dominion found a new mine."
+10. "The First Captains aren't dead. They're sleeping under the world."
+
+### Black Market Loot (d10)
+*Items found here cost 1d4 x 100 gp and are highly illegal.*
+1. A perfectly forged Consortium Trade License.
+2. A vial of Leviathan blood (acts as a *Potion of Supreme Healing*).
+3. A map showing the safe route through the treacherous 'Knife's Edge' reef.
+4. A small, caged, incredibly foul-mouthed parrot that speaks every language.
+5. A single shot of Aether-Rifle ammunition that deals necrotic damage instead of force.
+6. A ledger detailing the Governor's extramarital affairs (excellent blackmail).
+7. A compass that always points to the nearest source of fresh rum.
+8. A jar of glowing blue mud that can instantly patch a hole in a ship's hull.
+9. A set of loaded dice that can be mentally commanded to roll specific numbers.
+10. A skeletal hand wearing a ring that grants the wearer Darkvision.
+
+
+---
+

@@ -1,6 +1,7 @@
 import os
 
 files = [
+    "00_Cover_Page.md",
     "01_Campaign_Framework.md",
     "02_Starting_Origins.md",
     "03_Races_and_Transformations.md",
@@ -43,7 +44,7 @@ files = [
     "36_Art_Gallery_and_VTT_Assets.md"
 ]
 
-combined = "# Wayfinder Corsair Campaign Setting & Rulebook\n\n"
+combined = ""
 for f in files:
     with open(f, "r", encoding="utf-8") as file:
         combined += file.read() + "\n\n---\n\n"

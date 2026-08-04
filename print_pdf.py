@@ -6,7 +6,8 @@ async def main():
         browser = await p.chromium.launch()
         page = await browser.new_page()
         await page.goto("file:///H:/Antigravity/Ahoy Matey/Wayfinder_Sourcebook/index.html")
-        await page.pdf(path="Wayfinder_Sourcebook.pdf", format="A4", print_background=True)
+        # Added tagged=True and outline=True for native PDF bookmarks
+        await page.pdf(path="Wayfinder_Sourcebook.pdf", format="A4", print_background=True, tagged=True, outline=True)
         await browser.close()
         print("PDF generated successfully.")
 

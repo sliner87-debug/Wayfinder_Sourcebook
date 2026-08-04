@@ -1,109 +1,95 @@
 # Chapter 32: The Game Master's Toolkit
 
-To truly bring the Shattered Expanse to life, a Game Master must constantly inject unpredictability into the campaign. The sea is a fickle mistress, and the forces vying for control of it are equally volatile. 
-
-This chapter provides comprehensive D100 roll tables to generate encounters, weather, loot, and rumors on the fly.
+To truly bring the Shattered Expanse to life, a Game Master must constantly inject unpredictability into the campaign. This chapter provides exhaustive, biome-specific roll tables to generate encounters, dynamic rumors, and bizarre black-market loot on the fly.
 
 ---
 
-## 1. Random Maritime Encounters
-When the crew is sailing between destinations, the GM should roll on this table once per day (or night) of travel.
+## 1. Biome-Specific Maritime Encounters
+When the crew is sailing, roll 1d20 on the table corresponding to their current environment.
 
-### Maritime Encounters (d100)
-| d100 | Encounter |
+### A. The Shallow Seas (Coastal & Trade Routes)
+| 1d20 | Encounter |
 | :---: | :--- |
-| **01-10** | **Clear Skies:** No encounter. The crew makes good time. |
-| **11-15** | **Merchant Cog:** A slow-moving Consortium trade ship (CR 3). Heavily laden with 1d4 Units of Rations, but lightly defended. |
-| **16-20** | **Debris Field:** The wreckage of a recent battle. A successful DC 14 Investigation check yields 1d100 gp and 1 Unit of Scrap Wood. |
-| **21-25** | **Ghost Ship:** An abandoned vessel drifting aimlessly. There is no crew, but dinner is still warm on the table. |
-| **26-30** | **Dominion Patrol:** An Ironclad Corvette (CR 5) demands to board and inspect the players' cargo for contraband. |
-| **31-35** | **Siren's Call:** The crew hears haunting music. Every crew member must make a DC 13 Wisdom saving throw or attempt to steer the ship toward a jagged reef. |
-| **36-40** | **Floating Bazaar:** A neutral, multi-ship raft city where players can trade cargo or buy rare items. |
-| **41-45** | **Kelp Forest:** The ship enters a massive Sargasso sea. Speed is halved, and 1d4 Sentient Kelp Masses (CR 6) attack the hull. |
-| **46-50** | **Rival Pirates:** A Free Captain galleon (CR 4) flies a false flag, attempting to get close before unleashing a broadside. |
-| **51-55** | **Aether-Rift:** The sky tears open. The ship is instantly teleported 1d100 miles in a random direction. |
-| **56-60** | **Distress Signal:** A lifeboat with 1d4 starving sailors. They might be genuine survivors, or they might be Abyssal Thralls in disguise. |
-| **61-65** | **Silk House Ambush:** 2d4 Drow Deep-Weavers (CR 4) attempt to board the ship at midnight from beneath the waves. |
-| **66-70** | **Uncharted Island:** An island that is not on any map. Roll on the Uncharted Island generator (below). |
-| **71-75** | **Dominion Dreadnought:** A massive, terrifying warship (CR 15). The best option is to run and hide in a fog bank. |
-| **76-80** | **Precursor Ruin:** A metallic spire juts from the ocean. Contains 1d4 Relic Tech items, guarded by a Rogue Aegis Automaton (CR 7). |
-| **81-85** | **Mutiny on another ship:** The players come across a ship where the crew is actively hanging their captain. Do they intervene? |
-| **86-90** | **Whaling Fleet:** A fleet of highly skilled hunters chasing a massive, wounded beast. They offer a bounty if the players help. |
-| **91-95** | **The Deep Mother's Blessing:** The ocean turns black, and all damaged ships in the area are instantly repaired, though their hulls now look like they are made of bone. |
-| **96-99** | **Leviathan Sighting:** A true Leviathan breaches the surface miles away. The resulting wave forces a DC 15 Dexterity saving throw for the ship to avoid taking 4d10 bludgeoning damage. |
-| **100** | **The Flying Dutchman:** A cursed, legendary ghost ship attacks. It cannot be sunk, only outrun. |
+| **1-3** | **Clear Skies:** No encounter. The crew makes good time. |
+| **4-5** | **Consortium Convoy:** 3 Merchant Cogs guarded by a Corvette. They are paranoid and heavily armed. |
+| **6-7** | **Dominion Customs Check:** An Ironclad Cutter demands to board and inspect cargo. |
+| **8-9** | **Rival Pirates:** A Free Captain galleon flies a false flag, attempting to get close before firing. |
+| **10** | **Floating Bazaar:** A neutral, multi-ship raft city where players can trade cargo or buy rare items. |
+| **11-12** | **Kelp Forest:** The ship enters a massive Sargasso sea. Speed is halved, and 1d4 Sentient Kelp Masses (CR 6) attack. |
+| **13-14** | **Reef Graveyard:** Sharp coral. DC 15 Water Vehicles check or take 4d10 hull damage. |
+| **15** | **Distress Signal:** A lifeboat with 1d4 starving sailors. (50% chance it is a trap by Abyssal Thralls). |
+| **16** | **Merfolk Traders:** Friendly aquatic nomads offering to trade pearls for hardtack. |
+| **17** | **The Governor's Yacht:** A lavish, lightly defended ship carrying a corrupt official and a fortune in gold. |
+| **18** | **Kraken Hatchling:** A juvenile, but still massive, squid tests its tentacles against the hull. |
+| **19** | **Smuggler's Drop:** A buoy marking a sunken chest. Contains 1d4 units of Tier 3 Contraband. |
+| **20** | **The Flying Dutchman:** A cursed, legendary ghost ship attacks. It cannot be sunk, only outrun. |
+
+### B. The Deep Abyss (Uncharted & Dangerous)
+| 1d20 | Encounter |
+| :---: | :--- |
+| **1-3** | **Eerie Calm:** The ocean is black as glass. No wind. Silence. |
+| **4-5** | **Silk House Ambush:** 2d4 Drow Deep-Weavers board the ship at midnight from beneath the waves. |
+| **6-7** | **Ghost Ship:** An abandoned vessel drifting aimlessly. Dinner is still warm on the table. |
+| **8-9** | **Bioluminescent Swarm:** Millions of glowing jellyfish. Beautiful, but highly acidic to the hull. |
+| **10** | **Precursor Spire:** A metallic obelisk juts from the ocean. Emits a low hum that causes minor headaches. |
+| **11-12** | **Whaling Fleet:** Highly skilled hunters chasing a massive beast. They offer a bounty if the players help. |
+| **13-14** | **Abyssal Trench:** The water pressure inexplicably shifts. The ship is violently pulled toward a whirlpool. |
+| **15** | **Dominion Dreadnought:** A massive warship (CR 15) searching for precursor tech. Run and hide. |
+| **16** | **The Deep Mother's Blessing:** The ocean turns black, and all damaged ships are instantly repaired (hulls turn to bone). |
+| **17** | **Leviathan Sighting:** A true Leviathan breaches miles away. A tidal wave forces a DC 15 Dex save to avoid 4d10 damage. |
+| **18** | **Mind-Flayer Nautiloid:** A crashed alien ship floating on the surface. Contains bizarre tech and psychic horrors. |
+| **19** | **Sunken City Rise:** For 1 hour, a block of an ancient city rises above the waves before sinking again. |
+| **20** | **Lesser Leviathan Spawn (CR 10):** A direct attack by an apex predator. |
+
+### C. The Aether-Storms (Magical Fallout Zones)
+| 1d20 | Encounter |
+| :---: | :--- |
+| **1-3** | **Green Lightning:** All magic spells cast for the next hour trigger a Wild Magic Surge. |
+| **4-5** | **Gravity Inversion:** The ocean water floats upward. The ship is lifted into the air for 1 hour before crashing down. |
+| **6-7** | **Blood Rain:** Toxic rain falls. Any creature exposed outside takes 1d4 acid damage per minute. |
+| **8-9** | **Time Dilation:** The ship sails for what feels like 10 minutes, but 3 days have passed in the outside world. |
+| **10** | **Aether-Rift:** The sky tears open. The ship is instantly teleported 1d100 miles in a random direction. |
+| **11-12** | **Crystal Formations:** Jagged Aether-Crystals grow rapidly on the hull. Must be chipped off carefully (DC 15 Dex) or they explode. |
+| **13-14** | **Shadow Copies:** The storm creates hostile, shadowy duplicates of the crew that board the ship. |
+| **15** | **The Silence:** All sound ceases to exist for 24 hours. Spellcasting with Verbal components is impossible. |
+| **16** | **Rogue Aegis Automaton (CR 7):** A precursor machine, activated by the storm, descends from the clouds. |
+| **17** | **Memory Fog:** Visibility drops to zero. Crew members must save vs Wisdom or forget the last year of their lives. |
+| **18** | **Storm-Lords:** Elementals of pure Aether clash in the sky above. Their stray attacks might hit the ship. |
+| **19** | **The Golden Wind:** A miraculously beneficial storm. The ship's speed is tripled and all crew heal to maximum HP. |
+| **20** | **The Eye of the Gods:** A massive, unblinking eye opens in the storm clouds and stares directly at the Captain. Gain 1 permanent madness, but learn 1 cosmic secret. |
 
 ---
 
-## 2. Weather & Environmental Hazards
-The weather in the Shattered Expanse is rarely natural, heavily influenced by the raw magic of the Aether. Roll 1d20 each morning.
+## 2. Dynamic Rumor Generator (1,000 Combinations)
+Instead of a static list, roll 1d10 on each of the three columns below to generate a unique rumor heard in a tavern.
 
-### Aether-Weather (d20)
-| d20 | Weather Condition | Effect |
-| :---: | :--- | :--- |
-| **1-10** | **Fair Weather** | Standard travel conditions. |
-| **11-13** | **Thick Fog** | Visibility is reduced to 30 feet. Navigating requires a DC 15 Survival check to avoid getting lost. |
-| **14-15** | **Dead Calm** | No wind. Sailing ships cannot move unless they have oars or an aether-engine. |
-| **16-17** | **Gale Force Winds** | Speed is doubled, but the ship takes 1d10 bludgeoning damage every hour from the stress on the rigging. |
-| **18** | **Aether-Storm** | Green lightning fills the sky. All magic spells cast during the storm trigger a Wild Magic Surge. |
-| **19** | **Blood Rain** | Toxic, red rain falls. Any creature exposed outside takes 1d4 acid damage per minute. |
-| **20** | **Gravity Inversion** | The ocean water begins to float upward like rain in reverse. The ship is lifted into the air for 1 hour before crashing back down. |
-
----
-
-## 3. Uncharted Island Generator
-When the players discover an island not on their map, roll to determine its nature.
-
-### Island Type (d6)
-1. **Volcanic:** Active lava flows, obsidian cliffs, high temperatures.
-2. **Jungle:** Dense, uncharted flora. Extremely humid.
-3. **Barren Rock:** Just a spire of grey stone. Excellent for a hidden base.
-4. **Precursor Metal:** The island is actually the hull of a massive, ancient, sunken spacecraft.
-5. **Coral Atoll:** A ring of sharp coral surrounding a pristine, glowing lagoon.
-6. **Fungal:** Covered in towering, bioluminescent mushrooms that release hallucinogenic spores.
-
-### Island Inhabitants (d6)
-1. **Uninhabited:** Just wildlife and nature.
-2. **Marooned Pirate:** A lone, half-mad survivor with a treasure map.
-3. **Hostile Natives:** A tribe of deeply territorial Lizardfolk or Grungs.
-4. **Dominion Outpost:** A secret military listening post.
-5. **Cult of the Deep:** Worshippers of the Leviathans conducting a ritual.
-6. **Ancient Guardian:** A slumbering golem or dragon guarding a hoard.
-
-### Island Secret (d6)
-1. **Buried Treasure:** 3d6 x 1,000 gp buried in a chest.
-2. **Cursed Idol:** Taking it grants a magic item, but curses the ship with bad luck.
-3. **Freshwater Spring:** A magical spring that cures all diseases when drunk.
-4. **Ship Graveyard:** 2d4 wrecked ships containing salvageable cargo.
-5. **Portal:** A glowing gateway leading directly to the nearest major port.
-6. **It's Alive:** The island is actually the back of a dormant, colossal sea turtle.
+| 1d10 | Who (The Subject) | What (The Action) | Where (The Location) |
+| :---: | :--- | :--- | :--- |
+| **1** | The Grand Inquisitor | was secretly assassinated | in the dungeons of Port Vengeance. |
+| **2** | A Silk House Matron | discovered a massive gold hoard | beneath a dormant volcano. |
+| **3** | The Consortium CEO | is building a super-weapon | at the edge of the map. |
+| **4** | A legendary pirate ghost | summoned a Leviathan | inside a floating bazaar. |
+| **5** | The Governor | is smuggling Aether-Crystals | in a sunken precursor ruin. |
+| **6** | A mutinous crew | awakened a sleeping god | disguised as a merchant cog. |
+| **7** | A Mind-Flayer | is trading secrets for blood | at the bottom of an abyssal trench. |
+| **8** | The King's bastard son | stole a Dreadnought | right under the navy's nose. |
+| **9** | A crazed Aether-Mage | opened a portal to the Abyss | inside the belly of a dead whale. |
+| **10** | The First Captains | are returning from the dead | to reclaim their lost armada. |
 
 ---
 
-## 4. Port Rumors & Black Market Loot
-When players spend a night in a tavern or port, they can roll 1d10 on the Rumor table to find plot hooks, or check the Black Market Loot table (d10) to see what rare items are for sale today.
+## 3. Modular Black Market Loot (1,000 Combinations)
+Roll 1d10 on each column to generate a bizarre, highly illegal item found for sale (Cost: 1d4 x 500 gp).
 
-### Tavern Rumors (d10)
-1. "The Dominion is building a new super-weapon at Port Vengeance."
-2. "A Silk House priestess was assassinated yesterday. War is coming."
-3. "There's a ghost ship that trades gold for memories. I swear I saw it."
-4. "The Consortium just raised the bounty on Captain Blackwood to 50,000 gp."
-5. "Don't sail east. The Leviathans are migrating early this year."
-6. "The old lighthouse on Crag Isle lit up last night. It's been abandoned for a century."
-7. "The Governor is secretly a vampire. Check the lack of mirrors in his mansion!"
-8. "I heard a crew pulled up a solid gold cannon from the abyss. It fired it once, and the gunner turned to dust."
-9. "Aether-crystal prices are about to crash. The Dominion found a new mine."
-10. "The First Captains aren't dead. They're sleeping under the world."
-
-### Black Market Loot (d10)
-*Items found here cost 1d4 x 100 gp and are highly illegal.*
-1. A perfectly forged Consortium Trade License.
-2. A vial of Leviathan blood (acts as a *Potion of Supreme Healing*).
-3. A map showing the safe route through the treacherous 'Knife's Edge' reef.
-4. A small, caged, incredibly foul-mouthed parrot that speaks every language.
-5. A single shot of Aether-Rifle ammunition that deals necrotic damage instead of force.
-6. A ledger detailing the Governor's extramarital affairs (excellent blackmail).
-7. A compass that always points to the nearest source of fresh rum.
-8. A jar of glowing blue mud that can instantly patch a hole in a ship's hull.
-9. A set of loaded dice that can be mentally commanded to roll specific numbers.
-10. A skeletal hand wearing a ring that grants the wearer Darkvision.
+| 1d10 | Condition | Item | Quirk / Flaw |
+| :---: | :--- | :--- | :--- |
+| **1** | A blood-stained | Consortium Trade License | that smells faintly of sulfur. |
+| **2** | A perfectly forged | vial of Leviathan blood | that whispers when you hold it. |
+| **3** | A glowing blue | nav-compass | that only points toward danger. |
+| **4** | A skeletal | Aether-Rifle | that requires HP instead of ammo to fire. |
+| **5** | An intricately carved | set of loaded dice | that causes minor earthquakes on a 6. |
+| **6** | A precursor-metal | spyglass | that lets you see 1 minute into the past. |
+| **7** | A violently vibrating | jar of medical salve | that heals wounds but turns skin transparent. |
+| **8** | A heavily restricted | ledger of blackmail | written entirely in a dead language. |
+| **9** | A surprisingly heavy | parrot (living) | that constantly insults the Dominion. |
+| **10** | A still-beating | heart in a jar | that can revive one dead creature, once. |

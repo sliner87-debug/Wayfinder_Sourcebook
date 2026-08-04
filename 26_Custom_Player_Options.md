@@ -333,6 +333,240 @@ At 17th level, your strikes are as sudden and devastating as a Leviathan breachi
 
 ---
 
+### Cleric: Deep Domain
+Clerics of the Deep Domain revere the crushing, infinite expanse of the ocean. Many are tied to the Silk Houses, worshipping the Deep Mother or the Slumbering Leviathans. They wield the terrifying pressure of the abyss and the strange vitality of mutated sea life to heal their allies and crush their foes.
+
+**Domain Spells**
+You gain domain spells at the cleric levels listed in the Deep Domain Spells table.
+- **1st:** *create or destroy water, thunderwave*
+- **3rd:** *blindness/deafness, darkness*
+- **5th:** *water breathing, wall of water*
+- **7th:** *control water, watery sphere*
+- **9th:** *maelstrom, scrying*
+
+**Bonus Proficiency**
+When you choose this domain at 1st level, you gain proficiency with heavy armor and tridents.
+
+**Abyssal Resilience**
+Also at 1st level, your body begins to adapt to the crushing depths. You gain a swimming speed equal to your walking speed, and you can breathe underwater. 
+
+**Channel Divinity: Crushing Depths**
+Starting at 2nd level, you can use your Channel Divinity to subject your foes to the terrifying pressure of the deep sea. As an action, you present your holy symbol, and a 20-foot-radius sphere of crushing, heavy water appears centered on a point you can see within 60 feet. Each hostile creature in that area must make a Strength saving throw. A creature takes bludgeoning damage equal to 2d10 + your cleric level on a failed save, and its movement speed is halved until the end of its next turn. On a successful save, it takes half damage and suffers no movement penalty.
+
+**Mutating Touch**
+At 6th level, your healing magic forces rapid, sometimes unsettling, biological adaptation. When you cast a spell of 1st level or higher that restores hit points to a creature other than you, that creature gains temporary hit points equal to your cleric level, and it grows gills and webbing, allowing it to breathe underwater and granting it a swimming speed equal to its walking speed for 1 hour.
+
+**Divine Strike**
+At 8th level, you are infused with the freezing cold of the sunless sea. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 cold damage. When you reach 14th level, the extra damage increases to 2d8.
+
+**Avatar of the Leviathan**
+At 17th level, you can perfectly channel the apex predators of the deep. You gain resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks. Additionally, as an action, you can unleash a terrifying roar. All enemies within 60 feet of you that can hear you must succeed on a Wisdom saving throw against your spell save DC or become frightened of you for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns. Once you use this roar, you cannot use it again until you finish a long rest.
+
+---
+
+### Druid: Circle of the Reef
+Druids of the Circle of the Reef are the fierce protectors of the Shattered Expanse's fragile underwater ecosystems. They view the industrialization of the Dominion and the Consortium as a disease, utilizing coral armor, grappling vines, and aquatic transformations to sink ships and drag polluters into the depths.
+
+**Reef Magic**
+Your connection to the vibrant life of the coral reefs infuses you with the ability to cast certain spells. You gain the *shape water* cantrip if you don't already know it. You also gain the following spells at the listed druid levels:
+- **3rd:** *entangle, spike growth*
+- **5th:** *water walk, tidal wave*
+- **7th:** *control water, grasping vine*
+- **9th:** *wrath of nature, maelstrom*
+
+**Living Coral Armor**
+At 2nd level, you can use an action to expend one use of your Wild Shape feature to coat your body in a layer of jagged, living coral, rather than transforming into a beast. While this armor is active, you gain the following benefits:
+- Your AC becomes 16 (if it is not already higher).
+- You gain temporary hit points equal to 4 times your druid level.
+- When a creature within 5 feet of you hits you with a melee attack, it takes 1d4 piercing damage from the sharp coral.
+The armor lasts for 10 minutes, until you lose all the temporary hit points, or until you use your Wild Shape again.
+
+**Symbiotic Grapple**
+At 6th level, your magic calls upon the aggressive kelp of the Sargasso seas. When you cast a spell that creates difficult terrain or restrains creatures (like *entangle* or *spike growth*), you can choose one creature within the spell's area. That creature must succeed on a Strength saving throw against your spell save DC or be grappled by kelp vines (escape DC equals your spell save DC).
+
+**Aquatic Mastery**
+At 10th level, you can expend two uses of Wild Shape at the same time to transform into a Water Elemental. Additionally, whenever you are in your normal form or a Wild Shape form, you have resistance to cold damage and cannot be grappled or restrained while underwater.
+
+**Apex Predator**
+At 14th level, when you reduce a creature to 0 hit points with a spell or a melee attack while your Living Coral Armor is active, the coral rapidly feeds on the biological matter, restoring hit points to you equal to your Wisdom modifier + your druid level. You can benefit from this feature only once per turn.
+
+---
+
+### Fighter: Dominion Marine
+The Crimson Dominion relies on disciplined, heavily armored shock-troops to maintain order and board enemy vessels. The Dominion Marine excels in brutal, close-quarters ship combat, relying on tactical superiority, breaching techniques, and the use of prototype Aether-Rifles.
+
+**Dominion Tactics**
+When you choose this archetype at 3rd level, you learn maneuvers that are fueled by special dice called superiority dice.
+- **Maneuvers:** You learn three maneuvers of your choice from the Battle Master archetype (PHB). Many Marines favor *Pushing Attack*, *Trip Attack*, and *Brace*.
+- **Superiority Dice:** You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
+- **Saving Throws:** If a maneuver requires a saving throw, the DC is 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
+
+**Breach and Clear**
+Also at 3rd level, you excel at violent boarding actions. When you roll initiative, if you are not surprised, you can move up to your speed as a reaction. If you end this movement adjacent to a door, window, or weak structure, you can make a single melee weapon attack against it to attempt to breach it.
+
+**Aether-Tech Proficiency**
+At 7th level, you are fully trained in the use of Dominion technology. You gain proficiency with firearms (including Aether-Rifles and Pistols). Furthermore, you ignore the "loading" property of firearms, and when you score a critical hit with a firearm, the target is pushed 10 feet away from you due to the force of the blast.
+
+**Ironclad Advance**
+At 10th level, you become an immovable object. When you use your Action Surge, you also gain temporary hit points equal to 1d10 + your fighter level. While you have these temporary hit points, you cannot be pushed, pulled, or knocked prone against your will.
+
+**Relentless Assault**
+At 15th level, when you roll initiative and have no superiority dice remaining, you regain one superiority die.
+
+**Grand Inquisitor's Zeal**
+At 18th level, your dedication to the Dominion is absolute. When you use your Indomitable feature to reroll a failed saving throw, you add your fighter level to the new roll, ensuring that almost nothing can break your resolve.
+
+---
+
+### Monk: Way of the Shifting Tide
+Monks of the Shifting Tide, often found among the Free Captains, study the chaotic movements of the ocean. They fight like the sea itself: calm and receding one moment, a devastating tidal wave the next. They excel at fighting on unstable surfaces and turning their enemies' momentum against them.
+
+**Sea Legs**
+When you choose this tradition at 3rd level, you permanently adapt to fighting on ships. You gain a swimming speed equal to your walking speed. Furthermore, you have advantage on any ability check or saving throw to avoid being knocked prone, and standing up costs you only 5 feet of movement.
+
+**Tidal Redirect**
+Also at 3rd level, you learn to use the flow of combat to redirect attacks. When a creature misses you with a melee attack, you can spend 1 ki point as a reaction to force that creature to repeat the same attack against a different creature of your choice (other than the attacker) within 5 feet of you. 
+
+**Water Whip**
+At 6th level, you can shape the moisture in the air into a striking tendril. As an action, you can spend 2 ki points to create a whip of water that shoves and pulls a creature to unbalance it. A creature that you can see that is within 30 feet of you must make a Dexterity saving throw. On a failed save, the creature takes bludgeoning damage equal to 3d10 + your Wisdom modifier, plus an extra 1d10 bludgeoning damage for each additional ki point you spend, and you can either knock it prone or pull it up to 25 feet closer to you. On a successful save, the creature takes half as much damage, and you don't pull it or knock it prone.
+
+**Ebb and Flow**
+At 11th level, you can perfectly time your retreats. When you take the Disengage action, you can spend 1 ki point to immediately move up to your unarmored movement speed. If you move through a hostile creature's space during this movement, you can make one unarmed strike against it.
+
+**Crashing Wave**
+At 17th level, you can unleash a devastating flurry of strikes that hits with the force of a tsunami. When you use your Flurry of Blows, you can make three unarmed strikes instead of two. If all three strikes hit the same target, the target must succeed on a Constitution saving throw or be stunned until the end of your next turn and pushed 15 feet away from you.
+
+---
+
+### Paladin: Oath of the Horizon
+Paladins who swear the Oath of the Horizon are explorers, navigators, and chart-makers. They are driven by a holy compulsion to map the Unwritten Sea, push the boundaries of the known world, and protect their crew from the abyssal horrors that lurk beyond the edge of the map.
+
+**Tenets of the Horizon**
+- **Discover:** The map is incomplete. It is your sacred duty to fill in the blank spaces.
+- **Guide:** A captain must protect their crew. You are the beacon that brings them home.
+- **Adapt:** The sea is unpredictable. You must be as well. Dogma must yield to survival.
+
+**Oath Spells**
+You gain oath spells at the paladin levels listed.
+- **3rd:** *create or destroy water, guiding bolt*
+- **5th:** *augury, misty step*
+- **9th:** *call lightning, water walk*
+- **13th:** *control water, freedom of movement*
+- **17th:** *commune with nature, scrying*
+
+**Channel Divinity**
+When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+- **Guiding Light:** As an action, you can present your holy symbol and summon a flare of divine light. For 1 minute, you shed bright light in a 30-foot radius and dim light for an additional 30 feet. Any ally within the bright light adds your Charisma modifier (minimum of +1) to their attack rolls.
+- **Turn the Deep:** As an action, you present your holy symbol and speak a prayer censuring aberrations and beasts of the sea. Each aberration or beast within 30 feet of you that can hear you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.
+
+**Aura of the Navigator**
+Starting at 7th level, you exude an aura of perfect direction and safety. You and friendly creatures within 10 feet of you cannot be lost by magical or nonmagical means, and ignore difficult terrain caused by environmental hazards (like heavy rain, deep snow, or magical plants). At 18th level, the range of this aura increases to 30 feet.
+
+**Unstoppable Voyage**
+At 15th level, you can magically propel yourself or an ally out of danger. As a reaction when you or a friendly creature within 30 feet of you takes damage, you can grant the target resistance to the triggering damage, and they can immediately move up to half their speed without provoking opportunity attacks.
+
+**Horizon Walker**
+At 20th level, you can merge with the concept of the horizon itself. As an action, you undergo a transformation. For 1 minute, you gain the following benefits:
+- You gain a flying speed of 60 feet.
+- You can teleport up to 30 feet as a bonus action on each of your turns.
+- When you hit a creature with a weapon attack, the attack deals an extra 1d10 radiant damage, and the creature sheds dim light, preventing it from benefiting from being invisible or taking the Hide action until the end of its next turn.
+Once you use this feature, you can't use it again until you finish a long rest.
+
+---
+
+### Ranger: Leviathan Hunter
+While some hunt pirates, you hunt monsters. The Leviathan Hunter specializes in tracking, fighting, and butchering colossal beasts. They are fearless sailors who wield massive harpoons and are trained to resist the mind-shattering terror of apex predators.
+
+**Leviathan Hunter Magic**
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Leviathan Hunter Spells table.
+- **3rd:** *hunter's mark*
+- **5th:** *hold person*
+- **9th:** *water breathing*
+- **13th:** *freedom of movement*
+- **17th:** *hold monster*
+
+**Harpoon Mastery**
+At 3rd level, you become a master of the harpoon (treat as a javelin or spear). When you hit a creature with a thrown harpoon that has a rope attached to it, the creature is tethered to you. While tethered, the creature cannot move further away from you unless it succeeds on a Strength (Athletics) check contested by your Strength (Athletics) check. You can use a bonus action to pull a tethered creature that is Large or smaller up to 10 feet closer to you. The tether can be broken if the rope is destroyed (AC 11, 5 HP).
+
+**Colossus Slayer**
+Also at 3rd level, you deal extra damage to large targets. Once per turn, when you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it's below its hit point maximum. If the creature is Large or larger, this extra damage increases to 1d10.
+
+**Iron Nerve**
+At 7th level, you have stared down the horrors of the deep. You have advantage on saving throws against being frightened. If you succeed on a saving throw against being frightened, you can use your reaction to make one weapon attack against the creature that attempted to frighten you.
+
+**Whaler's Evasion**
+At 11th level, you are adept at dodging the massive, sweeping attacks of giant beasts. When a creature that is Large or larger makes a melee attack against you, you can use your reaction to impose disadvantage on the attack roll.
+
+**The Bigger They Are**
+At 15th level, you can strike the weak points of massive creatures with lethal precision. When you hit a creature that is Large or larger with a weapon attack, you can choose to make the attack a critical hit. Once you use this feature, you cannot use it again until you finish a long rest.
+
+---
+
+### Sorcerer: Aether-Touched Bloodline
+The Unwritten Sea is awash in Aether—a volatile, green, precursor energy. Sometimes, a child born in an Aether-Storm, or a sailor exposed to a cracked reactor core, absorbs this chaotic magic. You are a living battery of raw, unstable power, capable of hovering, unleashing pure force, and overriding reality.
+
+**Aetheric Resonance**
+At 1st level, your body is suffused with anti-gravity energy. You can hover up to 1 foot off the ground. You ignore difficult terrain and taking damage from falling as long as you are conscious.
+
+**Volatile Magic**
+Also at 1st level, the magic you cast is unstable. When you cast a sorcerer spell of 1st level or higher that deals damage, you can choose to change the damage type to force damage. If you do, you must roll 1d20. On a roll of 1, a surge of aether backfires; you take force damage equal to the spell's level, and all creatures within 10 feet of you (including allies) take the same amount of damage.
+
+**Overclocked Spells**
+At 6th level, you can push your magical capacity beyond safe limits. When you cast a spell that requires a saving throw, you can spend 2 sorcery points to increase the spell save DC by 2 for that casting. When you do so, you take 1d6 necrotic damage per level of the spell cast, which cannot be reduced in any way.
+
+**Aetheric Flight**
+At 14th level, you can fully manipulate the anti-gravity properties of the Aether. You gain a flying speed equal to your walking speed, and you can hover indefinitely.
+
+**Core Meltdown**
+At 18th level, you can unleash the entirety of the Aether trapped within you in a devastating explosion. As an action, you can spend 5 sorcery points to release a blast of pure force. Every creature within a 30-foot radius of you must make a Constitution saving throw. On a failed save, a creature takes 10d10 force damage and is stunned until the end of its next turn. On a successful save, a creature takes half damage and isn't stunned. After using this feature, you suffer 1 level of exhaustion. 
+
+---
+
+### Warlock: The Sunken King Patron
+Your patron is a remnant of the First Captains—perhaps a dormant AI trapped in a sunken Dreadnought, or the digitized, insane consciousness of an ancient admiral. In exchange for your servitude, they grant you access to hard-light technology, robotic thralls, and devastating precursor weaponry.
+
+**Expanded Spell List**
+The Sunken King lets you choose from an expanded list of spells when you learn a warlock spell.
+- **1st:** *magic missile, shield*
+- **2nd:** *heat metal, shatter*
+- **3rd:** *lightning bolt, tiny hut*
+- **4th:** *fabricate, resilient sphere*
+- **5th:** *animate objects, wall of force*
+
+**Aegis Shielding**
+At 1st level, your patron grants you a personal hard-light defense system. As a bonus action, you can project a glowing hexagonal shield around yourself. You gain temporary hit points equal to your Warlock level + your Charisma modifier. While you have these temporary hit points, you have a +1 bonus to your AC. You can use this feature a number of times equal to your proficiency bonus, and regain expended uses on a long rest.
+
+**Technomantic Thrall**
+At 6th level, your patron teaches you how to animate machinery. You can cast *animate dead* once without expending a spell slot, but instead of targeting corpses, you target piles of scrap metal or broken machines. They use the statistics of a Skeleton or Zombie, but they are Constructs instead of Undead, and are immune to poison damage. You regain the ability to cast it this way when you finish a long rest.
+
+**Override Protocol**
+At 10th level, your mind is shielded by ancient encryption. You are immune to being charmed, and when another creature attempts to read your mind, deal psychic damage to you, or charm you, you can use your reaction to deal psychic damage to them equal to your warlock level, as your patron floods their mind with chaotic data streams.
+
+**Orbital Strike**
+At 14th level, you can call upon the dormant weaponry of a sunken Dreadnought. As an action, you target a point you can see within 120 feet. A massive beam of concentrated Aether energy strikes the point from the sky (or from beneath the water). Each creature in a 20-foot-radius, 100-foot-high cylinder centered on that point must make a Dexterity saving throw. A creature takes 8d10 force damage on a failed save, or half as much on a successful one. Once you use this feature, you can't use it again until you finish a long rest.
+
+---
+
+### Wizard: School of Cartography
+The Unwritten Sea is a place of shifting geography and unmappable dangers. Wizards of the School of Cartography are highly sought after by the Consortium and Free Captains alike. They do not just draw maps; they manipulate the geometry of space, bending distance, gravity, and location to their will.
+
+**Cartographer's Eye**
+Beginning when you select this school at 2nd level, you gain proficiency with Cartographer's tools and Navigator's tools. You always know which way is north, you cannot become lost by nonmagical means, and you have perfect recall of any map you have studied within the last month.
+
+**Spatial Shift**
+Also at 2nd level, you learn to manipulate small distances. As a bonus action, you can magically teleport up to 10 feet to an unoccupied space you can see. You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
+
+**Rewrite Geometry**
+At 6th level, you can alter the battlefield as easily as erasing a line on a map. As an action, you can swap the positions of two willing creatures you can see within 60 feet of you. Alternatively, you can force one unwilling creature to swap positions with you. The unwilling creature must succeed on a Charisma saving throw against your spell save DC. If they fail, you swap places. You can use this feature a number of times equal to your proficiency bonus, regaining uses on a long rest.
+
+**Navigational Hazard**
+At 10th level, you can draw hazards into reality. When you cast a spell that covers an area (like *fireball* or *web*), you can choose to leave a magical residue in the area. The entire area of the spell becomes difficult terrain for 1 minute. You can choose a number of creatures equal to your Intelligence modifier to ignore this difficult terrain.
+
+**Master of the Map**
+At 14th level, space bends completely to your will. You add the *teleport* spell to your spellbook if you don't already have it. Furthermore, you can cast *teleport* without expending a spell slot once per long rest. When you do so, if the target destination is a location you have personally mapped with Cartographer's tools, you treat the destination as a "Permanent circle" for the purpose of the mishap table (meaning you always arrive exactly on target).
+
+---
+
 ## 3. Setting-Specific Feats
 
 If your DM allows the use of feats, you may choose the following options, which represent unique adaptations to the Shattered Expanse.

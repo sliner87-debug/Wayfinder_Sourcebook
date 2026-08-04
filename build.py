@@ -39,7 +39,8 @@ files = [
     "32_GM_Roll_Tables.md",
     "33_The_Living_World.md",
     "34_Rogues_Gallery.md",
-    "35_Introductory_Adventure.md"
+    "35_Introductory_Adventure.md",
+    "36_Art_Gallery_and_VTT_Assets.md"
 ]
 
 combined = "# Wayfinder Corsair Campaign Setting & Rulebook\n\n"

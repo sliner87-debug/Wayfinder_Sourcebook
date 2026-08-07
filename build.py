@@ -41,7 +41,8 @@ files = [
     "33_The_Living_World.md",
     "34_Rogues_Gallery.md",
     "35_Introductory_Adventure.md",
-    "36_Art_Gallery_and_VTT_Assets.md"
+    "36_Art_Gallery_and_VTT_Assets.md",
+    "37_Naval_Loot_Tables.md"
 ]
 
 combined = ""

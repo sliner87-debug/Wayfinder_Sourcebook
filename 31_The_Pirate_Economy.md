@@ -116,3 +116,20 @@ Running a pirate empire is expensive. At the start of every in-game month, the c
 - **Ship Maintenance:** 100 gp per ship owned.
 
 *If Upkeep is not paid, Retainers desert, the Hideout degrades by 1 Tier, and Crew Morale plummets (see Chapter 32.5).*
+
+---
+
+## 4. The City-Ship Economy (Size 6 Vessels)
+
+When a vessel like *The Sovereign Braid* reaches Size 6, it effectively functions as a mobile Pirate Base. The standard Upkeep rules expand significantly to account for a massive civilian population.
+
+### Population & Taxation
+A City-Ship houses a **Population** rather than just a crew. 
+- **Taxation:** At the start of every month, the Captain can levy a tax on the population. The city generates **100 gp per 1,000 Citizens**. However, levying taxes temporarily halts passive Morale regeneration.
+- **The Food Sink:** Feeding thousands of people on the open ocean is a logistical nightmare. The base monthly Upkeep for a Size 6 vessel is **1,000 gp per 1,000 Citizens**. This represents the cost of bulk rations, fresh water, and aether-fuel.
+- **Self-Sustaining Districts:** If the ship has specialized Upgrades (e.g., Hydroponic Gardens, Colossal Fishing Nets), the Food Sink cost is halved. 
+
+### Merchant Districts
+If the City-Ship has a **Merchant's Ward** installed, it acts as a mobile free-port. 
+- While anchored near a trade route or another port, the Merchant's Ward generates an additional **1d4 x 1,000 gp** per week in passive trade income. 
+- You may also permanently hire Retainers directly onto the ship, paying their salaries just as you would for a static Hideout.

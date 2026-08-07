@@ -24095,6 +24095,7 @@ Every vessel in the Expanse is built upon a fundamental chassis, defined by its 
 | **3** | Cutter / Brig | Heavy Cutter, Corsair Brig | 300 | 16 | 45 ft. | 12 | 15 | 40 |
 | **4** | Galleon / Heavy Cargo | Merchant Galleon, Carrack | 600 | 14 | 30 ft. | 20 | 25 | 100 |
 | **5** | Capital Vessel / Dreadnought | Experimental Ironclad, Flagship | 1,200 | 18 | 20 ft. | 40 | 50 | 300+ |
+| **6** | Leviathan / Floating City | Sovereign Braid, Mobile Pirate Haven | 5,000 | 20 | 10 ft. | 100 | 150 | 5,000+ Population |
 
 *Note: Base HP and AC represent a standard wooden hull. Precursor Plating or Magical Wards will modify these numbers.*
 
@@ -24140,9 +24141,29 @@ A ship's **Upgrade Slots** represent the internal volume and structural hardpoin
 | **Violet Aether-Core Engine** | 15 | Pristine Violet Core | Ship no longer relies on wind. Grants +2 Speed (e.g. +20 ft), +1 Maneuverability, and a passive 20 HP Ward-Shield that regenerates daily. |
 | **Sentential Drone Bay** | 4 | Salvaged Drone Core | Houses an aquatic drone that provides automated perimeter defense and underwater scouting. |
 
+### City Districts (Size 6 Only)
+*These massive installations turn a Dreadnought into a true Floating City. They consume vast amounts of space and require a permanent civilian population to operate.*
+
+| District Module | Slots Required | Cost / Materials | Effect |
+| :--- | :---: | :--- | :--- |
+| **The Warrens (Slums)** | 10 | 10,000 gp | Basic civilian housing. Increases maximum population capacity by 1,000. Reduces city Morale if overcrowded. |
+| **Merchant's Ward** | 15 | 25,000 gp | A sprawling bazaar. Generates a passive income of 1d4 x 1,000 gp per week, provided the ship visits populated waters to trade. |
+| **Temple of the Four Energies** | 20 | Pristine Core + 50,000 gp | A monumental ziggurat channeling Arcane, Divine, Psionic, and Deep Magic. Grants massive city-wide wards (e.g. permanent *Control Weather* and *Forbiddance*). |
+| **Precursor Forge District** | 20 | Automated Forge Module | A massive industrial zone. Allows the city to mint its own Precursor Naval Cannons and Aether-tech over time. |
+
 ---
 
-## 4. Officer Roles & Combat Flow
+## 4. Floating City Mechanics (Size 6)
+
+When a vessel reaches Size 6 (Leviathan), it transcends standard naval combat. It operates on macro-scale mechanics:
+1. **Population & Morale:** Instead of a Minimum Crew, the ship requires a **Population** to man the districts. The Captain must manage a **Morale Gauge** (1-100). If Morale drops below 30 (due to starvation, plague, or defeat in battle), riots break out in The Warrens, shutting down District modules.
+2. **City Turns:** In ship-to-ship combat, a Size 6 vessel is too massive to maneuver like a sloop. It operates on "City Turns," acting at Initiative Count 20 and 10 to unleash devastating, synchronized broadsides across multiple batteries at once.
+3. **Internal Ecosystem:** A Floating City must consume massive resources. Feeding 5,000 citizens requires specialized Upgrades (e.g., Hydroponic Gardens, Colossal Fishing Nets) or draining the Pirate Economy treasury weekly.
+4. **Flotilla Mooring:** A Floating City does not expand by simply building higher wooden towers; it expands by consuming other ships. Allied or captured vessels (Sizes 1-4) can permanently moor themselves to the hull of a Size 6 vessel, physically lashing themselves to the main structure. Each permanently moored vessel adds its internal volume to the Floating City, allowing the Captain to install new City Districts inside the lashed hulls of the flotilla.
+
+---
+
+## 5. Officer Roles & Combat Flow
 
 Naval combat happens in standard initiative. The ship itself does not roll initiative; instead, it moves and acts on the turn of the **Helmsman**. 
 
@@ -24171,7 +24192,7 @@ The chief engineer and disciplinarian, keeping the ship and crew functioning.
 
 ---
 
-## 5. Wayfinder Ship Bond Synergy
+## 6. Wayfinder Ship Bond Synergy
 
 Wayfinder Corsairs possess the **Ship Bond** class feature. When a Wayfinder acts as the Captain of a vessel, the ship transcends its mechanical limitations:
 1. **Magical Evasion:** The ship can substitute the Wayfinder's AC bonuses or saving throws for its own when subjected to magical or broadside attacks.
@@ -24827,6 +24848,23 @@ Running a pirate empire is expensive. At the start of every in-game month, the c
 - **Ship Maintenance:** 100 gp per ship owned.
 
 *If Upkeep is not paid, Retainers desert, the Hideout degrades by 1 Tier, and Crew Morale plummets (see Chapter 32.5).*
+
+---
+
+## 4. The City-Ship Economy (Size 6 Vessels)
+
+When a vessel like *The Sovereign Braid* reaches Size 6, it effectively functions as a mobile Pirate Base. The standard Upkeep rules expand significantly to account for a massive civilian population.
+
+### Population & Taxation
+A City-Ship houses a **Population** rather than just a crew. 
+- **Taxation:** At the start of every month, the Captain can levy a tax on the population. The city generates **100 gp per 1,000 Citizens**. However, levying taxes temporarily halts passive Morale regeneration.
+- **The Food Sink:** Feeding thousands of people on the open ocean is a logistical nightmare. The base monthly Upkeep for a Size 6 vessel is **1,000 gp per 1,000 Citizens**. This represents the cost of bulk rations, fresh water, and aether-fuel.
+- **Self-Sustaining Districts:** If the ship has specialized Upgrades (e.g., Hydroponic Gardens, Colossal Fishing Nets), the Food Sink cost is halved. 
+
+### Merchant Districts
+If the City-Ship has a **Merchant's Ward** installed, it acts as a mobile free-port. 
+- While anchored near a trade route or another port, the Merchant's Ward generates an additional **1d4 x 1,000 gp** per week in passive trade income. 
+- You may also permanently hire Retainers directly onto the ship, paying their salaries just as you would for a static Hideout.
 
 ---
 </chapter>

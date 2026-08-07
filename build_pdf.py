@@ -4,7 +4,7 @@ from playwright.sync_api import sync_playwright
 
 def build_pdf():
     input_file = "Wayfinder_Sourcebook.md"
-    output_pdf = "Wayfinder_Sourcebook_V1.pdf"
+    output_pdf = "Wayfinder_Sourcebook_V2.pdf"
     
     print("Reading markdown...")
     with open(input_file, 'r', encoding='utf-8') as f:
@@ -13,7 +13,8 @@ def build_pdf():
     print("Converting to HTML with TOC...")
     # 'toc' extension generates anchor links and can insert a TOC if [TOC] is present.
     # We will inject [TOC] at the top of the document for the index.
-    md_text = "# Wayfinder Corsair Sourcebook\n\n## Table of Contents\n[TOC]\n\n" + md_text
+    # We also add an explicit cover page div
+    md_text = "<div class='cover-page'>\n\n# Wayfinder Corsair Sourcebook\n\n</div>\n\n## Table of Contents\n[TOC]\n\n" + md_text
     
     html_content = markdown.markdown(md_text, extensions=['toc', 'tables', 'fenced_code'])
     
@@ -39,13 +40,16 @@ def build_pdf():
             text-align: center;
             margin-top: 50px;
         }
-        /* Except the very first H1 */
-        h1:first-of-type {
+        .cover-page h1 {
             page-break-before: auto;
-            margin-top: 0;
+            margin-top: 40vh;
+            border-bottom: none;
+            font-size: 4em;
         }
         h2 { font-size: 1.8em; margin-top: 30px; }
         h3 { font-size: 1.4em; border-bottom: none; }
+        
+        /* FIX: Ensure large tables can break across pages gracefully! */
         table {
             width: 100%;
             border-collapse: collapse;
@@ -53,7 +57,11 @@ def build_pdf():
             font-size: 0.9em;
             background-color: white;
             box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+            page-break-inside: auto;
+        }
+        tr {
             page-break-inside: avoid;
+            page-break-after: auto;
         }
         th, td {
             border: 1px solid #ddd;
@@ -80,7 +88,7 @@ def build_pdf():
             border: 2px solid #8b0000;
             border-radius: 5px;
             margin-bottom: 40px;
-            column-count: 1; /* For PDF reading, a single column TOC is often cleaner unless specified otherwise */
+            column-count: 1;
         }
         @media (min-width: 800px) {
             .toc {
@@ -112,6 +120,7 @@ def build_pdf():
             padding: 10px;
             border-radius: 5px;
             overflow-x: auto;
+            page-break-inside: avoid;
         }
         code {
             font-family: Consolas, monospace;
@@ -125,24 +134,29 @@ def build_pdf():
     with open(html_file, 'w', encoding='utf-8') as f:
         f.write(full_html)
         
-    print("Launching playwright to render PDF...")
+    print("Launching playwright to render PDF V2...")
     try:
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
             page = browser.new_page()
             file_url = "file:///" + os.path.abspath(html_file).replace('\\', '/')
             page.goto(file_url, wait_until="networkidle")
+            
             page.pdf(
                 path=output_pdf,
                 format="Letter",
                 print_background=True,
-                margin={"top": "0.5in", "bottom": "0.5in", "left": "0.5in", "right": "0.5in"}
+                margin={"top": "0.5in", "bottom": "0.75in", "left": "0.5in", "right": "0.5in"},
+                display_header_footer=True,
+                header_template="<div></div>",
+                footer_template="<div style='font-size: 10px; width: 100%; text-align: center; font-family: Georgia, serif;'>Page <span class='pageNumber'></span></div>",
+                tagged=True,
+                outline=True
             )
             browser.close()
         print(f"PDF successfully rendered to {output_pdf}")
     except Exception as e:
         print(f"Error during rendering: {e}")
-        print("Note: Ensure playwright browsers are installed by running: playwright install chromium")
     finally:
         if os.path.exists(html_file):
             os.remove(html_file)

@@ -9,11 +9,11 @@ The players begin in the chaotic shantytown of **Shipwreck Cove**. They are flat
 Silas has acquired an **Unstable Aether Core** stolen from a Dominion forge. It is highly volatile and highly illegal. He needs it transported immediately to a buyer waiting on a small, uncharted atoll called **Razor-Reef**, a two-day sail away. He promises 500 gp upon delivery.
 
 ## Part 1: The Voyage and The Patrol
-The players set sail. The DM should use this time to let players test their ship roles (rolling Navigation to plot a course, having the Quartermaster manage rations).
+The players set sail. The DM should use this time to let players test their ship roles (rolling Profession (sailor) or Knowledge (geography) to plot a course, having the Quartermaster manage rations).
 
 **The Encounter:** On the second day, a **Crimson Dominion Patrol Skiff** (Size 1) spots them. 
 - The Dominion ship will fire a warning shot and demand to board and inspect the cargo.
-- If the players allow the boarding, a **Dominion Marine** and an **Inquisitor** (See Chapter 35) will search the hold. They will find the core unless the players pass a DC 15 Bluff or Stealth check.
+- If the players allow the boarding, a **Dominion Marine** and an **Inquisitor** (See Chapter 35) will search the hold. They will find the core unless the players pass a DC 15 Bluff, Hide, or Move Silently check.
 - If combat breaks out, the DM runs a tutorial Naval Combat encounter. The Dominion Skiff has 50 Hull Points and two basic cannons. The goal is to either sink the patrol or damage their sails to escape.
 
 ## Part 2: Razor-Reef
@@ -35,3 +35,7 @@ During the fight (perhaps on Initiative count 0 of the second round), the wooden
 If the players survive and defeat Kargen, they can loot his body (finding a *Smuggler's Pocket* and 100 gp). If they saved the core, they can keep it. An Unstable Aether Core can be sold at a black market (like Shipwreck Cove) for 1,000 gp, or kept to power a future ship upgrade. 
 
 The players have officially made an enemy of the Grand Merchant Consortium, but they have their first real taste of plunder. They should reach Level 2 (or 3, if milestones are used).
+
+> **[PF1E Conversion Sidebar]**
+> - Use Stealth instead of Hide and Move Silently.
+> - Use Profession (sailor) or Survival for navigation and plotting courses instead of Knowledge (geography).

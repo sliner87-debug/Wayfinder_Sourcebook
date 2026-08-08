@@ -12,7 +12,9 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 - **Challenge:** 1/4 (50 XP)
 
 **STR:** 14 (+2) | **DEX:** 10 (+0) | **CON:** 16 (+3) | **INT:** 3 (-4) | **WIS:** 8 (-1) | **CHA:** 5 (-3)
-- **Base Atk:** +1 | **CMB:** +3 | **CMD:** 13
+- **Base Atk:** +1 | **Grapple:** +3
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +3 | **CMD:** 13
 - **Feats:** Toughness, Power Attack
 - **Damage Immunities:** poison
 - **Condition Immunities:** poisoned
@@ -34,9 +36,13 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 - **Challenge:** 2 (450 XP)
 
 **STR:** 18 (+4) | **DEX:** 13 (+1) | **CON:** 15 (+2) | **INT:** 2 (-4) | **WIS:** 10 (+0) | **CHA:** 4 (-3)
-- **Base Atk:** +4 | **CMB:** +9 | **CMD:** 20
+- **Base Atk:** +4 | **Grapple:** +9
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +9 | **CMD:** 20
 - **Feats:** Toughness, Power Attack
-- **Skills:** Perception +2
+- **Skills:** Spot +2, Listen +2, Search +2
+> **[PF1E Conversion Sidebar]**
+> **PF1E Skills:** Perception +2
 - **Senses:** blindsight 30 ft., passive Perception 12
 - **Damage Immunities:** force
 
@@ -57,7 +63,9 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 - **Challenge:** 3 (700 XP)
 
 **STR:** 11 (+0) | **DEX:** 16 (+3) | **CON:** 14 (+2) | **INT:** 13 (+1) | **WIS:** 14 (+2) | **CHA:** 18 (+4)
-- **Base Atk:** +6 | **CMB:** +6 | **CMD:** 19
+- **Base Atk:** +6 | **Grapple:** +6
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +6 | **CMD:** 19
 - **Feats:** Toughness, Power Attack
 - **Skills:** Deception +6, Performance +6
 - **Senses:** darkvision 60 ft.
@@ -80,7 +88,9 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 - **Challenge:** 4 (1,100 XP)
 
 **STR:** 19 (+4) | **DEX:** 10 (+0) | **CON:** 15 (+2) | **INT:** 3 (-4) | **WIS:** 12 (+1) | **CHA:** 6 (-2)
-- **Base Atk:** +6 | **CMB:** +12 | **CMD:** 22
+- **Base Atk:** +6 | **Grapple:** +12
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +12 | **CMD:** 22
 - **Feats:** Toughness, Power Attack
 - **Senses:** blindsight 60 ft.
 
@@ -100,7 +110,9 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 - **Challenge:** 6 (2,300 XP)
 
 **STR:** 19 (+4) | **DEX:** 9 (-1) | **CON:** 16 (+3) | **INT:** 3 (-4) | **WIS:** 10 (+0) | **CHA:** 1 (-5)
-- **Base Atk:** +9 | **CMB:** +14 | **CMD:** 23
+- **Base Atk:** +9 | **Grapple:** +14
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +14 | **CMD:** 23
 - **Feats:** Toughness, Power Attack
 - **Damage Immunities:** poison, psychic; piercing, and slashing from nonmagical attacks not made with adamantine weapons
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
@@ -124,7 +136,9 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 - **Challenge:** 7 (2,900 XP)
 
 **STR:** 14 (+2) | **DEX:** 20 (+5) | **CON:** 18 (+4) | **INT:** 6 (-2) | **WIS:** 10 (+0) | **CHA:** 10 (+0)
-- **Base Atk:** +9 | **CMB:** +12 | **CMD:** 27
+- **Base Atk:** +9 | **Grapple:** +12
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +12 | **CMD:** 27
 - **Feats:** Toughness, Power Attack
 - **Damage Immunities:** lightning, thunder, force
 
@@ -146,7 +160,9 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 - **Challenge:** 8 (3,900 XP)
 
 **STR:** 22 (+6) | **DEX:** 8 (-1) | **CON:** 18 (+4) | **INT:** 6 (-2) | **WIS:** 10 (+0) | **CHA:** 14 (+2)
-- **Base Atk:** +7 | **CMB:** +17 | **CMD:** 26
+- **Base Atk:** +7 | **Grapple:** +17
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +17 | **CMD:** 26
 - **Feats:** Toughness, Power Attack
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Immunities:** necrotic, poison
@@ -170,9 +186,13 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 - **Challenge:** 9 (5,000 XP)
 
 **STR:** 20 (+5) | **DEX:** 12 (+1) | **CON:** 20 (+5) | **INT:** 2 (-4) | **WIS:** 10 (+0) | **CHA:** 5 (-3)
-- **Base Atk:** +11 | **CMB:** +18 | **CMD:** 29
+- **Base Atk:** +11 | **Grapple:** +18
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +18 | **CMD:** 29
 - **Feats:** Toughness, Power Attack
-- **Skills:** Perception +4
+- **Skills:** Spot +4, Listen +4, Search +4
+> **[PF1E Conversion Sidebar]**
+> **PF1E Skills:** Perception +4
 - **Damage Vulnerabilities:** fire
 
 **Traits:**
@@ -193,7 +213,9 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 - **Challenge:** 10 (5,900 XP)
 
 **STR:** 23 (+6) | **DEX:** 10 (+0) | **CON:** 21 (+5) | **INT:** 4 (-3) | **WIS:** 12 (+1) | **CHA:** 5 (-3)
-- **Base Atk:** +10 | **CMB:** +18 | **CMD:** 28
+- **Base Atk:** +10 | **Grapple:** +18
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +18 | **CMD:** 28
 - **Feats:** Toughness, Power Attack
 - **Saving Throws:** Str +10, Con +9
 - **Senses:** blindsight 60 ft., passive Perception 11
@@ -218,7 +240,9 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 - **Challenge:** 11 (7,200 XP)
 
 **STR:** 24 (+7) | **DEX:** 10 (+0) | **CON:** 20 (+5) | **INT:** 3 (-4) | **WIS:** 14 (+2) | **CHA:** 4 (-3)
-- **Base Atk:** +9 | **CMB:** +20 | **CMD:** 30
+- **Base Atk:** +9 | **Grapple:** +20
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +20 | **CMD:** 30
 - **Feats:** Toughness, Power Attack
 - **Damage Resistances:** fire, cold
 
@@ -240,7 +264,9 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 - **Challenge:** 21 (33,000 XP)
 
 **STR:** 30 (+10) | **DEX:** 11 (+0) | **CON:** 25 (+7) | **INT:** 22 (+6) | **WIS:** 18 (+4) | **CHA:** 20 (+5)
-- **Base Atk:** +20 | **CMB:** +34 | **CMD:** 44
+- **Base Atk:** +20 | **Grapple:** +34
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +34 | **CMD:** 44
 - **Feats:** Toughness, Power Attack
 - **Saving Throws:** Str +17, Dex +7, Con +14, Int +13, Wis +11
 - **Damage Immunities:** lightning; bludgeoning, piercing, and slashing from nonmagical attacks
@@ -269,10 +295,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 - **Challenge:** 25 (75,000 XP)
 
 **STR:** 30 (+10) | **DEX:** 10 (+0) | **CON:** 30 (+10) | **INT:** 6 (-2) | **WIS:** 18 (+4) | **CHA:** 10 (+0)
-- **Base Atk:** +22 | **CMB:** +36 | **CMD:** 46
+- **Base Atk:** +22 | **Grapple:** +36
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +36 | **CMD:** 46
 - **Feats:** Toughness, Power Attack
 - **Saving Throws:** Str +18, Con +18, Wis +12
-- **Skills:** Perception +12
+- **Skills:** Spot +12, Listen +12, Search +12
+> **[PF1E Conversion Sidebar]**
+> **PF1E Skills:** Perception +12
 - **Damage Immunities:** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities:** charmed, frightened, paralyzed, petrified, poisoned, stunned
 - **Senses:** truesight 120 ft., passive Perception 22

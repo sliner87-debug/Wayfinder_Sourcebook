@@ -16,7 +16,9 @@ The Dominion relies on heavily armored infantry, arcane-suppression, and relentl
 - **Challenge:** 1/2 (100 XP)
 
 **STR:** 15 (+2) | **DEX:** 12 (+1) | **CON:** 13 (+1) | **INT:** 10 (+0) | **WIS:** 11 (+0) | **CHA:** 9 (-1)
-- **Base Atk:** +3 | **CMB:** +5 | **CMD:** 16
+- **Base Atk:** +3 | **Grapple:** +5
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +5 | **CMD:** 16
 - **Feats:** Toughness, Power Attack
 - **Skills:** Athletics +4, Intimidation +1
 - **Senses:** passive Perception 10
@@ -39,9 +41,13 @@ The Dominion relies on heavily armored infantry, arcane-suppression, and relentl
 - **Challenge:** 3 (700 XP)
 
 **STR:** 11 (+0) | **DEX:** 12 (+1) | **CON:** 14 (+2) | **INT:** 16 (+3) | **WIS:** 14 (+2) | **CHA:** 12 (+1)
-- **Base Atk:** +6 | **CMB:** +6 | **CMD:** 17
+- **Base Atk:** +6 | **Grapple:** +6
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +6 | **CMD:** 17
 - **Feats:** Toughness, Power Attack
-- **Skills:** Arcana +5, Investigation +5, Perception +4
+- **Skills:** Arcana +5, Investigation +5, Spot +4, Listen +4, Search +4
+> **[PF1E Conversion Sidebar]**
+> **PF1E Skills:** Perception +4
 - **Senses:** passive Perception 14
 
 **Traits:**
@@ -63,7 +69,9 @@ The Dominion relies on heavily armored infantry, arcane-suppression, and relentl
 - **Challenge:** 5 (1,800 XP)
 
 **STR:** 18 (+4) | **DEX:** 8 (-1) | **CON:** 16 (+3) | **INT:** 3 (-4) | **WIS:** 10 (+0) | **CHA:** 1 (-5)
-- **Base Atk:** +7 | **CMB:** +12 | **CMD:** 21
+- **Base Atk:** +7 | **Grapple:** +12
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +12 | **CMD:** 21
 - **Feats:** Toughness, Power Attack
 - **Damage Immunities:** poison, psychic
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
@@ -86,7 +94,9 @@ The Dominion relies on heavily armored infantry, arcane-suppression, and relentl
 - **Challenge:** 8 (3,900 XP)
 
 **STR:** 20 (+5) | **DEX:** 10 (+0) | **CON:** 18 (+4) | **INT:** 10 (+0) | **WIS:** 12 (+1) | **CHA:** 14 (+2)
-- **Base Atk:** +10 | **CMB:** +15 | **CMD:** 25
+- **Base Atk:** +10 | **Grapple:** +15
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +15 | **CMD:** 25
 - **Feats:** Toughness, Power Attack
 - **Saving Throws:** Str +8, Con +7, Wis +4
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
@@ -113,9 +123,13 @@ The Consortium fights with deep pockets, utilizing expensive magic, mercenaries,
 - **Challenge:** 1 (200 XP)
 
 **STR:** 11 (+0) | **DEX:** 16 (+3) | **CON:** 12 (+1) | **INT:** 10 (+0) | **WIS:** 12 (+1) | **CHA:** 10 (+0)
-- **Base Atk:** +4 | **CMB:** +4 | **CMD:** 17
+- **Base Atk:** +4 | **Grapple:** +4
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +4 | **CMD:** 17
 - **Feats:** Toughness, Power Attack
-- **Skills:** Perception +3, Insight +3
+- **Skills:** Spot +3, Listen +3, Search +3, Insight +3
+> **[PF1E Conversion Sidebar]**
+> **PF1E Skills:** Perception +3
 
 **Traits:**
 - *Hazard Pay:* The Mercenary has advantage on saving throws against being frightened as long as they believe they will be paid.
@@ -137,7 +151,9 @@ The Consortium fights with deep pockets, utilizing expensive magic, mercenaries,
 - **Challenge:** 4 (1,100 XP)
 
 **STR:** 9 (-1) | **DEX:** 14 (+2) | **CON:** 11 (+0) | **INT:** 17 (+3) | **WIS:** 14 (+2) | **CHA:** 15 (+2)
-- **Base Atk:** +8 | **CMB:** +7 | **CMD:** 19
+- **Base Atk:** +8 | **Grapple:** +7
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +7 | **CMD:** 19
 - **Feats:** Toughness, Power Attack
 - **Skills:** History +5, Persuasion +4
 
@@ -161,9 +177,13 @@ The Consortium fights with deep pockets, utilizing expensive magic, mercenaries,
 - **Challenge:** 6 (2,300 XP)
 
 **STR:** 12 (+1) | **DEX:** 18 (+4) | **CON:** 14 (+2) | **INT:** 13 (+1) | **WIS:** 16 (+3) | **CHA:** 11 (+0)
-- **Base Atk:** +9 | **CMB:** +10 | **CMD:** 24
+- **Base Atk:** +9 | **Grapple:** +10
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +10 | **CMD:** 24
 - **Feats:** Toughness, Power Attack
-- **Skills:** Stealth +7, Perception +6, Investigation +4
+- **Skills:** Stealth +7, Spot +6, Listen +6, Search +6, Investigation +4
+> **[PF1E Conversion Sidebar]**
+> **PF1E Skills:** Perception +6
 - **Senses:** darkvision 60 ft., passive Perception 16
 
 **Traits:**
@@ -188,7 +208,9 @@ The Drow utilize terrifying flesh-crafting, stealth, and undead thralls from the
 - **Challenge:** 1/2 (100 XP)
 
 **STR:** 14 (+2) | **DEX:** 8 (-1) | **CON:** 16 (+3) | **INT:** 3 (-4) | **WIS:** 8 (-1) | **CHA:** 5 (-3)
-- **Base Atk:** +2 | **CMB:** +4 | **CMD:** 13
+- **Base Atk:** +2 | **Grapple:** +4
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +4 | **CMD:** 13
 - **Feats:** Toughness, Power Attack
 - **Damage Immunities:** poison
 - **Condition Immunities:** poisoned, exhausted
@@ -209,7 +231,9 @@ The Drow utilize terrifying flesh-crafting, stealth, and undead thralls from the
 - **Challenge:** 3 (700 XP)
 
 **STR:** 9 (-1) | **DEX:** 16 (+3) | **CON:** 11 (+0) | **INT:** 12 (+1) | **WIS:** 14 (+2) | **CHA:** 16 (+3)
-- **Base Atk:** +7 | **CMB:** +6 | **CMD:** 19
+- **Base Atk:** +7 | **Grapple:** +6
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +6 | **CMD:** 19
 - **Feats:** Toughness, Power Attack
 - **Skills:** Medicine +4, Stealth +5
 
@@ -231,9 +255,13 @@ The Drow utilize terrifying flesh-crafting, stealth, and undead thralls from the
 - **Challenge:** 7 (2,900 XP)
 
 **STR:** 16 (+3) | **DEX:** 16 (+3) | **CON:** 17 (+3) | **INT:** 13 (+1) | **WIS:** 14 (+2) | **CHA:** 12 (+1)
-- **Base Atk:** +9 | **CMB:** +13 | **CMD:** 26
+- **Base Atk:** +9 | **Grapple:** +13
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +13 | **CMD:** 26
 - **Feats:** Toughness, Power Attack
-- **Skills:** Stealth +6, Perception +5
+- **Skills:** Stealth +6, Spot +5, Listen +5, Search +5
+> **[PF1E Conversion Sidebar]**
+> **PF1E Skills:** Perception +5
 
 **Traits:**
 - *Spider Climb:* The drider can climb difficult surfaces, including upside down, without needing an ability check.
@@ -258,7 +286,9 @@ Pirates fight dirty. They rely on mobility, overwhelming aggression, and volatil
 - **Challenge:** 1 (200 XP)
 
 **STR:** 10 (+0) | **DEX:** 16 (+3) | **CON:** 12 (+1) | **INT:** 10 (+0) | **WIS:** 10 (+0) | **CHA:** 14 (+2)
-- **Base Atk:** +3 | **CMB:** +3 | **CMD:** 16
+- **Base Atk:** +3 | **Grapple:** +3
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +3 | **CMD:** 16
 - **Feats:** Toughness, Power Attack
 - **Skills:** Acrobatics +5, Athletics +2
 
@@ -280,7 +310,9 @@ Pirates fight dirty. They rely on mobility, overwhelming aggression, and volatil
 - **Challenge:** 4 (1,100 XP)
 
 **STR:** 10 (+0) | **DEX:** 14 (+2) | **CON:** 12 (+1) | **INT:** 16 (+3) | **WIS:** 11 (+0) | **CHA:** 14 (+2)
-- **Base Atk:** +6 | **CMB:** +6 | **CMD:** 18
+- **Base Atk:** +6 | **Grapple:** +6
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +6 | **CMD:** 18
 - **Feats:** Toughness, Power Attack
 
 **Traits:**
@@ -300,7 +332,9 @@ Pirates fight dirty. They rely on mobility, overwhelming aggression, and volatil
 - **Challenge:** 6 (2,300 XP)
 
 **STR:** 12 (+1) | **DEX:** 18 (+4) | **CON:** 14 (+2) | **INT:** 14 (+2) | **WIS:** 12 (+1) | **CHA:** 16 (+3)
-- **Base Atk:** +9 | **CMB:** +10 | **CMD:** 24
+- **Base Atk:** +9 | **Grapple:** +10
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +10 | **CMD:** 24
 - **Feats:** Toughness, Power Attack
 - **Skills:** Acrobatics +7, Intimidation +6, Water Vehicles +5
 
@@ -326,7 +360,9 @@ The Keepers utilize druidic magic, symbiotic plant life, and control over elemen
 - **Challenge:** 2 (450 XP)
 
 **STR:** 14 (+2) | **DEX:** 14 (+2) | **CON:** 14 (+2) | **INT:** 10 (+0) | **WIS:** 16 (+3) | **CHA:** 10 (+0)
-- **Base Atk:** +4 | **CMB:** +6 | **CMD:** 18
+- **Base Atk:** +4 | **Grapple:** +6
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +6 | **CMD:** 18
 - **Feats:** Toughness, Power Attack
 - **Skills:** Nature +4, Survival +5
 
@@ -349,7 +385,9 @@ The Keepers utilize druidic magic, symbiotic plant life, and control over elemen
 - **Challenge:** 5 (1,800 XP)
 
 **STR:** 18 (+4) | **DEX:** 14 (+2) | **CON:** 18 (+4) | **INT:** 5 (-3) | **WIS:** 10 (+0) | **CHA:** 8 (-1)
-- **Base Atk:** +9 | **CMB:** +14 | **CMD:** 26
+- **Base Atk:** +9 | **Grapple:** +14
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +14 | **CMD:** 26
 - **Feats:** Toughness, Power Attack
 - **Damage Resistances:** acid; bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -371,7 +409,9 @@ The Keepers utilize druidic magic, symbiotic plant life, and control over elemen
 - **Challenge:** 4 (1,100 XP)
 
 **STR:** 16 (+3) | **DEX:** 10 (+0) | **CON:** 14 (+2) | **INT:** 1 (-5) | **WIS:** 10 (+0) | **CHA:** 1 (-5)
-- **Base Atk:** +7 | **CMB:** +11 | **CMD:** 21
+- **Base Atk:** +7 | **Grapple:** +11
+> **[PF1E Conversion Sidebar]**
+> **CMB:** +11 | **CMD:** 21
 - **Feats:** Toughness, Power Attack
 - **Damage Vulnerabilities:** fire
 - **Damage Resistances:** bludgeoning, piercing

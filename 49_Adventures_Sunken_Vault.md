@@ -20,7 +20,7 @@ The ruin is a massive, cracked glass-and-white-stone biodome resting on the ocea
 The outer doors are breached, but the inner doors are magically sealed. The doors are guarded by a **Coral Golem** (CR 6, Chapter 36) that has grown over the millennia. The Golem will attack anything that does not present an Aethelgard insignia.
 
 ### Zone 2: The Cryo-Genesis Labs
-Rows of shattered glass tubes. The water here is murky and cold. Two **Aether-Burned Scavengers** (CR 2, Chapter 36) have made this room their nest. If the players search the debris (DC 15 Perception), they find an *Inquisitor's Lens* and a rusted Aethelgard keycard.
+Rows of shattered glass tubes. The water here is murky and cold. Two **Aether-Burned Scavengers** (CR 2, Chapter 36) have made this room their nest. If the players search the debris (DC 15 Search), they find an *Inquisitor's Lens* and a rusted Aethelgard keycard.
 
 ### Zone 3: The Aether-Vault & The Ambush
 The final door is a massive vault locked by a complex arcane puzzle. However, the players are not alone. A raiding party of **Drow** from the Silk Houses tracked the players' ship.
@@ -31,3 +31,6 @@ The final door is a massive vault locked by a complex arcane puzzle. However, th
 If the players defeat the Drow and open the vault, they find the intact research cache of the Aethelgard scientists.
 - Roll twice on Plunder Table B (The Smuggler's Hold).
 - The centerpiece of the vault is a legendary artifact resting on a pedestal. The DM can choose to place either the **Crown of the Deep Mother** or the **Sextant of the Void** here, setting up a major plot hook for the next arc of the campaign.
+
+> **[PF1E Conversion Sidebar]**
+> - Use Perception instead of Search.

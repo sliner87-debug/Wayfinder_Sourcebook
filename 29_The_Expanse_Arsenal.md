@@ -27,7 +27,7 @@ Additionally, the monocle holds 1 charge. You can expend the charge to cast the 
 **Cost:** 12,000 gp
 This heavy suit of mechanized armor is powered by a small aether-engine mounted on the back. While wearing this armor, you gain a +1 bonus to AC.
 - **Juggernaut:** Any critical hit against you becomes a normal hit.
-- **Heavy Machinery:** The armor is incredibly loud and unwieldy. You take a -4 penalty on Stealth and Swim checks. If you fall into water while wearing this armor, you sink at a rate of 30 feet per round.
+- **Heavy Machinery:** The armor is incredibly loud and unwieldy. You take a -4 penalty on Hide, Move Silently, and Swim checks. If you fall into water while wearing this armor, you sink at a rate of 30 feet per round.
 
 ---
 
@@ -99,3 +99,6 @@ Upon landing, the cube alters the localized gravity field. For 1 minute, the gra
 A perfectly spherical compass made of an unknown, indestructible glass. The needle inside does not point north. Instead, while you hold it, the needle points toward the object, creature, or location you desire most in the world.
 - **The True Path:** The compass always shows the most direct route, but not the safest. If the path intersects with a physical barrier (like a mountain or the bottom of the ocean), the needle will point directly through it.
 - **Aetheric Resonance:** The compass is highly radioactive with ancient magic. For every 24 hours you remain attuned to it, you must succeed on a DC 15 Constitution saving throw or your hit point maximum is reduced by 1d10. This reduction lasts until you end your attunement to the compass and cast a *greater restoration* spell on yourself.
+
+> **[PF1E Conversion Sidebar]**
+> *In Pathfinder 1E, the rules utilize Combat Maneuver Bonus (CMB) and Combat Maneuver Defense (CMD), as well as condensed skills like Acrobatics and Stealth. In 3.5e, these have been converted back to their standard mechanics: Grapple, Bull Rush, Trip, and Disarm checks, as well as distinct skills like Balance, Jump, Tumble, Hide, and Move Silently.*

@@ -591,7 +591,9 @@ None
 **Prerequisites:** None  
 
 **Effect:**  
-Determine optimal approach/escape/engagement point. Allies gain +2 on first Stealth/Survival/Initiative check related to it (lasts 1 hr).  
+Determine optimal approach/escape/engagement point. Allies gain +2 on first Hide/Move Silently/Survival/Initiative check related to it (lasts 1 hr).  
+> **[PF1E Conversion Sidebar]**
+> *Technique Bonus:* In PF1E, this grants a bonus to Stealth rather than Hide and Move Silently.
 
 **Scaling:**  
 None  

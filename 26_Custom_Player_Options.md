@@ -91,13 +91,13 @@ Barbarians who channel the terrifying, crushing power of the ancient sea beasts 
 
 - **Abyssal Lungs (Ex):** At 3rd level, while raging, the barbarian can breathe underwater and ignores the pressure of deep aquatic environments. This ability replaces Trap Sense +1.
 - **Crushing Pressure (Su):** At 6th level, the barbarian's rage manifests as a field of heavy pressure. Enemies within 10 feet of the barbarian treat the area as difficult terrain. This ability replaces Trap Sense +2.
-- **Leviathan's Mass (Ex):** At 9th level, while raging, the barbarian gains a +2 bonus to their CMB for grapple and bull rush checks, and counts as one size category larger for the purpose of determining carrying capacity and CMD. This ability replaces Trap Sense +3.
+- **Leviathan's Mass (Ex):** At 9th level, while raging, the barbarian gains a +2 bonus on grapple checks and Strength checks to bull rush, and counts as one size category larger for the purpose of determining carrying capacity and opposed grapple or bull rush checks. This ability replaces Trap Sense +3.
 - **Tsunami Strike (Ex):** At 12th level, once per rage as a standard action, the barbarian can make a single melee attack that sends out a shockwave. All enemies in a 30-foot line must make a Fortitude save (DC 10 + 1/2 barbarian level + Str modifier) or be knocked prone and take damage equal to the weapon's base damage. This ability replaces Trap Sense +4.
 
 ### Bard: Shantyman (Archetype)
 Bards who use booming voices and percussive instruments to keep a crew working in perfect synchronization.
 
-- **Heave Away (Su):** At 1st level, a Shantyman can use bardic performance to coordinate allies. Allies who can hear the Shantyman gain a +1 competence bonus on attack rolls and a +2 competence bonus on combat maneuver checks. This bonus increases by +1 at 5th, 11th, and 17th levels. This replaces Inspire Courage.
+- **Heave Away (Su):** At 1st level, a Shantyman can use bardic performance to coordinate allies. Allies who can hear the Shantyman gain a +1 competence bonus on attack rolls and a +2 competence bonus on grapple, bull rush, trip, and disarm checks. This bonus increases by +1 at 5th, 11th, and 17th levels. This replaces Inspire Courage.
 - **Voice of the Captain (Ex):** At 2nd level, a Shantyman’s voice cuts through hurricanes. The bard gains a bonus equal to half their class level on Intimidate checks and can be heard clearly up to half a mile away. This replaces Versatile Performance.
 - **Rhythm of the Sea (Su):** At 8th level, the Shantyman can use a swift action to expend 2 rounds of bardic performance. For 1 minute, all allies within 30 feet ignore movement penalties from difficult terrain or slippery decks, and gain a +4 morale bonus on saving throws against fear and charm effects. This replaces Dirge of Doom.
 
@@ -114,14 +114,14 @@ Fierce protectors of the Shattered Expanse's fragile underwater ecosystems.
 
 - **Reef Bond (Ex):** A Reef Warden must choose a domain (such as Water or Weather) instead of an animal companion. 
 - **Living Coral Armor (Su):** At 4th level, as a standard action, a Reef Warden can expend one daily use of Wild Shape to grow a jagged carapace of coral. The druid gains a +4 natural armor bonus and temporary hit points equal to their druid level. Any creature that strikes the druid with a non-reach melee weapon takes 1d4 piercing damage. This effect lasts for 10 minutes per druid level. This ability alters Wild Shape.
-- **Symbiotic Grapple (Su):** At 9th level, when the druid casts a spell that entangles or restricts movement (like *entangle*), they can attempt a grapple combat maneuver check against one creature in the area, using their caster level + their Wisdom modifier as their CMB. If successful, the creature is grappled by spectral kelp vines. This ability replaces Venom Immunity.
+- **Symbiotic Grapple (Su):** At 9th level, when the druid casts a spell that entangles or restricts movement (like *entangle*), they can attempt a grapple check against one creature in the area, using their caster level + their Wisdom modifier as their grapple bonus. If successful, the creature is grappled by spectral kelp vines. This ability replaces Venom Immunity.
 
 ### Fighter: Dominion Marine (Archetype)
 The Crimson Dominion relies on disciplined, heavily armored shock-troops.
 
 - **Aether-Tech Training (Ex):** At 1st level, the Marine gains Exotic Weapon Proficiency (Firearms) as a bonus feat. They suffer no penalties for firing a two-handed firearm while prone. This replaces the 1st-level fighter bonus feat.
 - **Breach and Clear (Ex):** At 3rd level, the Marine gains a +2 bonus on initiative checks and a +2 bonus on damage rolls during the surprise round or the first round of combat against targets that are flat-footed. This replaces Armor Training 1.
-- **Ironclad Advance (Ex):** At 5th level, the Marine gains a +1 dodge bonus to AC when wearing heavy armor, and a +1 bonus to CMD. These bonuses increase by +1 for every four levels beyond 5th. This replaces Weapon Training 1.
+- **Ironclad Advance (Ex):** At 5th level, the Marine gains a +1 dodge bonus to AC when wearing heavy armor, and a +1 bonus to AC against grapple checks and bull rush attempts. These bonuses increase by +1 for every four levels beyond 5th. This replaces Weapon Training 1.
 - **Relentless Assault (Ex):** At 9th level, as a swift action, the Marine can move up to half their speed. This movement does not provoke attacks of opportunity if the Marine ends their movement adjacent to a hostile creature. They can use this ability a number of times per day equal to 3 + their Constitution modifier. This replaces Weapon Training 2.
 
 ### Gunslinger: Aether-Corsair (Archetype)
@@ -129,7 +129,7 @@ The Shattered Expanse is fraught with danger, and the Aether-Corsair uses volati
 
 - **Aether-Gunsmith (Ex):** At 1st level, the Aether-Corsair gains a battered aether-pistol or aether-rifle (which targets touch AC in its first range increment but misfires on a 1-2). They gain the Gunsmithing feat, but their craft relies on precursor scrap rather than black powder. This alters Gunsmithing.
 - **Corsair's Deeds:** An Aether-Corsair swaps out several standard deeds for those suited to the high seas.
-  - *Boarding Leap (Ex):* At 1st level, as long as the corsair has at least 1 grit point, they gain a +4 bonus on Acrobatics checks made to jump or swing on ropes. By spending 1 grit point as a swift action, they can move up to 15 feet ignoring difficult terrain and without provoking attacks of opportunity. This replaces the *Deadeye* deed.
+  - *Boarding Leap (Ex):* At 1st level, as long as the corsair has at least 1 grit point, they gain a +4 bonus on Jump and Tumble checks made to jump or swing on ropes. By spending 1 grit point as a swift action, they can move up to 15 feet ignoring difficult terrain and without provoking attacks of opportunity. This replaces the *Deadeye* deed.
   - *Hull-Breaker (Ex):* At 3rd level, the corsair can spend 1 grit point when making a ranged attack against an object, vehicle, or ship. The attack ignores up to 10 points of the target's hardness and deals double damage on a hit. This replaces the *Pistol-Whip* deed.
   - *Deep-Sea Shot (Su):* At 7th level, as long as the corsair has at least 1 grit point, their firearm attacks are not penalized for being fired underwater, and the range increment is not reduced by the water. This replaces the *Dead Shot* deed.
 - **Nimble Rigging (Ex):** At 2nd level, an Aether-Corsair gains a +1 dodge bonus to AC while wearing light or no armor. This bonus increases by +1 for every four levels beyond 2nd. Additionally, they gain a climb speed equal to half their base speed when climbing rigging, ropes, or ship hulls. This alters Nimble.
@@ -137,9 +137,9 @@ The Shattered Expanse is fraught with danger, and the Aether-Corsair uses volati
 ### Monk: Way of the Shifting Tide (Archetype)
 Martial artists who fight like the sea itself: calm one moment, a devastating wave the next.
 
-- **Sea Legs (Ex):** At 1st level, the monk uses their Wisdom modifier instead of Acrobatics to keep their balance on a moving ship. They can stand up from prone as a swift action without provoking attacks of opportunity. This replaces Stunning Fist.
-- **Tidal Redirect (Ex):** At 3rd level, when an enemy misses the monk with a melee attack, the monk can spend 1 ki point as an immediate action to attempt a reposition or trip combat maneuver against the attacker with a +2 bonus. This replaces Still Mind.
-- **Water Whip (Su):** At 7th level, as a standard action, the monk can spend 2 ki points to strike an enemy within 30 feet with a whip of magical water. The monk makes a ranged touch attack. On a hit, the target takes bludgeoning damage equal to the monk's unarmed strike damage + their Wisdom modifier, and the monk can attempt a free pull combat maneuver. This replaces Wholeness of Body.
+- **Sea Legs (Ex):** At 1st level, the monk uses their Wisdom modifier instead of Balance to keep their balance on a moving ship. They can stand up from prone as a swift action without provoking attacks of opportunity. This replaces Stunning Fist.
+- **Tidal Redirect (Ex):** At 3rd level, when an enemy misses the monk with a melee attack, the monk can spend 1 ki point as an immediate action to attempt a bull rush or trip check against the attacker with a +2 bonus. This replaces Still Mind.
+- **Water Whip (Su):** At 7th level, as a standard action, the monk can spend 2 ki points to strike an enemy within 30 feet with a whip of magical water. The monk makes a ranged touch attack. On a hit, the target takes bludgeoning damage equal to the monk's unarmed strike damage + their Wisdom modifier, and the monk can attempt a free opposed Strength check to pull the target 5 feet closer. This replaces Wholeness of Body.
 
 ### Paladin: Oath of the Horizon (Oath)
 Driven by a holy compulsion to map the Unwritten Sea and protect their crew from abyssal horrors.
@@ -152,7 +152,7 @@ Driven by a holy compulsion to map the Unwritten Sea and protect their crew from
 ### Ranger: Leviathan Hunter (Archetype)
 Fearless sailors who wield massive harpoons to butcher colossal beasts.
 
-- **Harpoon Mastery (Ex):** At 1st level, the ranger treats the harpoon as a martial weapon. When the ranger hits a creature with a thrown harpoon attached to a trailing rope, they can attempt a trip combat maneuver as a free action that does not provoke attacks of opportunity. This replaces Wild Empathy.
+- **Harpoon Mastery (Ex):** At 1st level, the ranger treats the harpoon as a martial weapon. When the ranger hits a creature with a thrown harpoon attached to a trailing rope, they can attempt a trip check as a free action that does not provoke attacks of opportunity. This replaces Wild Empathy.
 - **Colossus Slayer (Ex):** At 2nd level, a Leviathan Hunter gains a +1 bonus on attack and damage rolls against creatures of Large size or larger. This bonus increases by +1 at 6th, 10th, 14th, and 18th levels. This replaces Combat Style Feat at 2nd level (the ranger still gains combat style feats at later levels).
 - **Iron Nerve (Ex):** At 3rd level, the ranger gains a +4 bonus on saving throws against fear effects. This replaces Endurance.
 - **Whaler's Evasion (Ex):** At 11th level, when targeted by a melee attack from a creature Large or larger, the ranger can spend an immediate action to gain a dodge bonus to AC equal to their Wisdom modifier against that attack. This replaces Quarry.
@@ -169,7 +169,7 @@ Specialized in aquatic infiltration, striking from the darkest waters.
 
 - **Aquatic Infiltrator (Ex):** At 1st level, the rogue gains a swim speed equal to half their base land speed. They can hold their breath for a number of rounds equal to four times their Constitution score before risking drowning. This replaces Trapfinding.
 - **Plunge Strike (Ex):** At 4th level, if the rogue falls or swims at least 10 feet directly toward a target immediately before making a melee attack, they are treated as flanking the target for the purpose of dealing Sneak Attack damage. This replaces the rogue talent gained at 4th level.
-- **Abyssal Ambush (Ex):** At 8th level, the rogue gains darkvision out to 60 feet. While underwater, the rogue can use the Stealth skill to hide even while being observed, as long as they are in dim light or darkness. This replaces the rogue talent gained at 8th level.
+- **Abyssal Ambush (Ex):** At 8th level, the rogue gains darkvision out to 60 feet. While underwater, the rogue can use the Hide skill to hide even while being observed, as long as they are in dim light or darkness. This replaces the rogue talent gained at 8th level.
 
 ### Sorcerer: Aether-Touched (Bloodline)
 A living battery of raw, unstable precursor energy.
@@ -219,7 +219,7 @@ The terrifying, heavily armored law-bringers of the Crimson Dominion, tasked wit
 
 ### Silk House Weaver (Drowned Silk Houses)
 Assassins and infiltrators who weave the abyssal silk of the deep spiders into deadly traps and garrotes.
-- **Prerequisites:** Renown 20 (Drowned Silk Houses), Sneak Attack +2d6, Stealth 5 ranks.
+- **Prerequisites:** Renown 20 (Drowned Silk Houses), Sneak Attack +2d6, Hide 5 ranks, Move Silently 5 ranks.
 - **Hit Die:** d8.
 - **Abyssal Web (Sp):** At 1st level, the Weaver can cast *web* as a spell-like ability three times per day. The webs are pitch black and block line of sight.
 - **Silk Garrote (Ex):** At 3rd level, if the Weaver successfully grapples a target from stealth, they can apply their Sneak Attack damage as precision damage every round they maintain the grapple.
@@ -303,7 +303,7 @@ Ship Relics are a new category of magic items. They are massive, magical compone
 
 | Feat | Prerequisites | Benefit |
 | :--- | :--- | :--- |
-| **Sea Legs** | Dex 13 | +2 Acrobatics/Climb, ignore ship movement penalties. |
+| **Sea Legs** | Dex 13 | +2 Balance/Climb, ignore ship movement penalties. |
 | **Aether-Scarred** | Con 13 | Resist 5 Force/Lightning, +2 saves vs chaotic spells. |
 | **Ship-Breaker** | Str 15, Power Attack, BAB +3 | Melee attacks ignore 5 points of object hardness. |
 | **Abyssal Caster** | Cast 2nd level spells, Spell Focus (Evocation) | +1 DC and +2 SR checks on Cold/Bludgeoning evocation spells. |
@@ -311,7 +311,10 @@ Ship Relics are a new category of magic items. They are massive, magical compone
 **Sea Legs (Combat)**
 You have spent so much time on unsteady decks that rolling waves feel natural.
 - **Prerequisites:** Dex 13.
-- **Benefit:** You gain a +2 bonus on Acrobatics and Climb checks. You do not suffer penalties on attack rolls or skill checks due to fighting on a moving ship or uneven ground.
+- **Benefit:** You gain a +2 bonus on Balance, Jump, and Climb checks. You do not suffer penalties on attack rolls or skill checks due to fighting on a moving ship or uneven ground.
+
+> **[PF1E Conversion Sidebar]**
+> *In Pathfinder 1E, the rules utilize Combat Maneuver Bonus (CMB) and Combat Maneuver Defense (CMD), as well as condensed skills like Acrobatics and Stealth. In 3.5e, these have been converted back to their standard mechanics: Grapple, Bull Rush, Trip, and Disarm checks, as well as distinct skills like Balance, Jump, Tumble, Hide, and Move Silently.*
 
 **Aether-Scarred**
 You survived exposure to chaotic, magical radiation.

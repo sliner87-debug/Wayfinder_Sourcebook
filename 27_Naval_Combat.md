@@ -48,7 +48,7 @@ A ship's **Upgrade Slots** represent the internal volume and structural hardpoin
 
 | Upgrade Module | Slots Required | Cost | Effect |
 | :--- | :---: | :--- | :--- |
-| **Smuggler's Compartment** | 2 | 1,000 gp | Adds a hidden cargo hold that requires a DC 20 Perception check to find. |
+| **Smuggler's Compartment** | 2 | 1,000 gp | Adds a hidden cargo hold that requires a DC 20 Search check to find. |
 | **Diving Bell & Winch** | 3 | 1,500 gp | A pressurized sphere that can be lowered to the ocean floor, holding up to 4 Medium creatures. |
 | **Captain's Extravagant Quarters** | 4 | 2,000 gp | Opulent furnishings. Grants the Captain a +2 circumstance bonus on Diplomacy and Intimidate checks while parleying in the cabin. |
 | **Medical / Triage Bay** | 5 | 3,000 gp | Grants a +4 circumstance bonus on Heal checks. Crew natural healing rates double while aboard. |
@@ -119,3 +119,6 @@ The chief engineer and disciplinarian, keeping the ship and crew functioning.
 Wayfinder Corsairs possess the **Ship Bond** class feature. When a Wayfinder acts as the Captain of a vessel, the ship transcends its mechanical limitations:
 1. **Magical Evasion:** The ship can substitute the Wayfinder's AC bonuses or saving throws for its own when subjected to magical or broadside attacks.
 2. **Support Crew Multiplier:** A Wayfinder's crew acts with supernatural coordination. Even massive Capital Vessels (Size 5) can be operated effectively by a skeleton crew of magically bound sailors without suffering the standard penalties for being undercrewed.
+
+> **[PF1E Conversion Sidebar]**
+> *In Pathfinder 1E, the rules utilize Combat Maneuver Bonus (CMB) and Combat Maneuver Defense (CMD), as well as condensed skills like Acrobatics and Stealth. In 3.5e, these have been converted back to their standard mechanics: Grapple, Bull Rush, Trip, and Disarm checks, as well as distinct skills like Balance, Jump, Tumble, Hide, and Move Silently.*

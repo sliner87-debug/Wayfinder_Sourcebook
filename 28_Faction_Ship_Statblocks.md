@@ -40,7 +40,7 @@ This chapter provides GM-ready statblocks for enemy vessels encountered in the S
 
 **Faction Chassis Trait: Abjuration Shield Emitters.** Consortium ships have -2 Base AC. However, they gain a pool of Temporary HP equal to half their maximum HP (The Abjuration Shield). This shield regenerates 20 HP at the start of the ship's turn.
 **Special Ability: Alchemical Smokescreen.** As a reaction when targeted by a ranged attack, the ship can deploy an obscuring cloud to force disadvantage on all incoming artillery for the rest of the round. The ship may immediately move up to half its speed without provoking opportunity attacks.
-**Innate Upgrade: Smuggler's Hold.** All Consortium ships come equipped with hidden, lead-lined cargo compartments designed to evade inspections and divination magic (DC 20 Perception check to find). On Size 3 or larger vessels, these holds are enchanted as Extra-Dimensional spaces (functioning like massive *Bags of Holding*), allowing them to transport an impossible amount of cargo without affecting the ship's buoyancy or speed.
+**Innate Upgrade: Smuggler's Hold.** All Consortium ships come equipped with hidden, lead-lined cargo compartments designed to evade inspections and divination magic (DC 20 Search check to find). On Size 3 or larger vessels, these holds are enchanted as Extra-Dimensional spaces (functioning like massive *Bags of Holding*), allowing them to transport an impossible amount of cargo without affecting the ship's buoyancy or speed.
 
 ### Consortium Audit-Frigate (Size 2)
 *Fast, shielded escorts designed to stall enemies while cargo escapes.*
@@ -77,7 +77,7 @@ This chapter provides GM-ready statblocks for enemy vessels encountered in the S
 - **HP:** 150 | **AC:** 13 | **Speed:** 60 ft. | **Regeneration:** 15 HP/round
 - **Standard Armament (4 Slots):**
   - *1x Sonic Projector (4 slots):* Ranged Weapon (+8), 4d10 Thunder damage. Range 100/300. Bypasses Shields/Hardness.
-- **Standard Action:** *Silent Running.* The ship gains a +4 circumstance bonus on Stealth checks to remain undetected while submerged.
+- **Standard Action:** *Silent Running.* The ship gains a +4 circumstance bonus on Hide checks to remain undetected while submerged.
 
 ### Drow Arachna-Submersible (Size 3)
 *A terrifying hunter made of enchanted chitin.*
@@ -153,3 +153,6 @@ This chapter provides GM-ready statblocks for enemy vessels encountered in the S
   - *6x Coral-Shard Ballistae (12 slots):* Ranged Weapon (+6), 4d8 Piercing/Slashing.
   - *2x Shamanic Focuses (8 slots):* Ranged Spell (+8), casts *Control Water* or *Call Lightning*.
 - **Standard Action:** *Deploy Beasts.* The ship releases a pod of bonded Elementals or Dire Sharks, acting as independent combatants on the battlefield.
+
+> **[PF1E Conversion Sidebar]**
+> *In Pathfinder 1E, the rules utilize Combat Maneuver Bonus (CMB) and Combat Maneuver Defense (CMD), as well as condensed skills like Acrobatics and Stealth. In 3.5e, these have been converted back to their standard mechanics: Grapple, Bull Rush, Trip, and Disarm checks, as well as distinct skills like Balance, Jump, Tumble, Hide, and Move Silently.*

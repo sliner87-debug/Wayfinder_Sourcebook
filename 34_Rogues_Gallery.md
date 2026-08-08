@@ -28,7 +28,9 @@ Fighter (Dominion Marine) 10 / Hellknight 8
 **Str** 24, **Dex** 14, **Con** 20, **Int** 13, **Wis** 12, **Cha** 14
 **Base Atk** +18; **CMB** +25; **CMD** 39
 **Feats** Combat Reflexes, Critical Focus, Dazzling Display, Improved Critical (halberd), Improved Initiative, Iron Will, Lunge, Power Attack, Shatter Defenses, Stand Still, Toughness, Weapon Focus (halberd), Weapon Specialization (halberd)
-**Skills** Intimidate +30, Knowledge (engineering) +18, Perception +18, Sense Motive +18
+**Skills** Intimidate +30, Knowledge (engineering) +18, Spot +18, Listen +18, Search +18, Sense Motive +18
+> **[PF1E Conversion Sidebar]**
+> **PF1E Skills:** Perception +18
 **Languages** Common, Infernal
 **Gear** *+5 hellknight plate*, *+3 axiomatic flaming burst halberd*, *belt of physical might +4 (Str, Con)*, *ring of protection +2*, *amulet of natural armor +3*.
 
@@ -58,7 +60,9 @@ Rogue (Smuggler-Baron) 15
 **Str** 10, **Dex** 20, **Con** 14, **Int** 18, **Wis** 12, **Cha** 16
 **Base Atk** +11; **CMB** +11; **CMD** 29
 **Feats** Agile Maneuvers, Combat Expertise, Deceitful, Improved Feint, Iron Will, Point-Blank Shot, Precise Shot, Weapon Finesse
-**Skills** Appraise +25, Bluff +28, Diplomacy +25, Disable Device +23, Knowledge (local) +22, Perception +20, Sense Motive +20, Sleight of Hand +25
+**Skills** Appraise +25, Bluff +28, Diplomacy +25, Disable Device +23, Knowledge (local) +22, Spot +20, Listen +20, Search +20, Sense Motive +20, Sleight of Hand +25
+> **[PF1E Conversion Sidebar]**
+> **PF1E Skills:** Perception +20
 **Languages** Common, Aquan, Aether-Code, Elven, Dwarven
 **Gear** *+4 shadow leather armor*, *+2 keen rapier*, *+2 distance aether-pistol*, *cloak of resistance +3*, *ring of protection +3*, *headband of vast intelligence +4*, 25,000 gp worth of assorted gems and aether-tech trinkets in his coat.
 
@@ -154,7 +158,9 @@ Druid (Reef Warden) 18
 **Str** 10, **Dex** 14, **Con** 18, **Int** 12, **Wis** 28, **Cha** 8
 **Base Atk** +13; **CMB** +13; **CMD** 27
 **Feats** Combat Casting, Natural Spell, Spell Focus (Conjuration), Greater Spell Focus (Conjuration), Spell Penetration, Greater Spell Penetration
-**Skills** Knowledge (nature) +22, Perception +27, Spellcraft +22, Survival +30
+**Skills** Knowledge (nature) +22, Spot +27, Listen +27, Search +27, Spellcraft +22, Survival +30
+> **[PF1E Conversion Sidebar]**
+> **PF1E Skills:** Perception +27
 **Gear** *+6 wild dragonhide breastplate*, *headband of inspired wisdom +6*, *amulet of natural armor +3*.
 
 ---
@@ -187,5 +193,7 @@ Investigator 15
 **Str** 10, **Dex** 22, **Con** 14, **Int** 22, **Wis** 12, **Cha** 10
 **Base Atk** +11; **CMB** +11; **CMD** 27
 **Feats** Extra Investigator Talent (x2), Weapon Finesse, Weapon Focus (sword cane), Potion Glutton
-**Skills** Craft (alchemy) +24, Disable Device +24, Knowledge (engineering) +24, Knowledge (history) +24, Perception +24, Spellcraft +24
+**Skills** Craft (alchemy) +24, Disable Device +24, Knowledge (engineering) +24, Knowledge (history) +24, Spot +24, Listen +24, Search +24, Spellcraft +24
+> **[PF1E Conversion Sidebar]**
+> **PF1E Skills:** Perception +24
 **Gear** *+5 leather armor*, *+2 shocking burst sword cane*, *belt of incredible dexterity +4*, *headband of vast intelligence +4*, an endless bandolier of unstable aether-tech scrap.

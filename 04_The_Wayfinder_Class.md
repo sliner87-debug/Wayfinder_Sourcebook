@@ -5,7 +5,9 @@
 ## Class Chassis
 **Hit Die:** d8
 **Alignment:** Any
-**Proficiencies:** Choose four from Acrobatics, Knowledge (Arcana), Climb/Swim, Deception, Knowledge (History), Insight, Intimidation, Perception, Knowledge (Nature), Perception, Persuasion, Knowledge (Religion), Stealth, Survival, and Water Vehicles.
+**Proficiencies:** Choose four from Tumble, Balance, Jump, Knowledge (Arcana), Climb, Swim, Bluff, Knowledge (History), Sense Motive, Intimidation, Spot, Listen, Search, Knowledge (Nature), Diplomacy, Knowledge (Religion), Hide, Move Silently, Survival, and Profession (Sailor).
+> **[PF1E Conversion Sidebar]**
+> *Wayfinder Proficiencies:* In PF1E, Acrobatics replaces Tumble/Balance/Jump; Perception replaces Spot/Listen/Search; Stealth replaces Hide/Move Silently; Bluff/Sense Motive/Diplomacy are Deception/Insight/Persuasion.
 **Base Attack Bonus (BAB):** standard 5e progression (+2 to +6).
 **Saving Throws:** Dexterity, Charisma.
 **Weapon & Armor Proficiency:** Simple weapons, martial weapons with the finesse or light property, firearms. Light armor, medium armor (at level 5), shields.

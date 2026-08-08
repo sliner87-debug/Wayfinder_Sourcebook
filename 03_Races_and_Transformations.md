@@ -26,7 +26,9 @@ Players may acquire transformations during their journeys. These are not simply 
 **Limit:** Max 2 | **Cost:** 1 Transformation Point
 Minor changes caused by magical exposure, blessings, mutations, or small awakenings.
 - **Fey-Touched (+1 Cha):** Pure fey awakening. Proficiency in Persuasion, Deception, or Performance. *Minor Glamour* (Silent Image 1/day). 
-- **Stormborn Fey (+1 Dex):** Ocean storms. Lightning Resist. Wind Rider (flight speed +10 ft). Storm Sense (advantage on Perception and Survival in storms).
+- **Stormborn Fey (+1 Dex):** Ocean storms. Lightning Resist. Wind Rider (flight speed +10 ft). Storm Sense (+4 competence bonus on Spot, Listen, Search, and Survival in storms).
+> **[PF1E Conversion Sidebar]**
+> *Storm Sense:* In PF1E, this grants advantage or roll twice on Perception and Survival in storms.
 - **Coral-Blooded Fey (+1 Con):** Reef adaptation. Natural Armor (AC 13 + Dex). Improved underwater survival.
 - **Moonlit Fey (+1 Wis):** Lunar tide magic. Darkvision 60 ft. Lunar Grace (+1 AC at night). Dream Whisper 1/day.
 - **Shadowwake Fey (+1 Dex):** Dark ocean. Disadvantage on attacks against you in dim light. Darkvision 60 ft. Shadow Step (10 ft. teleport between shadows 1/day).

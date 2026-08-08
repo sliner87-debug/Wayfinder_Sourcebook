@@ -257,7 +257,7 @@ Unknown Regions
 
 Areas requiring:
 
-investigation,
+perception,
 
 navigation,
 
@@ -359,7 +359,7 @@ competing goals.
 
 Chapter 6: Fleet Warfare
 
-Resolving Fleet-Level Actions
+Resolving Fleet-Level Standard actions
 
 Fleet conflicts should be treated as strategic encounters.
 
@@ -550,7 +550,7 @@ alliances.
 
 Political Impact
 
-A captain’s actions may change:
+A captain’s standard actions may change:
 
 borders,
 
@@ -989,7 +989,7 @@ To seamlessly integrate Captain's Techniques into your campaign, you can assign 
 ### Low-Level Rival: The Upstart Corsair (CR 4)
 - **Role:** Aggressive privateer or early campaign antagonist.
 - **Techniques:** Find the Weak Board (Least Corsair), Sea Legs (Least Seamanship).
-- **Tactics:** Relies on aggressive boarding actions and environmental hazards to overwhelm the party's ship.
+- **Tactics:** Relies on aggressive boarding standard actions and environmental hazards to overwhelm the party's ship.
 
 ### Mid-Level Antagonist: The Fleet Commander (CR 10)
 - **Role:** Leader of a regional naval force or pirate armada.

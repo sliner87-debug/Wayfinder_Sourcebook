@@ -6,12 +6,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Drowned Sailor
 *Medium undead, unaligned*
-- **Armor Class:** 10
+- **Armor Class:** 10, touch 10, flat-footed 10
 - **Hit Points:** 15 (2d8 + 6)
 - **Speed:** 20 ft., swim 30 ft.
 - **Challenge:** 1/4 (50 XP)
 
 **STR:** 14 (+2) | **DEX:** 10 (+0) | **CON:** 16 (+3) | **INT:** 3 (-4) | **WIS:** 8 (-1) | **CHA:** 5 (-3)
+- **Base Atk:** +1 | **CMB:** +3 | **CMD:** 13
+- **Feats:** Toughness, Power Attack
 - **Damage Immunities:** poison
 - **Condition Immunities:** poisoned
 
@@ -26,12 +28,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Aether-Burned Scavenger (Shark)
 *Large beast, unaligned*
-- **Armor Class:** 13 (Natural Armor)
+- **Armor Class:** 13 Natural Armor, touch 10, flat-footed 12
 - **Hit Points:** 45 (6d10 + 12)
 - **Speed:** 0 ft., swim 40 ft.
 - **Challenge:** 2 (450 XP)
 
 **STR:** 18 (+4) | **DEX:** 13 (+1) | **CON:** 15 (+2) | **INT:** 2 (-4) | **WIS:** 10 (+0) | **CHA:** 4 (-3)
+- **Base Atk:** +4 | **CMB:** +9 | **CMD:** 20
+- **Feats:** Toughness, Power Attack
 - **Skills:** Perception +2
 - **Senses:** blindsight 30 ft., passive Perception 12
 - **Damage Immunities:** force
@@ -47,12 +51,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Shattered Expanse Siren
 *Medium fey, chaotic evil*
-- **Armor Class:** 14 (Natural Armor)
+- **Armor Class:** 14 Natural Armor, touch 13, flat-footed 11
 - **Hit Points:** 52 (8d8 + 16)
 - **Speed:** 20 ft., swim 40 ft.
 - **Challenge:** 3 (700 XP)
 
 **STR:** 11 (+0) | **DEX:** 16 (+3) | **CON:** 14 (+2) | **INT:** 13 (+1) | **WIS:** 14 (+2) | **CHA:** 18 (+4)
+- **Base Atk:** +6 | **CMB:** +6 | **CMD:** 19
+- **Feats:** Toughness, Power Attack
 - **Skills:** Deception +6, Performance +6
 - **Senses:** darkvision 60 ft.
 
@@ -68,12 +74,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Abyssal Anglerfish
 *Huge beast, unaligned*
-- **Armor Class:** 15 (Natural Armor)
+- **Armor Class:** 15 Natural Armor, touch 8, flat-footed 15
 - **Hit Points:** 68 (8d12 + 16)
 - **Speed:** 0 ft., swim 40 ft.
 - **Challenge:** 4 (1,100 XP)
 
 **STR:** 19 (+4) | **DEX:** 10 (+0) | **CON:** 15 (+2) | **INT:** 3 (-4) | **WIS:** 12 (+1) | **CHA:** 6 (-2)
+- **Base Atk:** +6 | **CMB:** +12 | **CMD:** 22
+- **Feats:** Toughness, Power Attack
 - **Senses:** blindsight 60 ft.
 
 **Traits:**
@@ -86,12 +94,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Coral Golem
 *Large construct, unaligned*
-- **Armor Class:** 15 (Natural Armor)
+- **Armor Class:** 15 Natural Armor, touch 8, flat-footed 16
 - **Hit Points:** 102 (12d10 + 36)
 - **Speed:** 20 ft., swim 30 ft.
 - **Challenge:** 6 (2,300 XP)
 
 **STR:** 19 (+4) | **DEX:** 9 (-1) | **CON:** 16 (+3) | **INT:** 3 (-4) | **WIS:** 10 (+0) | **CHA:** 1 (-5)
+- **Base Atk:** +9 | **CMB:** +14 | **CMD:** 23
+- **Feats:** Toughness, Power Attack
 - **Damage Immunities:** poison, psychic; piercing, and slashing from nonmagical attacks not made with adamantine weapons
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
@@ -108,12 +118,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Aether-Storm Elemental
 *Large elemental, chaotic neutral*
-- **Armor Class:** 16 (Natural Armor)
+- **Armor Class:** 16 Natural Armor, touch 14, flat-footed 11
 - **Hit Points:** 114 (12d10 + 48)
 - **Speed:** 0 ft., fly 60 ft. (hover)
 - **Challenge:** 7 (2,900 XP)
 
 **STR:** 14 (+2) | **DEX:** 20 (+5) | **CON:** 18 (+4) | **INT:** 6 (-2) | **WIS:** 10 (+0) | **CHA:** 10 (+0)
+- **Base Atk:** +9 | **CMB:** +12 | **CMD:** 27
+- **Feats:** Toughness, Power Attack
 - **Damage Immunities:** lightning, thunder, force
 
 **Traits:**
@@ -128,12 +140,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Ghost Ship Apparition
 *Gargantuan undead (construct), chaotic evil*
-- **Armor Class:** 14 (Rotting Wood)
+- **Armor Class:** 14 Rotting Wood, touch 5, flat-footed 15
 - **Hit Points:** 145 (10d20 + 40)
 - **Speed:** 0 ft., swim 40 ft., fly 20 ft. (hover)
 - **Challenge:** 8 (3,900 XP)
 
 **STR:** 22 (+6) | **DEX:** 8 (-1) | **CON:** 18 (+4) | **INT:** 6 (-2) | **WIS:** 10 (+0) | **CHA:** 14 (+2)
+- **Base Atk:** +7 | **CMB:** +17 | **CMD:** 26
+- **Feats:** Toughness, Power Attack
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Immunities:** necrotic, poison
 
@@ -150,12 +164,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Kelp-Hydra
 *Huge monstrosity, unaligned*
-- **Armor Class:** 15 (Natural Armor)
+- **Armor Class:** 15 Natural Armor, touch 9, flat-footed 14
 - **Hit Points:** 172 (15d12 + 75)
 - **Speed:** 20 ft., swim 40 ft.
 - **Challenge:** 9 (5,000 XP)
 
 **STR:** 20 (+5) | **DEX:** 12 (+1) | **CON:** 20 (+5) | **INT:** 2 (-4) | **WIS:** 10 (+0) | **CHA:** 5 (-3)
+- **Base Atk:** +11 | **CMB:** +18 | **CMD:** 29
+- **Feats:** Toughness, Power Attack
 - **Skills:** Perception +4
 - **Damage Vulnerabilities:** fire
 
@@ -171,12 +187,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Leviathan Spawn
 *Huge monstrosity, unaligned*
-- **Armor Class:** 16 (Natural Armor)
+- **Armor Class:** 16 Natural Armor, touch 8, flat-footed 16
 - **Hit Points:** 161 (14d12 + 70)
 - **Speed:** 10 ft., swim 60 ft.
 - **Challenge:** 10 (5,900 XP)
 
 **STR:** 23 (+6) | **DEX:** 10 (+0) | **CON:** 21 (+5) | **INT:** 4 (-3) | **WIS:** 12 (+1) | **CHA:** 5 (-3)
+- **Base Atk:** +10 | **CMB:** +18 | **CMD:** 28
+- **Feats:** Toughness, Power Attack
 - **Saving Throws:** Str +10, Con +9
 - **Senses:** blindsight 60 ft., passive Perception 11
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical weapons
@@ -194,12 +212,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Deep-Trench Lurker
 *Gargantuan monstrosity, unaligned*
-- **Armor Class:** 19 (Chitin Armor)
+- **Armor Class:** 19 Chitin Armor, touch 6, flat-footed 19
 - **Hit Points:** 201 (13d20 + 65)
 - **Speed:** 30 ft., swim 40 ft.
 - **Challenge:** 11 (7,200 XP)
 
 **STR:** 24 (+7) | **DEX:** 10 (+0) | **CON:** 20 (+5) | **INT:** 3 (-4) | **WIS:** 14 (+2) | **CHA:** 4 (-3)
+- **Base Atk:** +9 | **CMB:** +20 | **CMD:** 30
+- **Feats:** Toughness, Power Attack
 - **Damage Resistances:** fire, cold
 
 **Traits:**
@@ -214,12 +234,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### The Kraken (Shattered Expanse Variant)
 *Gargantuan monstrosity (Titan), chaotic evil*
-- **Armor Class:** 18 (Natural Armor)
+- **Armor Class:** 18 Natural Armor, touch 6, flat-footed 18
 - **Hit Points:** 472 (27d20 + 189)
 - **Speed:** 20 ft., swim 60 ft.
 - **Challenge:** 21 (33,000 XP)
 
 **STR:** 30 (+10) | **DEX:** 11 (+0) | **CON:** 25 (+7) | **INT:** 22 (+6) | **WIS:** 18 (+4) | **CHA:** 20 (+5)
+- **Base Atk:** +20 | **CMB:** +34 | **CMD:** 44
+- **Feats:** Toughness, Power Attack
 - **Saving Throws:** Str +17, Dex +7, Con +14, Int +13, Wis +11
 - **Damage Immunities:** lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -241,12 +263,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### The Slumbering Leviathan
 *Gargantuan monstrosity (Titan), unaligned*
-- **Armor Class:** 22 (Natural Armor)
+- **Armor Class:** 22 Natural Armor, touch 6, flat-footed 22
 - **Hit Points:** 615 (30d20 + 300)
 - **Speed:** 0 ft., swim 100 ft.
 - **Challenge:** 25 (75,000 XP)
 
 **STR:** 30 (+10) | **DEX:** 10 (+0) | **CON:** 30 (+10) | **INT:** 6 (-2) | **WIS:** 18 (+4) | **CHA:** 10 (+0)
+- **Base Atk:** +22 | **CMB:** +36 | **CMD:** 46
+- **Feats:** Toughness, Power Attack
 - **Saving Throws:** Str +18, Con +18, Wis +12
 - **Skills:** Perception +12
 - **Damage Immunities:** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks

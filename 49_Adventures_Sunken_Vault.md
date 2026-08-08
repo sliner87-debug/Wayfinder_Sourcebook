@@ -11,7 +11,7 @@ To reach it, the players must either acquire a submarine, cast *Water Breathing*
 The ruin is a massive, cracked glass-and-white-stone biodome resting on the ocean floor in utter darkness. It was once a precursor research facility. 
 
 ### Environmental Hazards
-- **Aether Radiation:** The facility is leaking. Every 2 hours spent inside, players must make a DC 14 Constitution save or suffer a random minor mutation (e.g., hair turns to kelp, eyes glow in the dark).
+- **Aether Radiation:** The facility is leaking. Every 2 hours spent inside, players must make a DC 15 Fortitude save or suffer a random minor mutation (e.g., hair turns to kelp, eyes glow in the dark).
 - **Gravity Inversions:** Certain hallways have broken gravity plating. Walking into these zones causes players to "fall" upward to the ceiling, taking 2d6 bludgeoning damage. Movement in these areas is treated as difficult terrain unless the player has a fly speed.
 
 ## Key Encounters
@@ -20,7 +20,7 @@ The ruin is a massive, cracked glass-and-white-stone biodome resting on the ocea
 The outer doors are breached, but the inner doors are magically sealed. The doors are guarded by a **Coral Golem** (CR 6, Chapter 36) that has grown over the millennia. The Golem will attack anything that does not present an Aethelgard insignia.
 
 ### Zone 2: The Cryo-Genesis Labs
-Rows of shattered glass tubes. The water here is murky and cold. Two **Aether-Burned Scavengers** (CR 2, Chapter 36) have made this room their nest. If the players search the debris (DC 15 Investigation), they find an *Inquisitor's Lens* and a rusted Aethelgard keycard.
+Rows of shattered glass tubes. The water here is murky and cold. Two **Aether-Burned Scavengers** (CR 2, Chapter 36) have made this room their nest. If the players search the debris (DC 15 Perception), they find an *Inquisitor's Lens* and a rusted Aethelgard keycard.
 
 ### Zone 3: The Aether-Vault & The Ambush
 The final door is a massive vault locked by a complex arcane puzzle. However, the players are not alone. A raiding party of **Drow** from the Silk Houses tracked the players' ship.

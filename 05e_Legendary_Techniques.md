@@ -291,7 +291,7 @@ None
 **Prerequisites:** None  
 
 **Effect:**  
-When ship/crew is damaged by naval assault/monster, trigger counterstroke: vessel moves half speed, one allied ship/crew action occurs as reaction.  
+When ship/crew is damaged by naval assault/monster, trigger counterstroke: vessel moves half speed, one allied ship/crew standard action occurs as reaction.  
 
 **Scaling:**  
 None  

@@ -5,8 +5,8 @@
 ## Class Chassis
 **Hit Die:** d8
 **Alignment:** Any
-**Proficiencies:** Choose four from Acrobatics, Arcana, Athletics, Deception, History, Insight, Intimidation, Investigation, Nature, Perception, Persuasion, Religion, Stealth, Survival, and Water Vehicles.
-**Proficiency Bonus:** standard 5e progression (+2 to +6).
+**Proficiencies:** Choose four from Acrobatics, Knowledge (Arcana), Climb/Swim, Deception, Knowledge (History), Insight, Intimidation, Perception, Knowledge (Nature), Perception, Persuasion, Knowledge (Religion), Stealth, Survival, and Water Vehicles.
+**Base Attack Bonus (BAB):** standard 5e progression (+2 to +6).
 **Saving Throws:** Dexterity, Charisma.
 **Weapon & Armor Proficiency:** Simple weapons, martial weapons with the finesse or light property, firearms. Light armor, medium armor (at level 5), shields.
 
@@ -18,7 +18,7 @@ The Wayfinder progresses in three magical paths simultaneously.
 
 ### Lore-Caster (The Fusion Engine)
 Instead of preparing spells, the Wayfinder uncovers **Wayfinding Lore**—an accumulated understanding of the world. 
-- **Level 7 (Arcane-Psionic Fusion):** Combine a spell and a power into one action (e.g., Fireball + Telekinesis = Moving Flame Sphere).
+- **Level 7 (Arcane-Psionic Fusion):** Combine a spell and a power into one standard action (e.g., Fireball + Telekinesis = Moving Flame Sphere).
 - **Level 10 (Threefold Awakening - Triune Casting):** 1/day, combine a Spell, a Power, and a Spirit Ability to open new paths to unseen locations.
 - **Level 17 (Reality Navigation):** You do not teleport; you discover a path through solid fog, magical barriers, or impassable storms.
 - **Level 20 (Creator of Paths):** Create permanent routes, impossible trade lanes, and open new ocean passages.
@@ -28,7 +28,7 @@ At level 1, the Wayfinder awakens a personal spirit companion—the "mirror" of 
 1. **Origin Seed:** Choose the spirit's foundational nature (e.g., Ancient Navigator, Stormborn, Abyssal, Leviathan, Ancestor Captain, Ghost Fleet).
 2. **Seed Benefit:** A deliberate expression of the spirit (e.g., Storm Sense, Lost Routes, Deep Survival).
 3. **Random Traits:** Roll 2d100 for an Innate Trait and an Emergent Trait (e.g., Ancient Memory, Hates Calm Waters, Echo of Darkness).
-4. **Evolution:** The spirit evolves at levels 5, 10, 15, and 20 based on the captain's actions (e.g., Guardian Aspect, Sage Aspect, Dominator Aspect, Pathfinder Aspect). At level 20, it becomes the embodiment of your legend.
+4. **Evolution:** The spirit evolves at levels 5, 10, 15, and 20 based on the captain's standard actions (e.g., Guardian Aspect, Sage Aspect, Dominator Aspect, Pathfinder Aspect). At level 20, it becomes the embodiment of your legend.
 
 ## The Living Ship Bond
 The ship is your second character. It advances through **Vessel Tiers** via Wayfinder level, Chronicle Achievements, and Physical Transformation.

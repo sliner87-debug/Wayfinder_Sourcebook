@@ -13,7 +13,7 @@ The island itself is sheer, black volcanic rock. There are no natural beaches; s
 
 ### Local Laws & Dangers
 - **Absolute Prohibition on Unsanctioned Magic:** Casting a spell in Bastion without an official Dominion writ is a capital offense. Inquisitor patrols use *Inquisitor's Lenses* to constantly scan the crowds.
-- **The Ash-Sickness:** The air in the lower tiers is highly toxic. Creatures without a filter-mask or immunity to poison who spend more than 24 hours in the lower city must succeed on a DC 14 Constitution saving throw or suffer 1 level of exhaustion.
+- **The Ash-Sickness:** The air in the lower tiers is highly toxic. Creatures without a filter-mask or immunity to poison who spend more than 24 hours in the lower city must succeed on a DC 15 Fortitude save or become fatigued.
 
 ### Points of Interest
 

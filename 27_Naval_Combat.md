@@ -35,7 +35,7 @@ A ship's **Weapon Slots** represent the hardpoints available for mounting cannon
 | **Standard Broadside Cannon** | 2 | 800 gp | Ranged Weapon (+6) | 3d10 Bludgeoning. Range 120/480. Standard ship-to-ship armament. |
 | **Heavy Ballista** | 2 | 600 gp | Ranged Weapon (+6) | 4d8 Piercing. Range 150/600. Can be loaded with chain-shot to cripple rigging. |
 | **Precursor Naval Cannon** | 4 | 2,500 gp | Ranged Weapon (+8) | 5d10 Bludgeoning + 1d10 Arcane. Range 200/800. Ignores standard wood hardness. |
-| **Heavy Siege-Breaker Mortar** | 4 | 3,000 gp | Ranged AoE (DC 15 Dex) | 6d10 Fire/Bludgeoning in a 40 ft radius. Range 400/1600. Long reload times (2 rounds). |
+| **Heavy Siege-Breaker Mortar** | 4 | 3,000 gp | Ranged AoE (DC 15 Reflex) | 6d10 Fire/Bludgeoning in a 40 ft radius. Range 400/1600. Long reload times (2 rounds). |
 | **Experimental Aether-Beam** | 6 | Rare/Loot | Ranged Spell (+10) | 6d10 Force. Range 300/1200. Leaves lingering Aether-Burn on the target hull. |
 
 ---
@@ -48,10 +48,10 @@ A ship's **Upgrade Slots** represent the internal volume and structural hardpoin
 
 | Upgrade Module | Slots Required | Cost | Effect |
 | :--- | :---: | :--- | :--- |
-| **Smuggler's Compartment** | 2 | 1,000 gp | Adds a hidden cargo hold that requires a DC 20 Investigation check to find. |
+| **Smuggler's Compartment** | 2 | 1,000 gp | Adds a hidden cargo hold that requires a DC 20 Perception check to find. |
 | **Diving Bell & Winch** | 3 | 1,500 gp | A pressurized sphere that can be lowered to the ocean floor, holding up to 4 Medium creatures. |
 | **Captain's Extravagant Quarters** | 4 | 2,000 gp | Opulent furnishings. Grants the Captain a +2 circumstance bonus on Diplomacy and Intimidate checks while parleying in the cabin. |
-| **Medical / Triage Bay** | 5 | 3,000 gp | Grants Advantage on Medicine checks. Crew natural healing rates double while aboard. |
+| **Medical / Triage Bay** | 5 | 3,000 gp | Grants a +4 circumstance bonus on Heal checks. Crew natural healing rates double while aboard. |
 
 ### Heavy / Precursor Upgrades
 *These upgrades often require specific salvaged materials, like Aether-Slag or intact Precursor Cores, and a Master Artificer to install.*
@@ -89,28 +89,28 @@ When a vessel reaches Size 6 (Leviathan), it transcends standard naval combat. I
 
 Naval combat happens in standard initiative. The ship itself does not roll initiative; instead, it moves and acts on the turn of the **Helmsman**. 
 
-During combat, players take on specific **Officer Roles**. An officer can use their action to take a standard 5e/Pathfinder action (like casting a spell or shooting a bow), OR they can take a special **Ship Action** associated with their role.
+During combat, players take on specific **Officer Roles**. An officer can use their Standard Action to take a typical action (like casting a spell or making an attack), OR they can use their Standard Action to take a special **Ship Action** associated with their role.
 
 ### The Captain
 The leader of the vessel, responsible for morale and coordination.
-- **Ship Action - "Fire at Will!":** You grant advantage/ +2 to all artillery attacks made by your ship until the start of your next turn.
-- **Ship Action - "Brace for Impact!":** You shout a warning. Until the start of your next turn, the ship gains resistance to all bludgeoning, piercing, and slashing damage from ship weapons or environmental hazards, and the crew has advantage on saving throws to avoid being knocked prone.
+- **Standard Action - "Fire at Will!":** You grant a +2 bonus to all artillery attack rolls made by your ship until the start of your next turn.
+- **Standard Action - "Brace for Impact!":** You shout a warning. Until the start of your next turn, the ship gains Damage Reduction (DR) 5/- against ship weapons or environmental hazards, and the crew gains a +4 bonus on saving throws to avoid being knocked prone.
 
 ### The Helmsman (Tide-Caller)
 The one steering the ship. The ship moves on the Helmsman's turn.
-- **Free Action - Move:** You use the ship's speed to move it across the battlefield.
-- **Ship Action - "Hard to Port/Starboard!":** You make a DC 15 Profession (Sailor) or Water Vehicles check. On a success, the ship can immediately turn up to 90 degrees and move up to half its speed, avoiding an incoming hazard or lining up a perfect broadside.
-- **Ship Action - Ramming Speed:** You move the ship in a straight line toward a target. If you hit, make an opposed Piloting check or a melee attack. On a hit, both ships take 6d10 bludgeoning damage (modified by Aether-Rammed Prows or Precursor Plating).
+- **Move Action - Move:** You use the ship's speed to move it across the battlefield.
+- **Standard Action - "Hard to Port/Starboard!":** You make a DC 15 Profession (Sailor) check. On a success, the ship can immediately turn up to 90 degrees and move up to half its speed, avoiding an incoming hazard or lining up a perfect broadside.
+- **Standard Action - Ramming Speed:** You move the ship in a straight line toward a target. If you hit, make an opposed Profession (Sailor) check or a melee attack. On a hit, both ships take 6d10 bludgeoning damage (modified by Aether-Rammed Prows or Precursor Plating).
 
 ### The Gunner
 The master of the ship's artillery.
-- **Ship Action - Fire Artillery:** You direct the crew to fire a battery of installed Weapon Modules. Make an attack roll for the battery. You can add your proficiency/BAB and your Intelligence or Dexterity modifier to the attack roll instead of the ship's base modifier. (Having a Master Cannoneer officer grants a flat +2 to these rolls).
-- **Ship Action - Targeted Shot:** You aim for a specific part of the enemy ship (e.g., the mast, the rudder). Make an artillery attack with disadvantage (-4). If it hits, you cripple that component. (A crippled mast halves speed; a crippled rudder prevents turning).
+- **Standard Action - Fire Artillery:** You direct the crew to fire a battery of installed Weapon Modules. Make an attack roll for the battery. You can add your Base Attack Bonus and your Intelligence or Dexterity modifier to the attack roll instead of the ship's base modifier. (Having a Master Cannoneer officer grants a flat +2 to these rolls).
+- **Standard Action - Targeted Shot:** You aim for a specific part of the enemy ship (e.g., the mast, the rudder). Make an artillery attack with a -4 penalty. If it hits, you cripple that component. (A crippled mast halves speed; a crippled rudder prevents turning).
 
 ### The Bosun (Artificer / Engineer)
 The chief engineer and disciplinarian, keeping the ship and crew functioning.
-- **Ship Action - Emergency Repairs:** You direct the damage control crew. Make a DC 15 Craft or Engineering check. On a success, the ship regains 4d10 Hull Points or a crippled system is temporarily bypassed.
-- **Ship Action - Overclock Engine:** If the ship has an Aether-Core, you push the engines beyond their limits. The ship's speed increases by 30 feet until the end of the round, but the engine requires an Aether-Burn check or takes 1d10 damage from the strain.
+- **Standard Action - Emergency Repairs:** You direct the damage control crew. Make a DC 15 Craft (ships) or Knowledge (engineering) check. On a success, the ship regains 4d10 Hull Points or a crippled system is temporarily bypassed.
+- **Standard Action - Overclock Engine:** If the ship has an Aether-Core, you push the engines beyond their limits. The ship's speed increases by 30 feet until the end of the round, but the engine requires an Aether-Burn check or takes 1d10 damage from the strain.
 
 ---
 

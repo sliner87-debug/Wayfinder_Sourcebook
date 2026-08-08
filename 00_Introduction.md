@@ -2,7 +2,7 @@
 
 *The world did not end in fire. It ended in a flood of magic.*
 
-Welcome to the **Wayfinder Sourcebook**, a comprehensive campaign setting and rules expansion for D&D 5th Edition. This book transforms your tabletop experience from traditional high-fantasy dungeon crawling into a high-stakes, nautical, magic-punk adventure. 
+Welcome to the **Wayfinder Sourcebook**, a comprehensive campaign setting and rules expansion for the Pathfinder Roleplaying Game (1st Edition). This book transforms your tabletop experience from traditional high-fantasy dungeon crawling into a high-stakes, nautical, magic-punk adventure. 
 
 ## The Shattered Expanse
 Centuries ago, the precursor civilization of Aethelgard pushed magical industrialization too far. Their relentless harvesting of Aether—the raw, physical manifestation of magic—destabilized the earth's crust. Continents sank, oceans boiled, and the world was flooded. 

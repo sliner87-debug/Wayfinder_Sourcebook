@@ -13,7 +13,7 @@ The players set sail. The DM should use this time to let players test their ship
 
 **The Encounter:** On the second day, a **Crimson Dominion Patrol Skiff** (Size 1) spots them. 
 - The Dominion ship will fire a warning shot and demand to board and inspect the cargo.
-- If the players allow the boarding, a **Dominion Marine** and an **Inquisitor** (See Chapter 35) will search the hold. They will find the core unless the players pass a DC 15 Deception/Stealth check.
+- If the players allow the boarding, a **Dominion Marine** and an **Inquisitor** (See Chapter 35) will search the hold. They will find the core unless the players pass a DC 15 Bluff or Stealth check.
 - If combat breaks out, the DM runs a tutorial Naval Combat encounter. The Dominion Skiff has 50 Hull Points and two basic cannons. The goal is to either sink the patrol or damage their sails to escape.
 
 ## Part 2: Razor-Reef
@@ -28,8 +28,8 @@ The players arrive at the atoll. It is desolate, surrounded by sharp coral. The 
 During the fight (perhaps on Initiative count 0 of the second round), the wooden crate holding the Aether Core is damaged. The core begins to glow bright red and emit a high-pitched whine. 
 
 - The players have 3 rounds to secure the core before it explodes. 
-- A player adjacent to the core can use their action to make a DC 13 Intelligence (Arcana) or Dexterity (Sleight of Hand) check to magically stabilize or physically realign the crystal matrix.
-- If it explodes, it deals 3d6 force damage to everything in a 20-foot radius (DC 13 Dexterity save for half). 
+- A player adjacent to the core can use a standard action to make a DC 15 Knowledge (arcana) or Sleight of Hand check to magically stabilize or physically realign the crystal matrix.
+- If it explodes, it deals 3d6 force damage to everything in a 20-foot radius (DC 15 Reflex save for half). 
 
 ## Conclusion and Rewards
 If the players survive and defeat Kargen, they can loot his body (finding a *Smuggler's Pocket* and 100 gp). If they saved the core, they can keep it. An Unstable Aether Core can be sold at a black market (like Shipwreck Cove) for 1,000 gp, or kept to power a future ship upgrade. 

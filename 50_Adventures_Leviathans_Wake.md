@@ -17,7 +17,7 @@ The campaign arc begins with unnatural phenomena.
 To fight a CR 25 Titan, a single party of adventurers is not enough. They need a fleet.
 The players must travel to the faction capitals to secure alliances.
 - **The Crimson Dominion:** High Admiral Vane will only commit his Dreadnoughts if the players assassinate a rival Pirate Lord who is blocking their supply lines.
-- **The Spirit Keepers:** High Elder Naia believes the Leviathan is a natural purge. The players must pass a difficult Skill Challenge (Persuasion, Religion, Nature) to convince her the beast is corrupted by Aether and must be stopped.
+- **The Spirit Keepers:** High Elder Naia believes the Leviathan is a natural purge. The players must pass a difficult Skill Challenge (Diplomacy, Knowledge [religion], Knowledge [nature]) to convince her the beast is corrupted by Aether and must be stopped.
 - **The Consortium:** The Vance Brothers will fund the war effort, but only if the players sign a *Golden Contract* promising them exclusive salvage rights to the Leviathan's corpse.
 
 *Alternative Evil Path:* If the players are ruthless pirates, they can use the Leviathan's approach as a distraction. While the Dominion fleet sails out to fight the beast, the players can infiltrate Bastion and rob the Aether-Forges blind.

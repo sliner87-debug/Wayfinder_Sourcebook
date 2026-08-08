@@ -1015,7 +1015,7 @@ None
 **Prerequisites:** None  
 
 **Effect:**  
-+2 on one coordinated action, Aid Another, or group skill check until next turn.  
++2 on one coordinated standard action, Aid Another, or group skill check until next turn.  
 
 **Scaling:**  
 None  

@@ -10,12 +10,14 @@ The Dominion relies on heavily armored infantry, arcane-suppression, and relentl
 
 ### Dominion Marine
 *Medium humanoid (any race), lawful evil*
-- **Armor Class:** 16 (Chain Mail)
+- **Armor Class:** 16 Chain Mail, touch 11, flat-footed 15
 - **Hit Points:** 22 (4d8 + 4)
 - **Speed:** 30 ft.
 - **Challenge:** 1/2 (100 XP)
 
 **STR:** 15 (+2) | **DEX:** 12 (+1) | **CON:** 13 (+1) | **INT:** 10 (+0) | **WIS:** 11 (+0) | **CHA:** 9 (-1)
+- **Base Atk:** +3 | **CMB:** +5 | **CMD:** 16
+- **Feats:** Toughness, Power Attack
 - **Skills:** Athletics +4, Intimidation +1
 - **Senses:** passive Perception 10
 - **Languages:** Common, Dominion Standard
@@ -31,12 +33,14 @@ The Dominion relies on heavily armored infantry, arcane-suppression, and relentl
 
 ### Dominion Inquisitor
 *Medium humanoid (any race), lawful evil*
-- **Armor Class:** 15 (Breastplate)
+- **Armor Class:** 15 Breastplate, touch 11, flat-footed 14
 - **Hit Points:** 52 (8d8 + 16)
 - **Speed:** 30 ft.
 - **Challenge:** 3 (700 XP)
 
 **STR:** 11 (+0) | **DEX:** 12 (+1) | **CON:** 14 (+2) | **INT:** 16 (+3) | **WIS:** 14 (+2) | **CHA:** 12 (+1)
+- **Base Atk:** +6 | **CMB:** +6 | **CMD:** 17
+- **Feats:** Toughness, Power Attack
 - **Skills:** Arcana +5, Investigation +5, Perception +4
 - **Senses:** passive Perception 14
 
@@ -53,12 +57,14 @@ The Dominion relies on heavily armored infantry, arcane-suppression, and relentl
 
 ### Aegis Automaton
 *Large construct, unaligned*
-- **Armor Class:** 18 (Natural Armor)
+- **Armor Class:** 18 Natural Armor, touch 8, flat-footed 19
 - **Hit Points:** 85 (10d10 + 30)
 - **Speed:** 20 ft.
 - **Challenge:** 5 (1,800 XP)
 
 **STR:** 18 (+4) | **DEX:** 8 (-1) | **CON:** 16 (+3) | **INT:** 3 (-4) | **WIS:** 10 (+0) | **CHA:** 1 (-5)
+- **Base Atk:** +7 | **CMB:** +12 | **CMD:** 21
+- **Feats:** Toughness, Power Attack
 - **Damage Immunities:** poison, psychic
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
@@ -74,12 +80,14 @@ The Dominion relies on heavily armored infantry, arcane-suppression, and relentl
 
 ### Ironclad Juggernaut
 *Medium humanoid (cyborg), lawful evil*
-- **Armor Class:** 20 (Plate, Shield)
+- **Armor Class:** 20 Plate, Shield, touch 10, flat-footed 20
 - **Hit Points:** 119 (14d8 + 56)
 - **Speed:** 25 ft.
 - **Challenge:** 8 (3,900 XP)
 
 **STR:** 20 (+5) | **DEX:** 10 (+0) | **CON:** 18 (+4) | **INT:** 10 (+0) | **WIS:** 12 (+1) | **CHA:** 14 (+2)
+- **Base Atk:** +10 | **CMB:** +15 | **CMD:** 25
+- **Feats:** Toughness, Power Attack
 - **Saving Throws:** Str +8, Con +7, Wis +4
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -99,12 +107,14 @@ The Consortium fights with deep pockets, utilizing expensive magic, mercenaries,
 
 ### Gold Cloak Mercenary
 *Medium humanoid (any race), lawful neutral*
-- **Armor Class:** 15 (Studded Leather, Parry)
+- **Armor Class:** 15 Studded Leather, Parry, touch 13, flat-footed 12
 - **Hit Points:** 33 (6d8 + 6)
 - **Speed:** 30 ft.
 - **Challenge:** 1 (200 XP)
 
 **STR:** 11 (+0) | **DEX:** 16 (+3) | **CON:** 12 (+1) | **INT:** 10 (+0) | **WIS:** 12 (+1) | **CHA:** 10 (+0)
+- **Base Atk:** +4 | **CMB:** +4 | **CMD:** 17
+- **Feats:** Toughness, Power Attack
 - **Skills:** Perception +3, Insight +3
 
 **Traits:**
@@ -121,12 +131,14 @@ The Consortium fights with deep pockets, utilizing expensive magic, mercenaries,
 
 ### Ledger-Mage
 *Medium humanoid (any race), neutral*
-- **Armor Class:** 12 (15 with *Mage Armor*)
+- **Armor Class:** 12 15 with *Mage Armor*, touch 12, flat-footed 10
 - **Hit Points:** 49 (11d8)
 - **Speed:** 30 ft.
 - **Challenge:** 4 (1,100 XP)
 
 **STR:** 9 (-1) | **DEX:** 14 (+2) | **CON:** 11 (+0) | **INT:** 17 (+3) | **WIS:** 14 (+2) | **CHA:** 15 (+2)
+- **Base Atk:** +8 | **CMB:** +7 | **CMD:** 19
+- **Feats:** Toughness, Power Attack
 - **Skills:** History +5, Persuasion +4
 
 **Traits:**
@@ -143,12 +155,14 @@ The Consortium fights with deep pockets, utilizing expensive magic, mercenaries,
 
 ### Consortium Repo-Man
 *Medium humanoid (any race), lawful evil*
-- **Armor Class:** 16 (Studded Leather)
+- **Armor Class:** 16 Studded Leather, touch 14, flat-footed 12
 - **Hit Points:** 78 (12d8 + 24)
 - **Speed:** 40 ft.
 - **Challenge:** 6 (2,300 XP)
 
 **STR:** 12 (+1) | **DEX:** 18 (+4) | **CON:** 14 (+2) | **INT:** 13 (+1) | **WIS:** 16 (+3) | **CHA:** 11 (+0)
+- **Base Atk:** +9 | **CMB:** +10 | **CMD:** 24
+- **Feats:** Toughness, Power Attack
 - **Skills:** Stealth +7, Perception +6, Investigation +4
 - **Senses:** darkvision 60 ft., passive Perception 16
 
@@ -168,12 +182,14 @@ The Drow utilize terrifying flesh-crafting, stealth, and undead thralls from the
 
 ### Abyssal Thrall
 *Medium undead, neutral evil*
-- **Armor Class:** 11 (Natural Armor)
+- **Armor Class:** 11 Natural Armor, touch 9, flat-footed 12
 - **Hit Points:** 22 (3d8 + 9)
 - **Speed:** 20 ft., swim 30 ft.
 - **Challenge:** 1/2 (100 XP)
 
 **STR:** 14 (+2) | **DEX:** 8 (-1) | **CON:** 16 (+3) | **INT:** 3 (-4) | **WIS:** 8 (-1) | **CHA:** 5 (-3)
+- **Base Atk:** +2 | **CMB:** +4 | **CMD:** 13
+- **Feats:** Toughness, Power Attack
 - **Damage Immunities:** poison
 - **Condition Immunities:** poisoned, exhausted
 
@@ -187,12 +203,14 @@ The Drow utilize terrifying flesh-crafting, stealth, and undead thralls from the
 
 ### Deep Weaver
 *Medium humanoid (elf), neutral evil*
-- **Armor Class:** 13 (16 with *Mage Armor*)
+- **Armor Class:** 13 16 with *Mage Armor*, touch 13, flat-footed 10
 - **Hit Points:** 45 (10d8)
 - **Speed:** 30 ft.
 - **Challenge:** 3 (700 XP)
 
 **STR:** 9 (-1) | **DEX:** 16 (+3) | **CON:** 11 (+0) | **INT:** 12 (+1) | **WIS:** 14 (+2) | **CHA:** 16 (+3)
+- **Base Atk:** +7 | **CMB:** +6 | **CMD:** 19
+- **Feats:** Toughness, Power Attack
 - **Skills:** Medicine +4, Stealth +5
 
 **Traits:**
@@ -207,12 +225,14 @@ The Drow utilize terrifying flesh-crafting, stealth, and undead thralls from the
 
 ### Arachna-Drider (Aquatic)
 *Large monstrosity, chaotic evil*
-- **Armor Class:** 17 (Natural Chitin)
+- **Armor Class:** 17 Natural Chitin, touch 12, flat-footed 14
 - **Hit Points:** 102 (12d10 + 36)
 - **Speed:** 30 ft., climb 30 ft., swim 40 ft.
 - **Challenge:** 7 (2,900 XP)
 
 **STR:** 16 (+3) | **DEX:** 16 (+3) | **CON:** 17 (+3) | **INT:** 13 (+1) | **WIS:** 14 (+2) | **CHA:** 12 (+1)
+- **Base Atk:** +9 | **CMB:** +13 | **CMD:** 26
+- **Feats:** Toughness, Power Attack
 - **Skills:** Stealth +6, Perception +5
 
 **Traits:**
@@ -232,12 +252,14 @@ Pirates fight dirty. They rely on mobility, overwhelming aggression, and volatil
 
 ### Corsair Swashbuckler
 *Medium humanoid (any race), chaotic neutral*
-- **Armor Class:** 14 (Leather Armor)
+- **Armor Class:** 14 Leather Armor, touch 13, flat-footed 11
 - **Hit Points:** 27 (5d8 + 5)
 - **Speed:** 30 ft.
 - **Challenge:** 1 (200 XP)
 
 **STR:** 10 (+0) | **DEX:** 16 (+3) | **CON:** 12 (+1) | **INT:** 10 (+0) | **WIS:** 10 (+0) | **CHA:** 14 (+2)
+- **Base Atk:** +3 | **CMB:** +3 | **CMD:** 16
+- **Feats:** Toughness, Power Attack
 - **Skills:** Acrobatics +5, Athletics +2
 
 **Traits:**
@@ -252,12 +274,14 @@ Pirates fight dirty. They rely on mobility, overwhelming aggression, and volatil
 
 ### Powder Mage
 *Medium humanoid (any race), chaotic evil*
-- **Armor Class:** 13 (Leather Armor)
+- **Armor Class:** 13 Leather Armor, touch 12, flat-footed 11
 - **Hit Points:** 44 (8d8 + 8)
 - **Speed:** 30 ft.
 - **Challenge:** 4 (1,100 XP)
 
 **STR:** 10 (+0) | **DEX:** 14 (+2) | **CON:** 12 (+1) | **INT:** 16 (+3) | **WIS:** 11 (+0) | **CHA:** 14 (+2)
+- **Base Atk:** +6 | **CMB:** +6 | **CMD:** 18
+- **Feats:** Toughness, Power Attack
 
 **Traits:**
 - *Volatile Magic:* Whenever the Powder Mage casts a spell that deals fire damage, they roll 1d6. On a 1, the spell backfires, dealing 1d6 fire damage to the Mage in addition to its normal effects.
@@ -270,12 +294,14 @@ Pirates fight dirty. They rely on mobility, overwhelming aggression, and volatil
 
 ### Wayfinder Captain
 *Medium humanoid (any race), chaotic neutral*
-- **Armor Class:** 16 (Studded Leather)
+- **Armor Class:** 16 Studded Leather, touch 14, flat-footed 12
 - **Hit Points:** 84 (13d8 + 26)
 - **Speed:** 35 ft.
 - **Challenge:** 6 (2,300 XP)
 
 **STR:** 12 (+1) | **DEX:** 18 (+4) | **CON:** 14 (+2) | **INT:** 14 (+2) | **WIS:** 12 (+1) | **CHA:** 16 (+3)
+- **Base Atk:** +9 | **CMB:** +10 | **CMD:** 24
+- **Feats:** Toughness, Power Attack
 - **Skills:** Acrobatics +7, Intimidation +6, Water Vehicles +5
 
 **Traits:**
@@ -294,12 +320,14 @@ The Keepers utilize druidic magic, symbiotic plant life, and control over elemen
 
 ### Reef Warden
 *Medium humanoid (any race), neutral*
-- **Armor Class:** 14 (Hide Armor)
+- **Armor Class:** 14 Hide Armor, touch 12, flat-footed 12
 - **Hit Points:** 39 (6d8 + 12)
 - **Speed:** 30 ft., swim 30 ft.
 - **Challenge:** 2 (450 XP)
 
 **STR:** 14 (+2) | **DEX:** 14 (+2) | **CON:** 14 (+2) | **INT:** 10 (+0) | **WIS:** 16 (+3) | **CHA:** 10 (+0)
+- **Base Atk:** +4 | **CMB:** +6 | **CMD:** 18
+- **Feats:** Toughness, Power Attack
 - **Skills:** Nature +4, Survival +5
 
 **Traits:**
@@ -315,12 +343,14 @@ The Keepers utilize druidic magic, symbiotic plant life, and control over elemen
 
 ### Bound Water Elemental
 *Large elemental, neutral*
-- **Armor Class:** 14 (Natural Armor)
+- **Armor Class:** 14 Natural Armor, touch 11, flat-footed 12
 - **Hit Points:** 114 (12d10 + 48)
 - **Speed:** 30 ft., swim 90 ft.
 - **Challenge:** 5 (1,800 XP)
 
 **STR:** 18 (+4) | **DEX:** 14 (+2) | **CON:** 18 (+4) | **INT:** 5 (-3) | **WIS:** 10 (+0) | **CHA:** 8 (-1)
+- **Base Atk:** +9 | **CMB:** +14 | **CMD:** 26
+- **Feats:** Toughness, Power Attack
 - **Damage Resistances:** acid; bludgeoning, piercing, and slashing from nonmagical attacks
 
 **Traits:**
@@ -335,12 +365,14 @@ The Keepers utilize druidic magic, symbiotic plant life, and control over elemen
 
 ### Sentient Kelp Mass
 *Large plant, unaligned*
-- **Armor Class:** 13 (Natural Armor)
+- **Armor Class:** 13 Natural Armor, touch 9, flat-footed 13
 - **Hit Points:** 75 (10d10 + 20)
 - **Speed:** 10 ft., swim 30 ft.
 - **Challenge:** 4 (1,100 XP)
 
 **STR:** 16 (+3) | **DEX:** 10 (+0) | **CON:** 14 (+2) | **INT:** 1 (-5) | **WIS:** 10 (+0) | **CHA:** 1 (-5)
+- **Base Atk:** +7 | **CMB:** +11 | **CMD:** 21
+- **Feats:** Toughness, Power Attack
 - **Damage Vulnerabilities:** fire
 - **Damage Resistances:** bludgeoning, piercing
 

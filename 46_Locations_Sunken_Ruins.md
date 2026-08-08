@@ -8,7 +8,7 @@ Before the world flooded, Aethelgard was a continent-spanning empire built on un
 The ruins vary from half-submerged spires jutting out of the ocean like broken teeth, to massive, hermetically sealed biodomes resting in the abyssal trenches. The architecture is sleek, white stone mixed with veins of raw Aether crystal. The geometry is often broken, with stairs leading nowhere and gravity behaving erratically.
 
 ### Local Dangers
-- **Aether Radiation:** The ambient magic here is highly unstable. Every hour spent exploring a major ruin, characters must make a DC 14 Constitution saving throw. On a failure, they suffer a random magical mutation (e.g., skin turns blue, hair falls out, gain vulnerability to force damage) that lasts until cured by *Greater Restoration*.
+- **Aether Radiation:** The ambient magic here is highly unstable. Every hour spent exploring a major ruin, characters must make a DC 15 Fortitude save. On a failure, they suffer a random magical mutation (e.g., skin turns blue, hair falls out, gain vulnerability to force damage) that lasts until cured by *Greater Restoration*.
 - **The Silent Guardians:** Aethelgard was defended by advanced constructs (use statblocks for Golems or Aegis Automatons) that are still active, relentlessly following millennium-old patrol routes.
 
 ### Points of Interest

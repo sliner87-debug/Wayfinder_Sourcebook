@@ -589,7 +589,7 @@ None
 **Prerequisites:** None  
 
 **Effect:**  
-Ally may repeat a movement/Aid/positioning action taken this round, but at a -2 penalty.  
+Ally may repeat a movement/Aid/positioning standard action taken this round, but at a -2 penalty.  
 
 **Scaling:**  
 None  
@@ -654,7 +654,7 @@ None
 **Prerequisites:** None  
 
 **Effect:**  
-Ranged attack. On hit, target's speed reduced by 10 ft and cannot use special movement actions until next turn.  
+Ranged attack. On hit, target's speed reduced by 10 ft and cannot use special movement standard actions until next turn.  
 
 **Scaling:**  
 None  

@@ -10,7 +10,7 @@ While the campaign setting supports many races across the Shattered Expanse, the
 **Ability Adjustments:** Dex +2, Cha +1
 
 **Racial Traits:**
-- **Tideborn Amphibious Nature:** Ignores underwater movement penalties and natural ocean terrain penalties. Can breathe underwater 1 hr/level/day (permanent at level 5).
+- **Tideborn Amphibious Knowledge (Nature):** Ignores underwater movement penalties and natural ocean terrain penalties. Can breathe underwater 1 hr/level/day (permanent at level 5).
 - **Fey Sight:** Darkvision 60 ft. **Spirit Sight:** Detect Fey/Spirits/Magical Residue at will (30 ft. range).
 - **Fey Magic:** Innate Spellcasting (Pixie spells).
 - **Polymorph:** Innate Polymorph ability (self only). Cannot gain spell-like, supernatural, or legendary abilities from the new form.
@@ -40,8 +40,8 @@ Minor changes caused by magical exposure, blessings, mutations, or small awakeni
 A fundamental evolution of the character.
 - **Awakened Fey (+1 Int, +1 Wis, +1 Cha):** Psionic evolution. Gains Psionic subtype. PP = Level + Int + Cha. One Psionic Discipline & 1st level power. Advantage on saves vs. enchantments. Lifespan x5.
 - **Arcane Ascendant Fey (+1 Int, +1 Cha):** Deep magic conduit. Gains Arcane Reservoir. Spellweaver Soul (advantage on checks for one school). Resistance to one element. Arcane Memory (recall witnessed spell 1/day).
-- **Spirit-Bound Fey (+1 Wis, +1 Cha):** Spirit Shaman evolution. Navigator Spirit manifests physically. Advantage on spirit-related checks. Ancestral Memory (advantage on History 1/day). Spirit Walk (ethereal 1 round/level, 1/day).
-- **First Captain Legacy Fey (+1 Int, +1 Wis, +1 Cha):** Lost Wayfinder inheritance. Proficiency in Water Vehicles, Survival, Nature. Captain's Echo (visions from past Wayfinders). Improved Ship Bond progression. Lost Route Memory (recognize ancient routes 1/week).
+- **Spirit-Bound Fey (+1 Wis, +1 Cha):** Spirit Shaman evolution. Navigator Spirit manifests physically. Advantage on spirit-related checks. Ancestral Memory (advantage on Knowledge (History) 1/day). Spirit Walk (ethereal 1 round/level, 1/day).
+- **First Captain Legacy Fey (+1 Int, +1 Wis, +1 Cha):** Lost Wayfinder inheritance. Proficiency in Water Vehicles, Survival, Knowledge (Nature). Captain's Echo (visions from past Wayfinders). Improved Ship Bond progression. Lost Route Memory (recognize ancient routes 1/week).
 
 ### Category C: Heritage Templates
 **Limit:** Max 1 | **Cost:** 3 Transformation Points

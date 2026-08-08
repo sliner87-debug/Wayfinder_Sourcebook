@@ -13,7 +13,7 @@ The city is a three-dimensional maze of rotting wood, canvas sails, and rope bri
 
 ### Local Laws & Dangers
 - **The Pirate's Code:** There is only one real law—do not betray the Cove to the Dominion or the Consortium. Those found guilty of treason are keelhauled beneath the city's massive, barnacle-encrusted underbelly.
-- **Structural Instability:** The Cove is constantly shifting. During a fight, there is a 10% chance each round that the floor (a rotting deck or frayed rope bridge) collapses. Creatures must make a DC 14 Dexterity saving throw or fall 20 feet into the shark-infested waters below.
+- **Structural Instability:** The Cove is constantly shifting. During a fight, there is a 10% chance each round that the floor (a rotting deck or frayed rope bridge) collapses. Creatures must make a DC 15 Reflex save or fall 20 feet into the shark-infested waters below.
 
 ### Points of Interest
 

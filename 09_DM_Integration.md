@@ -467,7 +467,7 @@ NPC reactions depend on:
 
 the captain’s reputation,
 
-past actions,
+past standard actions,
 
 current interests.
 

@@ -421,7 +421,7 @@ None
 **Prerequisites:** None  
 
 **Effect:**  
-Allies can delay actions until immediately after another affected ally acts. Lasts 1 round.  
+Allies can delay standard actions until immediately after another affected ally acts. Lasts 1 round.  
 
 **Scaling:**  
 None  
@@ -910,7 +910,7 @@ None
 **Prerequisites:** None  
 
 **Effect:**  
-Grant +10 ft movement or free action to draw/stow item.  
+Grant +10 ft movement or free standard action to draw/stow item.  
 
 **Scaling:**  
 None  

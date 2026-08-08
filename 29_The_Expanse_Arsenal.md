@@ -14,12 +14,12 @@ This heavy, brass-and-iron rifle hums with volatile energy. You gain a +1 bonus 
 It fires concentrated bolts of force rather than physical bullets.
 - **Damage:** 2d8 force damage.
 - **Properties:** Ammunition (range 100/400), two-handed, reload (6 shots).
-- **Overcharge:** As a bonus action, you can overcharge the rifle for your next attack. If the attack hits, it deals an additional 2d8 force damage, but the weapon immediately jams. You must spend an action to vent the aether-steam before the weapon can be fired again.
+- **Overcharge:** As a swift action, you can overcharge the rifle for your next attack. If the attack hits, it deals an additional 2d8 force damage, but the weapon immediately jams. You must spend a standard action to vent the aether-steam before the weapon can be fired again.
 
 #### Inquisitor's Monocle
 *Wondrous item, uncommon (requires attunement)*
 **Cost:** 800 gp
-A brass monocle fitted with a lens carved from raw aether-crystal. While wearing this monocle, you have advantage on Wisdom (Insight) checks to determine if someone is lying.
+A brass monocle fitted with a lens carved from raw aether-crystal. While wearing this monocle, you have a +4 bonus on Sense Motive checks to determine if someone is lying.
 Additionally, the monocle holds 1 charge. You can expend the charge to cast the *zone of truth* spell (save DC 13). The monocle regains its expended charge daily at dawn.
 
 #### Ironclad Plating
@@ -27,7 +27,7 @@ Additionally, the monocle holds 1 charge. You can expend the charge to cast the 
 **Cost:** 12,000 gp
 This heavy suit of mechanized armor is powered by a small aether-engine mounted on the back. While wearing this armor, you gain a +1 bonus to AC.
 - **Juggernaut:** Any critical hit against you becomes a normal hit.
-- **Heavy Machinery:** The armor is incredibly loud and unwieldy. You have disadvantage on Dexterity (Stealth) checks and Strength (Athletics) checks made to swim. If you fall into water while wearing this armor, you sink at a rate of 30 feet per round.
+- **Heavy Machinery:** The armor is incredibly loud and unwieldy. You take a -4 penalty on Stealth and Swim checks. If you fall into water while wearing this armor, you sink at a rate of 30 feet per round.
 
 ---
 
@@ -38,7 +38,7 @@ This heavy suit of mechanized armor is powered by a small aether-engine mounted 
 *Wondrous item, rare*
 **Cost:** 5,000 gp (Rarely sold, highly illegal to steal)
 A heavy book bound in gilded leather. If a creature voluntarily signs their name in the ledger, agreeing to a specific debt or contract, the terms become magically binding.
-If the signer breaks the terms of the contract, the ledger glows red. The oathbreaker is immediately subjected to a curse: they suffer disadvantage on all Charisma checks, and any gold or gems they touch instantly turn into worthless lead. The curse can only be lifted by the owner of the ledger crossing out the signature, or by a *remove curse* spell cast at 5th level or higher.
+If the signer breaks the terms of the contract, the ledger glows red. The oathbreaker is immediately subjected to a curse: they suffer a -4 penalty on all Charisma checks, and any gold or gems they touch instantly turn into worthless lead. The curse can only be lifted by the owner of the ledger crossing out the signature, or by a *remove curse* spell cast at 5th level or higher.
 
 #### Smuggler's Coin
 *Wondrous item, uncommon*
@@ -84,7 +84,7 @@ Woven from the silk of abyssal spiders and enchanted by the High Priestesses of 
 #### Aegis Shield-Bracer
 *Armor (shield), rare (requires attunement)*
 **Cost:** 4,500 gp
-A sleek, metallic bracer that hums with energy. While wearing this bracer, you can use a bonus action to activate it, causing a disc of crackling blue "hard-light" to project from your wrist. While active, it provides a +2 bonus to AC, leaving your hand free to hold (but not attack with) other items.
+A sleek, metallic bracer that hums with energy. While wearing this bracer, you can use a swift action to activate it, causing a disc of crackling blue "hard-light" to project from your wrist. While active, it provides a +2 bonus to AC, leaving your hand free to hold (but not attack with) other items.
 - **Unstable Matrix:** When a creature rolls a natural 20 on a melee attack against you while the shield is active, the matrix overloads. You and the attacker both take 3d6 force damage, and the shield deactivates and cannot be used again until you finish a short rest.
 
 #### Gravity Anchor

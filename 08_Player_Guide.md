@@ -438,7 +438,7 @@ Corsair Captain
 
 Identity
 
-The Corsair Captain is the master of raids, boarding actions, and unconventional warfare.
+The Corsair Captain is the master of raids, boarding standard actions, and unconventional warfare.
 
 They win by creating openings.
 

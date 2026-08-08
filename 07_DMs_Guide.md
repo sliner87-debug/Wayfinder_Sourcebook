@@ -26,12 +26,12 @@ To preserve the campaign sandbox and prevent the Wayfinder from bypassing all ga
 1. **Fleet + First Captain Interaction:** 
    - *Rule:* Fleet techniques affect tactical command during active operations. First Captain techniques affect strategic influence. A creature can benefit from only **one** Fleet technique command effect at a time.
 2. **Mystic/Hunter Information Limits:**
-   - *Rule:* Information gained through techniques provides direction, clues, and probabilities. It does not automatically reveal all hidden creatures, secret motives, or bypass investigation. Perfect information destroys mystery.
+   - *Rule:* Information gained through techniques provides direction, clues, and probabilities. It does not automatically reveal all hidden creatures, secret motives, or bypass perception. Perfect information destroys mystery.
 3. **Corsair Siege Limits:**
    - *Rule:* Siege-related techniques create openings and tactical advantages. They do not automatically destroy structures, ships, or magical defenses. You create a breach; the fortress does not instantly collapse.
 4. **Legendary World Effects:**
    - *Rule:* Permanent world-changing effects (e.g., discovering impossible routes, establishing sovereign domains) require time, resources, and narrative consequences. The captain can influence history, but they do not own it.
-5. **Passive & Action Economy Limits:**
+5. **Passive & Standard action Economy Limits:**
    - *Rule:* Bonuses from Captain's Techniques follow normal 5e advantage/disadvantage and bounded accuracy rules. A Wayfinder may use only **one** Reaction Captain's Technique per round.
 
 ## Final DM Principle

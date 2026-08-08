@@ -6,7 +6,7 @@ The campaign loop is: **Explore → Discover → Record → Understand → Upgra
 A Discovery is a verified, meaningful first-time revelation that expands the world. A rumor is not a discovery; it must be physically mapped, witnessed, or magically confirmed.
 - **Wayfinding Lore:** Accumulated understanding. Never spent, only gained. Used to unlock Fusion Techniques, ship awakenings, and legendary status.
 - **Discovery Points (DP):** Short-term resource spent on Fusion Techniques and special class abilities (max 3-10, refreshes during downtime).
-- **The Captain's Log:** A magical, permanent record. It tracks discoveries across categories (Charts, Species, Trade, Magic, Spirits, History, Ships). The Log contains "Hidden Tags" (e.g., Arcane, Drow, First Captain) tracked by the DM that unlock future transformations or ship upgrades.
+- **The Captain's Log:** A magical, permanent record. It tracks discoveries across categories (Charts, Species, Trade, Magic, Spirits, Knowledge (History), Ships). The Log contains "Hidden Tags" (e.g., Arcane, Drow, First Captain) tracked by the DM that unlock future transformations or ship upgrades.
 
 ### Discovery Tiers
 1. **Local:** Small area (e.g., hidden cove). Grants 1 Lore, normal XP.

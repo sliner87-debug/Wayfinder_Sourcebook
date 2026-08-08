@@ -12,7 +12,7 @@
 
 *The world did not end in fire. It ended in a flood of magic.*
 
-Welcome to the **Wayfinder Sourcebook**, a comprehensive campaign setting and rules expansion for D&D 5th Edition. This book transforms your tabletop experience from traditional high-fantasy dungeon crawling into a high-stakes, nautical, magic-punk adventure. 
+Welcome to the **Wayfinder Sourcebook**, a comprehensive campaign setting and rules expansion for the Pathfinder Roleplaying Game (1st Edition). This book transforms your tabletop experience from traditional high-fantasy dungeon crawling into a high-stakes, nautical, magic-punk adventure. 
 
 ## The Shattered Expanse
 Centuries ago, the precursor civilization of Aethelgard pushed magical industrialization too far. Their relentless harvesting of Aetherâ€”the raw, physical manifestation of magicâ€”destabilized the earth's crust. Continents sank, oceans boiled, and the world was flooded. 
@@ -186,7 +186,7 @@ While the campaign setting supports many races across the Shattered Expanse, the
 **Ability Adjustments:** Dex +2, Cha +1
 
 **Racial Traits:**
-- **Tideborn Amphibious Nature:** Ignores underwater movement penalties and natural ocean terrain penalties. Can breathe underwater 1 hr/level/day (permanent at level 5).
+- **Tideborn Amphibious Knowledge (Nature):** Ignores underwater movement penalties and natural ocean terrain penalties. Can breathe underwater 1 hr/level/day (permanent at level 5).
 - **Fey Sight:** Darkvision 60 ft. **Spirit Sight:** Detect Fey/Spirits/Magical Residue at will (30 ft. range).
 - **Fey Magic:** Innate Spellcasting (Pixie spells).
 - **Polymorph:** Innate Polymorph ability (self only). Cannot gain spell-like, supernatural, or legendary abilities from the new form.
@@ -216,8 +216,8 @@ Minor changes caused by magical exposure, blessings, mutations, or small awakeni
 A fundamental evolution of the character.
 - **Awakened Fey (+1 Int, +1 Wis, +1 Cha):** Psionic evolution. Gains Psionic subtype. PP = Level + Int + Cha. One Psionic Discipline & 1st level power. Advantage on saves vs. enchantments. Lifespan x5.
 - **Arcane Ascendant Fey (+1 Int, +1 Cha):** Deep magic conduit. Gains Arcane Reservoir. Spellweaver Soul (advantage on checks for one school). Resistance to one element. Arcane Memory (recall witnessed spell 1/day).
-- **Spirit-Bound Fey (+1 Wis, +1 Cha):** Spirit Shaman evolution. Navigator Spirit manifests physically. Advantage on spirit-related checks. Ancestral Memory (advantage on History 1/day). Spirit Walk (ethereal 1 round/level, 1/day).
-- **First Captain Legacy Fey (+1 Int, +1 Wis, +1 Cha):** Lost Wayfinder inheritance. Proficiency in Water Vehicles, Survival, Nature. Captain's Echo (visions from past Wayfinders). Improved Ship Bond progression. Lost Route Memory (recognize ancient routes 1/week).
+- **Spirit-Bound Fey (+1 Wis, +1 Cha):** Spirit Shaman evolution. Navigator Spirit manifests physically. Advantage on spirit-related checks. Ancestral Memory (advantage on Knowledge (History) 1/day). Spirit Walk (ethereal 1 round/level, 1/day).
+- **First Captain Legacy Fey (+1 Int, +1 Wis, +1 Cha):** Lost Wayfinder inheritance. Proficiency in Water Vehicles, Survival, Knowledge (Nature). Captain's Echo (visions from past Wayfinders). Improved Ship Bond progression. Lost Route Memory (recognize ancient routes 1/week).
 
 ### Category C: Heritage Templates
 **Limit:** Max 1 | **Cost:** 3 Transformation Points
@@ -239,8 +239,8 @@ Not purchased. Not selected. Earned through world-altering campaign events.
 ## Class Chassis
 **Hit Die:** d8
 **Alignment:** Any
-**Proficiencies:** Choose four from Acrobatics, Arcana, Athletics, Deception, History, Insight, Intimidation, Investigation, Nature, Perception, Persuasion, Religion, Stealth, Survival, and Water Vehicles.
-**Proficiency Bonus:** standard 5e progression (+2 to +6).
+**Proficiencies:** Choose four from Acrobatics, Knowledge (Arcana), Climb/Swim, Deception, Knowledge (History), Insight, Intimidation, Perception, Knowledge (Nature), Perception, Persuasion, Knowledge (Religion), Stealth, Survival, and Water Vehicles.
+**Base Attack Bonus (BAB):** standard 5e progression (+2 to +6).
 **Saving Throws:** Dexterity, Charisma.
 **Weapon & Armor Proficiency:** Simple weapons, martial weapons with the finesse or light property, firearms. Light armor, medium armor (at level 5), shields.
 
@@ -252,7 +252,7 @@ The Wayfinder progresses in three magical paths simultaneously.
 
 ### Lore-Caster (The Fusion Engine)
 Instead of preparing spells, the Wayfinder uncovers **Wayfinding Lore**â€”an accumulated understanding of the world. 
-- **Level 7 (Arcane-Psionic Fusion):** Combine a spell and a power into one action (e.g., Fireball + Telekinesis = Moving Flame Sphere).
+- **Level 7 (Arcane-Psionic Fusion):** Combine a spell and a power into one standard action (e.g., Fireball + Telekinesis = Moving Flame Sphere).
 - **Level 10 (Threefold Awakening - Triune Casting):** 1/day, combine a Spell, a Power, and a Spirit Ability to open new paths to unseen locations.
 - **Level 17 (Reality Navigation):** You do not teleport; you discover a path through solid fog, magical barriers, or impassable storms.
 - **Level 20 (Creator of Paths):** Create permanent routes, impossible trade lanes, and open new ocean passages.
@@ -262,7 +262,7 @@ At level 1, the Wayfinder awakens a personal spirit companionâ€”the "mirror
 1. **Origin Seed:** Choose the spirit's foundational nature (e.g., Ancient Navigator, Stormborn, Abyssal, Leviathan, Ancestor Captain, Ghost Fleet).
 2. **Seed Benefit:** A deliberate expression of the spirit (e.g., Storm Sense, Lost Routes, Deep Survival).
 3. **Random Traits:** Roll 2d100 for an Innate Trait and an Emergent Trait (e.g., Ancient Memory, Hates Calm Waters, Echo of Darkness).
-4. **Evolution:** The spirit evolves at levels 5, 10, 15, and 20 based on the captain's actions (e.g., Guardian Aspect, Sage Aspect, Dominator Aspect, Pathfinder Aspect). At level 20, it becomes the embodiment of your legend.
+4. **Evolution:** The spirit evolves at levels 5, 10, 15, and 20 based on the captain's standard actions (e.g., Guardian Aspect, Sage Aspect, Dominator Aspect, Pathfinder Aspect). At level 20, it becomes the embodiment of your legend.
 
 ## The Living Ship Bond
 The ship is your second character. It advances through **Vessel Tiers** via Wayfinder level, Chronicle Achievements, and Physical Transformation.
@@ -285,7 +285,7 @@ The campaign loop is: **Explore â†’ Discover â†’ Record â†’ Under
 A Discovery is a verified, meaningful first-time revelation that expands the world. A rumor is not a discovery; it must be physically mapped, witnessed, or magically confirmed.
 - **Wayfinding Lore:** Accumulated understanding. Never spent, only gained. Used to unlock Fusion Techniques, ship awakenings, and legendary status.
 - **Discovery Points (DP):** Short-term resource spent on Fusion Techniques and special class abilities (max 3-10, refreshes during downtime).
-- **The Captain's Log:** A magical, permanent record. It tracks discoveries across categories (Charts, Species, Trade, Magic, Spirits, History, Ships). The Log contains "Hidden Tags" (e.g., Arcane, Drow, First Captain) tracked by the DM that unlock future transformations or ship upgrades.
+- **The Captain's Log:** A magical, permanent record. It tracks discoveries across categories (Charts, Species, Trade, Magic, Spirits, Knowledge (History), Ships). The Log contains "Hidden Tags" (e.g., Arcane, Drow, First Captain) tracked by the DM that unlock future transformations or ship upgrades.
 
 ### Discovery Tiers
 1. **Local:** Small area (e.g., hidden cove). Grants 1 Lore, normal XP.
@@ -346,12 +346,12 @@ To preserve the campaign sandbox and prevent the Wayfinder from bypassing all ga
 1. **Fleet + First Captain Interaction:** 
    - *Rule:* Fleet techniques affect tactical command during active operations. First Captain techniques affect strategic influence. A creature can benefit from only **one** Fleet technique command effect at a time.
 2. **Mystic/Hunter Information Limits:**
-   - *Rule:* Information gained through techniques provides direction, clues, and probabilities. It does not automatically reveal all hidden creatures, secret motives, or bypass investigation. Perfect information destroys mystery.
+   - *Rule:* Information gained through techniques provides direction, clues, and probabilities. It does not automatically reveal all hidden creatures, secret motives, or bypass perception. Perfect information destroys mystery.
 3. **Corsair Siege Limits:**
    - *Rule:* Siege-related techniques create openings and tactical advantages. They do not automatically destroy structures, ships, or magical defenses. You create a breach; the fortress does not instantly collapse.
 4. **Legendary World Effects:**
    - *Rule:* Permanent world-changing effects (e.g., discovering impossible routes, establishing sovereign domains) require time, resources, and narrative consequences. The captain can influence history, but they do not own it.
-5. **Passive & Action Economy Limits:**
+5. **Passive & Standard action Economy Limits:**
    - *Rule:* Bonuses from Captain's Techniques follow normal 5e advantage/disadvantage and bounded accuracy rules. A Wayfinder may use only **one** Reaction Captain's Technique per round.
 
 ## Final DM Principle
@@ -796,7 +796,7 @@ Corsair Captain
 
 Identity
 
-The Corsair Captain is the master of raids, boarding actions, and unconventional warfare.
+The Corsair Captain is the master of raids, boarding standard actions, and unconventional warfare.
 
 They win by creating openings.
 
@@ -1696,7 +1696,7 @@ NPC reactions depend on:
 
 the captainâ€™s reputation,
 
-past actions,
+past standard actions,
 
 current interests.
 
@@ -2277,7 +2277,7 @@ Unknown Regions
 
 Areas requiring:
 
-investigation,
+perception,
 
 navigation,
 
@@ -2379,7 +2379,7 @@ competing goals.
 
 Chapter 6: Fleet Warfare
 
-Resolving Fleet-Level Actions
+Resolving Fleet-Level Standard actions
 
 Fleet conflicts should be treated as strategic encounters.
 
@@ -2570,7 +2570,7 @@ alliances.
 
 Political Impact
 
-A captainâ€™s actions may change:
+A captainâ€™s standard actions may change:
 
 borders,
 
@@ -3009,7 +3009,7 @@ To seamlessly integrate Captain's Techniques into your campaign, you can assign 
 ### Low-Level Rival: The Upstart Corsair (CR 4)
 - **Role:** Aggressive privateer or early campaign antagonist.
 - **Techniques:** Find the Weak Board (Least Corsair), Sea Legs (Least Seamanship).
-- **Tactics:** Relies on aggressive boarding actions and environmental hazards to overwhelm the party's ship.
+- **Tactics:** Relies on aggressive boarding standard actions and environmental hazards to overwhelm the party's ship.
 
 ### Mid-Level Antagonist: The Fleet Commander (CR 10)
 - **Role:** Leader of a regional naval force or pirate armada.
@@ -20531,7 +20531,7 @@ A ship's **Weapon Slots** represent the hardpoints available for mounting cannon
 | **Standard Broadside Cannon** | 2 | 800 gp | Ranged Weapon (+6) | 3d10 Bludgeoning. Range 120/480. Standard ship-to-ship armament. |
 | **Heavy Ballista** | 2 | 600 gp | Ranged Weapon (+6) | 4d8 Piercing. Range 150/600. Can be loaded with chain-shot to cripple rigging. |
 | **Precursor Naval Cannon** | 4 | 2,500 gp | Ranged Weapon (+8) | 5d10 Bludgeoning + 1d10 Arcane. Range 200/800. Ignores standard wood hardness. |
-| **Heavy Siege-Breaker Mortar** | 4 | 3,000 gp | Ranged AoE (DC 15 Dex) | 6d10 Fire/Bludgeoning in a 40 ft radius. Range 400/1600. Long reload times (2 rounds). |
+| **Heavy Siege-Breaker Mortar** | 4 | 3,000 gp | Ranged AoE (DC 15 Reflex) | 6d10 Fire/Bludgeoning in a 40 ft radius. Range 400/1600. Long reload times (2 rounds). |
 | **Experimental Aether-Beam** | 6 | Rare/Loot | Ranged Spell (+10) | 6d10 Force. Range 300/1200. Leaves lingering Aether-Burn on the target hull. |
 
 ---
@@ -20544,10 +20544,10 @@ A ship's **Upgrade Slots** represent the internal volume and structural hardpoin
 
 | Upgrade Module | Slots Required | Cost | Effect |
 | :--- | :---: | :--- | :--- |
-| **Smuggler's Compartment** | 2 | 1,000 gp | Adds a hidden cargo hold that requires a DC 20 Investigation check to find. |
+| **Smuggler's Compartment** | 2 | 1,000 gp | Adds a hidden cargo hold that requires a DC 20 Perception check to find. |
 | **Diving Bell & Winch** | 3 | 1,500 gp | A pressurized sphere that can be lowered to the ocean floor, holding up to 4 Medium creatures. |
 | **Captain's Extravagant Quarters** | 4 | 2,000 gp | Opulent furnishings. Grants the Captain a +2 circumstance bonus on Diplomacy and Intimidate checks while parleying in the cabin. |
-| **Medical / Triage Bay** | 5 | 3,000 gp | Grants Advantage on Medicine checks. Crew natural healing rates double while aboard. |
+| **Medical / Triage Bay** | 5 | 3,000 gp | Grants a +4 circumstance bonus on Heal checks. Crew natural healing rates double while aboard. |
 
 ### Heavy / Precursor Upgrades
 *These upgrades often require specific salvaged materials, like Aether-Slag or intact Precursor Cores, and a Master Artificer to install.*
@@ -20585,28 +20585,28 @@ When a vessel reaches Size 6 (Leviathan), it transcends standard naval combat. I
 
 Naval combat happens in standard initiative. The ship itself does not roll initiative; instead, it moves and acts on the turn of the **Helmsman**. 
 
-During combat, players take on specific **Officer Roles**. An officer can use their action to take a standard 5e/Pathfinder action (like casting a spell or shooting a bow), OR they can take a special **Ship Action** associated with their role.
+During combat, players take on specific **Officer Roles**. An officer can use their Standard Action to take a typical action (like casting a spell or making an attack), OR they can use their Standard Action to take a special **Ship Action** associated with their role.
 
 ### The Captain
 The leader of the vessel, responsible for morale and coordination.
-- **Ship Action - "Fire at Will!":** You grant advantage/ +2 to all artillery attacks made by your ship until the start of your next turn.
-- **Ship Action - "Brace for Impact!":** You shout a warning. Until the start of your next turn, the ship gains resistance to all bludgeoning, piercing, and slashing damage from ship weapons or environmental hazards, and the crew has advantage on saving throws to avoid being knocked prone.
+- **Standard Action - "Fire at Will!":** You grant a +2 bonus to all artillery attack rolls made by your ship until the start of your next turn.
+- **Standard Action - "Brace for Impact!":** You shout a warning. Until the start of your next turn, the ship gains Damage Reduction (DR) 5/- against ship weapons or environmental hazards, and the crew gains a +4 bonus on saving throws to avoid being knocked prone.
 
 ### The Helmsman (Tide-Caller)
 The one steering the ship. The ship moves on the Helmsman's turn.
-- **Free Action - Move:** You use the ship's speed to move it across the battlefield.
-- **Ship Action - "Hard to Port/Starboard!":** You make a DC 15 Profession (Sailor) or Water Vehicles check. On a success, the ship can immediately turn up to 90 degrees and move up to half its speed, avoiding an incoming hazard or lining up a perfect broadside.
-- **Ship Action - Ramming Speed:** You move the ship in a straight line toward a target. If you hit, make an opposed Piloting check or a melee attack. On a hit, both ships take 6d10 bludgeoning damage (modified by Aether-Rammed Prows or Precursor Plating).
+- **Move Action - Move:** You use the ship's speed to move it across the battlefield.
+- **Standard Action - "Hard to Port/Starboard!":** You make a DC 15 Profession (Sailor) check. On a success, the ship can immediately turn up to 90 degrees and move up to half its speed, avoiding an incoming hazard or lining up a perfect broadside.
+- **Standard Action - Ramming Speed:** You move the ship in a straight line toward a target. If you hit, make an opposed Profession (Sailor) check or a melee attack. On a hit, both ships take 6d10 bludgeoning damage (modified by Aether-Rammed Prows or Precursor Plating).
 
 ### The Gunner
 The master of the ship's artillery.
-- **Ship Action - Fire Artillery:** You direct the crew to fire a battery of installed Weapon Modules. Make an attack roll for the battery. You can add your proficiency/BAB and your Intelligence or Dexterity modifier to the attack roll instead of the ship's base modifier. (Having a Master Cannoneer officer grants a flat +2 to these rolls).
-- **Ship Action - Targeted Shot:** You aim for a specific part of the enemy ship (e.g., the mast, the rudder). Make an artillery attack with disadvantage (-4). If it hits, you cripple that component. (A crippled mast halves speed; a crippled rudder prevents turning).
+- **Standard Action - Fire Artillery:** You direct the crew to fire a battery of installed Weapon Modules. Make an attack roll for the battery. You can add your Base Attack Bonus and your Intelligence or Dexterity modifier to the attack roll instead of the ship's base modifier. (Having a Master Cannoneer officer grants a flat +2 to these rolls).
+- **Standard Action - Targeted Shot:** You aim for a specific part of the enemy ship (e.g., the mast, the rudder). Make an artillery attack with a -4 penalty. If it hits, you cripple that component. (A crippled mast halves speed; a crippled rudder prevents turning).
 
 ### The Bosun (Artificer / Engineer)
 The chief engineer and disciplinarian, keeping the ship and crew functioning.
-- **Ship Action - Emergency Repairs:** You direct the damage control crew. Make a DC 15 Craft or Engineering check. On a success, the ship regains 4d10 Hull Points or a crippled system is temporarily bypassed.
-- **Ship Action - Overclock Engine:** If the ship has an Aether-Core, you push the engines beyond their limits. The ship's speed increases by 30 feet until the end of the round, but the engine requires an Aether-Burn check or takes 1d10 damage from the strain.
+- **Standard Action - Emergency Repairs:** You direct the damage control crew. Make a DC 15 Craft (ships) or Knowledge (engineering) check. On a success, the ship regains 4d10 Hull Points or a crippled system is temporarily bypassed.
+- **Standard Action - Overclock Engine:** If the ship has an Aether-Core, you push the engines beyond their limits. The ship's speed increases by 30 feet until the end of the round, but the engine requires an Aether-Burn check or takes 1d10 damage from the strain.
 
 ---
 
@@ -20625,7 +20625,7 @@ This chapter provides GM-ready statblocks for enemy vessels encountered in the S
 
 ## 1. The Crimson Dominion (The Iron Juggernauts)
 
-**Faction Chassis Trait: Aether-Iron Plating.** Dominion ships have +2 Base AC and possess Hardness 5 (Damage Reduction 5 against all non-magical, non-siege damage). However, their base Speed is reduced by 10 ft, and they require a DC 20 Piloting check to turn 90 degrees.
+**Faction Chassis Trait: Aether-Iron Plating.** Dominion ships have +2 Base AC and possess Hardness 5 (Damage Reduction 5 against all non-magical, non-siege damage). However, their base Speed is reduced by 10 ft, and they require a DC 20 Profession (Sailor) check to turn 90 degrees.
 **Special Ability: Arcane Ramming.** When moving in a straight line, their Aether-Rammed Prows deal maximum structural damage, crushing smaller ships and halving any ramming damage they would normally take themselves.
 
 ### Dominion Ironclad Escort (Size 2)
@@ -20633,7 +20633,7 @@ This chapter provides GM-ready statblocks for enemy vessels encountered in the S
 - **HP:** 150 | **AC:** 17 | **Speed:** 50 ft. | **Hardness:** 5
 - **Standard Armament (4 Slots):**
   - *2x Standard Broadside Cannons (2 slots each):* Ranged Weapon (+6), 3d10 Bludgeoning. Range 120/480.
-- **Officer Action:** *Imperial Discipline.* Once per round, the Captain can grant a reroll to any failed attack roll or Piloting check.
+- **Standard Action:** *Imperial Discipline.* Once per round, the Captain can grant a reroll to any failed attack roll or Profession (Sailor) check.
 
 ### Dominion Magi-Cruiser (Size 3)
 *A line-breaker designed to deliver devastating magical payloads.*
@@ -20641,7 +20641,7 @@ This chapter provides GM-ready statblocks for enemy vessels encountered in the S
 - **Standard Armament (12 Slots):**
   - *4x Standard Broadside Cannons (8 slots):* Ranged Weapon (+6), 3d10 Bludgeoning. Range 120/480.
   - *1x Precursor Naval Cannon (4 slots):* Ranged Weapon (+8), 5d10 Bludgeoning + 1d10 Arcane. Range 200/800.
-- **Officer Action:** *Aether Surge.* The Bosun can overcharge the weapons, causing the next broadside to deal an additional 2d10 Arcane damage.
+- **Standard Action:** *Aether Surge.* The Bosun can overcharge the weapons, causing the next broadside to deal an additional 2d10 Arcane damage.
 
 ### Dominion Dreadnought (Size 4)
 *A floating fortress. Terrifyingly durable, but incredibly cumbersome.*
@@ -20649,7 +20649,7 @@ This chapter provides GM-ready statblocks for enemy vessels encountered in the S
 - **Standard Armament (20 Slots):**
   - *6x Standard Broadside Cannons (12 slots):* Ranged Weapon (+6), 3d10 Bludgeoning.
   - *2x Precursor Naval Cannons (8 slots):* Ranged Weapon (+8), 5d10 Bludgeoning + 1d10 Arcane.
-- **Officer Action:** *Unbreakable Line.* The Captain can grant the ship Resistance to all damage until the start of their next turn.
+- **Standard Action:** *Unbreakable Line.* The Captain can grant the ship DR 10/- against all damage until the start of their next turn.
 
 ---
 
@@ -20657,14 +20657,14 @@ This chapter provides GM-ready statblocks for enemy vessels encountered in the S
 
 **Faction Chassis Trait: Abjuration Shield Emitters.** Consortium ships have -2 Base AC. However, they gain a pool of Temporary HP equal to half their maximum HP (The Abjuration Shield). This shield regenerates 20 HP at the start of the ship's turn.
 **Special Ability: Alchemical Smokescreen.** As a reaction when targeted by a ranged attack, the ship can deploy an obscuring cloud to force disadvantage on all incoming artillery for the rest of the round. The ship may immediately move up to half its speed without provoking opportunity attacks.
-**Innate Upgrade: Smuggler's Hold.** All Consortium ships come equipped with hidden, lead-lined cargo compartments designed to evade inspections and divination magic (DC 20 Investigation to find). On Size 3 or larger vessels, these holds are enchanted as Extra-Dimensional spaces (functioning like massive *Bags of Holding*), allowing them to transport an impossible amount of cargo without affecting the ship's buoyancy or speed.
+**Innate Upgrade: Smuggler's Hold.** All Consortium ships come equipped with hidden, lead-lined cargo compartments designed to evade inspections and divination magic (DC 20 Perception check to find). On Size 3 or larger vessels, these holds are enchanted as Extra-Dimensional spaces (functioning like massive *Bags of Holding*), allowing them to transport an impossible amount of cargo without affecting the ship's buoyancy or speed.
 
 ### Consortium Audit-Frigate (Size 2)
 *Fast, shielded escorts designed to stall enemies while cargo escapes.*
 - **HP:** 150 (Base) + 75 (Shield) | **AC:** 13 | **Speed:** 60 ft.
 - **Standard Armament (4 Slots):**
   - *2x Heavy Ballistae (4 slots):* Ranged Weapon (+6), 4d8 Piercing. Range 150/600.
-- **Officer Action:** *Bribe.* The Captain can attempt to parley mid-combat, offering an exorbitant amount of gold to force a DC 16 Wisdom save on the enemy Captain. On a failure, the enemy ship cannot attack the Consortium vessel this round.
+- **Standard Action:** *Bribe.* The Captain can attempt to parley mid-combat, offering an exorbitant amount of gold to force a DC 16 Will save on the enemy Captain. On a failure, the enemy ship cannot attack the Consortium vessel this round.
 
 ### Consortium Dividend-Galleon (Size 3)
 *A heavy cargo hauler that relies entirely on magical defenses to survive.*
@@ -20672,15 +20672,15 @@ This chapter provides GM-ready statblocks for enemy vessels encountered in the S
 - **Standard Armament (12 Slots):**
   - *4x Standard Broadside Cannons (8 slots):* Ranged Weapon (+6), 3d10 Bludgeoning.
   - *2x Heavy Ballistae (4 slots):* Ranged Weapon (+6), 4d8 Piercing.
-- **Officer Action:** *Divert Power.* The Bosun can redirect engine power to the shields, regenerating an immediate 50 Shield HP, but reducing the ship's speed to 0 until the next turn.
+- **Standard Action:** *Divert Power.* The Bosun can redirect engine power to the shields, regenerating an immediate 50 Shield HP, but reducing the ship's speed to 0 until the next turn.
 
 ### Consortium Vault-Ship (Size 4)
 *An unsinkable, slow-moving bank vault transporting immense wealth.*
 - **HP:** 600 (Base) + 300 (Shield) | **AC:** 12 | **Speed:** 30 ft.
 - **Standard Armament (20 Slots):**
   - *8x Standard Broadside Cannons (16 slots):* Ranged Weapon (+6), 3d10 Bludgeoning.
-  - *1x Heavy Siege-Breaker Mortar (4 slots):* Ranged AoE (DC 15 Dex), 6d10 Fire/Bludgeoning in a 40 ft radius.
-- **Officer Action:** *Total Lockdown.* The ship sacrifices all attacks and movement for the round to double its Shield regeneration (40 HP) and grant advantage on all saving throws against boarding actions.
+  - *1x Heavy Siege-Breaker Mortar (4 slots):* Ranged AoE (DC 15 Reflex), 6d10 Fire/Bludgeoning in a 40 ft radius.
+- **Standard Action:** *Total Lockdown.* The ship sacrifices all attacks and movement for the round to double its Shield regeneration (40 HP) and grant a +4 circumstance bonus on all saving throws against boarding actions.
 
 ---
 
@@ -20694,7 +20694,7 @@ This chapter provides GM-ready statblocks for enemy vessels encountered in the S
 - **HP:** 150 | **AC:** 13 | **Speed:** 60 ft. | **Regeneration:** 15 HP/round
 - **Standard Armament (4 Slots):**
   - *1x Sonic Projector (4 slots):* Ranged Weapon (+8), 4d10 Thunder damage. Range 100/300. Bypasses Shields/Hardness.
-- **Officer Action:** *Silent Running.* The ship gains advantage on Stealth checks to remain undetected while submerged.
+- **Standard Action:** *Silent Running.* The ship gains a +4 circumstance bonus on Stealth checks to remain undetected while submerged.
 
 ### Drow Arachna-Submersible (Size 3)
 *A terrifying hunter made of enchanted chitin.*
@@ -20702,7 +20702,7 @@ This chapter provides GM-ready statblocks for enemy vessels encountered in the S
 - **Standard Armament (12 Slots):**
   - *2x Sonic Projectors (8 slots):* Ranged Weapon (+8), 4d10 Thunder.
   - *2x Cryo-Torpedo Tubes (4 slots):* Ranged Weapon (+6), 3d10 Cold damage. On a hit, the target ship's speed is halved for 1 round as ice forms on the hull.
-- **Officer Action:** *Deployment.* The Captain can deploy a boarding party of Crimson Guard without needing to grapple the enemy ship, provided they breach adjacent to the target.
+- **Standard Action:** *Deployment.* The Captain can deploy a boarding party of Crimson Guard without needing to grapple the enemy ship, provided they breach adjacent to the target.
 
 ### Drow Necropolis-Carrier (Size 4)
 *A mobile hive built into a skeletal whale.*
@@ -20710,7 +20710,7 @@ This chapter provides GM-ready statblocks for enemy vessels encountered in the S
 - **Standard Armament (20 Slots):**
   - *4x Sonic Projectors (16 slots):* Ranged Weapon (+8), 4d10 Thunder.
   - *2x Cryo-Torpedo Tubes (4 slots):* Ranged Weapon (+6), 3d10 Cold damage.
-- **Officer Action:** *Thrall Swarm.* The ship releases a swarm of undead Kuo-toa into the water, acting as a hazard that deals 4d6 slashing damage to any ship passing through a 50-foot radius.
+- **Standard Action:** *Thrall Swarm.* The ship releases a swarm of undead Kuo-toa into the water, acting as a hazard that deals 4d6 slashing damage to any ship passing through a 50-foot radius.
 
 ---
 
@@ -20724,14 +20724,14 @@ This chapter provides GM-ready statblocks for enemy vessels encountered in the S
 - **HP:** 150 | **AC:** 15 | **Speed:** 70 ft.
 - **Standard Armament (4 Slots):**
   - *4x Light Swivel Guns (4 slots):* Ranged Weapon (+5), 2d8 Piercing. Range 100/400.
-- **Officer Action:** *Full Sail!* The Helmsman can push the ship to move an additional 30 feet this turn, but the ship's AC is reduced by 2 until their next turn.
+- **Standard Action:** *Full Sail!* The Helmsman can push the ship to move an additional 30 feet this turn, but the ship's AC is reduced by 2 until their next turn.
 
 ### Alliance Corsair-Brig (Size 3)
 *The backbone of the pirate fleets, built for swift boarding.*
 - **HP:** 300 | **AC:** 16 | **Speed:** 55 ft.
 - **Standard Armament (12 Slots):**
   - *6x Standard Broadside Cannons (12 slots):* Ranged Weapon (+6), 3d10 Bludgeoning. Range 120/480.
-- **Officer Action:** *Grapple and Board!* When adjacent to an enemy ship, the Quartermaster can initiate an automatic grapple without a roll, immediately initiating a boarding action.
+- **Standard Action:** *Grapple and Board!* When adjacent to an enemy ship, the Quartermaster can initiate an automatic grapple without a roll, immediately initiating a boarding action.
 
 ### Alliance Kraken-Class Flagship (Size 4)
 *A stolen, heavily modified capital ship prioritizing guns over armor.*
@@ -20739,21 +20739,21 @@ This chapter provides GM-ready statblocks for enemy vessels encountered in the S
 - **Standard Armament (20 Slots):**
   - *8x Standard Broadside Cannons (16 slots):* Ranged Weapon (+6), 3d10 Bludgeoning.
   - *1x Scavenged Precursor Cannon (4 slots):* Ranged Weapon (+8), 5d10 Bludgeoning + 1d10 Arcane. (High risk of explosion).
-- **Officer Action:** *Pirate King's Command.* The Captain grants advantage to all boarding combatants (marines/crew) for 1 round.
+- **Standard Action:** *Pirate King's Command.* The Captain grants a +4 morale bonus to all boarding combatants (marines/crew) for 1 round.
 
 ---
 
 ## 5. The Spirit Keepers (The Environmental Hazards)
 
 **Faction Chassis Trait: Living Iron-Wood.** Keeper ships are immune to critical hits and fire damage, as the wet kelp and coral simply absorb the blow. 
-**Special Ability: Grasping Vines.** When a Keeper ship rams or is rammed by an enemy, the hull immediately vines out, grappling the enemy ship. A grappled ship has its speed reduced to 0. A crew must spend a Ship Action (Engineering/Damage Control) and succeed on a DC 16 check to chop away the vines.
+**Special Ability: Grasping Vines.** When a Keeper ship rams or is rammed by an enemy, the hull immediately vines out, grappling the enemy ship. A grappled ship has its speed reduced to 0. A crew must spend a Standard Action (Engineering/Damage Control) and succeed on a DC 16 check to chop away the vines.
 
 ### Keeper Bramble-Skiff (Size 2)
 *A stealthy, organic scout vessel.*
 - **HP:** 150 | **AC:** 15 | **Speed:** 60 ft.
 - **Standard Armament (4 Slots):**
   - *2x Coral-Shard Ballistae (4 slots):* Ranged Weapon (+6), 4d8 Piercing/Slashing. Range 150/600.
-- **Officer Action:** *Camouflage.* When adjacent to a reef or coastline, the ship can become invisible until it attacks or moves.
+- **Standard Action:** *Camouflage.* When adjacent to a reef or coastline, the ship can become invisible until it attacks or moves.
 
 ### Keeper Iron-Reef Galleon (Size 3)
 *A heavy, calcified combat vessel.*
@@ -20761,7 +20761,7 @@ This chapter provides GM-ready statblocks for enemy vessels encountered in the S
 - **Standard Armament (12 Slots):**
   - *4x Coral-Shard Ballistae (8 slots):* Ranged Weapon (+6), 4d8 Piercing/Slashing.
   - *1x Shamanic Focus (4 slots):* Ranged Spell (+8), casts *Call Lightning* (3d10 Lightning, AoE on deck).
-- **Officer Action:** *Tide-Caller's Wind.* The First Mate can alter the wind direction within 500 feet, allowing the ship to sail at full speed regardless of natural weather, and potentially stalling enemy vessels.
+- **Standard Action:** *Tide-Caller's Wind.* The First Mate can alter the wind direction within 500 feet, allowing the ship to sail at full speed regardless of natural weather, and potentially stalling enemy vessels.
 
 ### Keeper World-Tree Carrier (Size 4)
 *A massive floating island carrying enraged sea beasts.*
@@ -20769,7 +20769,7 @@ This chapter provides GM-ready statblocks for enemy vessels encountered in the S
 - **Standard Armament (20 Slots):**
   - *6x Coral-Shard Ballistae (12 slots):* Ranged Weapon (+6), 4d8 Piercing/Slashing.
   - *2x Shamanic Focuses (8 slots):* Ranged Spell (+8), casts *Control Water* or *Call Lightning*.
-- **Officer Action:** *Deploy Beasts.* The ship releases a pod of bonded Elementals or Dire Sharks, acting as independent combatants on the battlefield.
+- **Standard Action:** *Deploy Beasts.* The ship releases a pod of bonded Elementals or Dire Sharks, acting as independent combatants on the battlefield.
 # Chapter 28: Support Crew Classes
 
 In the Shattered Expanse, a ship is only as strong as its crew. While the Captain and the combat specialists repel boarders and fire the cannons, the ship is kept afloat, the crew fed, and the course charted by the vital Support Crew. 
@@ -20797,19 +20797,19 @@ An army marches on its stomach; a pirate crew sails on its rations. The Ship's C
 | 20th | Master of the Galley |
 
 **Iron Stomach (1st Level)**
-You gain proficiency with Cook's Utensils. You have resistance to poison damage and advantage on saving throws against being poisoned or diseased. 
+You gain proficiency with Cook's Utensils. You have resistance to poison damage and a +4 bonus on saving throws against being poisoned or diseased. 
 
 **Hearty Rations (1st Level)**
 During a short rest, you can prepare meals for a number of creatures up to your proficiency bonus. Those creatures regain the maximum number of hit points from any Hit Dice they spend during that short rest, rather than rolling.
 
 **Aether-Infused Broth (5th Level)**
-You learn to cook using the chaotic aether-water of the Unwritten Sea. Over a long rest, you can brew a number of thermos-flasks equal to your Constitution modifier. As a bonus action, a creature can drink from a flask to gain temporary hit points equal to 2d10 + your Cook level. These flasks lose their potency after 24 hours.
+You learn to cook using the chaotic aether-water of the Unwritten Sea. Over a long rest, you can brew a number of thermos-flasks equal to your Constitution modifier. As a swift action, a creature can drink from a flask to gain temporary hit points equal to 2d10 + your Cook level. These flasks lose their potency after 24 hours.
 
 **Cleaver's Ward (9th Level)**
 The galley is a dangerous place, and you've learned to deflect harm instinctively. While you are holding a knife, cleaver, or similar cooking implement, and are wearing no armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier.
 
 **Feast of the Leviathan (13th Level)**
-Once per week, you can spend 4 hours preparing a massive feast. Up to 10 creatures who partake in this feast are cured of all diseases and poisons, have all exhaustion levels removed, and have advantage on all Constitution saving throws for the next 24 hours.
+Once per week, you can spend 4 hours preparing a massive feast. Up to 10 creatures who partake in this feast are cured of all diseases and poisons, have all exhaustion levels removed, and have a +4 bonus on all Fortitude saving throws for the next 24 hours.
 
 **Unbreakable Constitution (17th Level)**
 Your body has endured so many strange ingredients and harsh conditions that it is nigh-indestructible. Whenever you take damage, you can use your reaction to halve the damage against you.
@@ -20841,13 +20841,13 @@ You project an aura of neutrality. As long as you have not dealt damage to an en
 You can spend 1 hour during a long rest brewing medicinal salves. You create a number of salves equal to your Wisdom modifier. As an action, you can apply a salve to a creature to cure them of one disease, neutralize one poison, or end the blinded, deafened, or paralyzed condition.
 
 **Evasive Triage (9th Level)**
-Your dedication to reaching the wounded makes you incredibly difficult to pin down. Your walking speed increases by 10 feet. When you take the Dash action, opportunity attacks made against you are made with disadvantage.
+Your dedication to reaching the wounded makes you incredibly difficult to pin down. Your walking speed increases by 10 feet. When you take the run action or a double move, opportunity attacks made against you take a -4 penalty.
 
 **Miraculous Stitching (13th Level)**
 If you spend 10 minutes treating a creature that has lost a body part (a finger, an eye, a whole limb) and you have the severed part, you can perfectly reattach it. Alternatively, if a creature has died within the last minute, you can expend three uses of a healer's kit to cast *Revivify* without expending a spell slot or material components. Once you use this revivification feature, you cannot do so again until you finish a long rest.
 
 **Aura of Preservation (17th Level)**
-Your sheer medical expertise creates a zone of safety. Friendly creatures within 30 feet of you have advantage on death saving throws, and if they roll a 15 or higher on a death saving throw, they regain 1 hit point.
+Your sheer medical expertise creates a zone of safety. Friendly creatures within 30 feet of you have a +4 bonus on stabilization checks, and if they roll a 15 or higher on a check to stabilize, they regain 1 hit point.
 
 **Master Surgeon (20th Level)**
 You have mastered the anatomy of all mortal creatures. As an action, you can touch a creature and restore it to its hit point maximum, curing all ailments, curses, and levels of exhaustion. Once you use this feature, you cannot use it again until you finish a long rest.
@@ -20867,7 +20867,7 @@ The Quartermaster handles logistics, distributes the loot, and serves as the int
 | 20th | Master of Logistics |
 
 **Silver Tongue (1st Level)**
-You gain proficiency in Persuasion and Intimidation. When interacting with merchants, port authorities, or rival crews, you have advantage on Charisma checks to negotiate prices or secure passage.
+You gain proficiency in Persuasion and Intimidation. When interacting with merchants, port authorities, or rival crews, you have a +4 bonus on Charisma checks to negotiate prices or secure passage.
 
 **Manifest Destiny (1st Level)**
 You always know exactly what is in the ship's cargo hold. Once per long rest, if the crew desperately needs a mundane item (a coil of rope, a spyglass, a specific common tool) worth 50 gp or less, you can "find" one buried in the hold, adding it to the party's inventory.
@@ -20879,7 +20879,7 @@ The crew instinctively protects the one who signs their paychecks. While you are
 Your network of informants and merchants spans the Charted Waters. When you arrive in any port, you can spend 1 hour to locate an individual who can provide specific, highly sensitive information, illegal goods, or a safehouse.
 
 **Morale Officer (13th Level)**
-You know exactly what to say to keep the crew fighting. As a bonus action, you can shout words of encouragement. All friendly creatures within 60 feet of you who can hear you gain temporary hit points equal to your Quartermaster level + your Charisma modifier. You can use this feature a number of times equal to your Charisma modifier per long rest.
+You know exactly what to say to keep the crew fighting. As a swift action, you can shout words of encouragement. All friendly creatures within 60 feet of you who can hear you gain temporary hit points equal to your Quartermaster level + your Charisma modifier. You can use this feature a number of times equal to your Charisma modifier per long rest.
 
 **Impeccable Ledger (17th Level)**
 You are immune to being charmed, and magic cannot read your thoughts or determine if you are lying. Additionally, when you use your Manifest Destiny feature, you can "find" a single magical item of Uncommon or Rare rarity, which lasts for 24 hours before you realize it was actually a highly unstable counterfeit that dissolves into dust.
@@ -20905,19 +20905,19 @@ The sea is a treacherous, shifting maze. The Navigator reads the stars, the aeth
 You gain proficiency with Navigator's Tools and Cartographer's Tools. You have perfect recall of any map you have studied, and you cannot become lost by magical or non-magical means while you can see the sky or the ocean.
 
 **Weather Eye (1st Level)**
-You can accurately predict the weather at your location for the next 48 hours. You also have advantage on any ability checks made to steer or command a ship during a storm or hazardous environmental condition.
+You can accurately predict the weather at your location for the next 48 hours. You also have a +4 bonus on any ability checks made to steer or command a ship during a storm or hazardous environmental condition.
 
 **Evasive Maneuvers (5th Level)**
 Your ability to read the battlefield is as sharp as your ability to read a map. When you are not wearing heavy armor, your Armor Class increases by an amount equal to your Intelligence modifier (minimum of +1).
 
 **Star-Guided Path (9th Level)**
-You can spend 10 minutes charting a course for a specific destination. For the next 24 hours, the travel pace of your party or your ship is doubled, and you have advantage on any Wisdom (Survival) checks made to avoid natural hazards or ambushes along that route.
+You can spend 10 minutes charting a course for a specific destination. For the next 24 hours, the travel pace of your party or your ship is doubled, and you have a +4 bonus on Survival checks made to avoid natural hazards or ambushes along that route.
 
 **Uncanny Dodge (13th Level)**
 Your spatial awareness is unparalleled. When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
 
 **Predict the Flow (17th Level)**
-You can read the aetheric currents to see seconds into the future. You have advantage on all Dexterity saving throws, and attack rolls against you have disadvantage as long as you are not incapacitated.
+You can read the aetheric currents to see seconds into the future. You have a +4 bonus on all Reflex saving throws, and attackers take a -4 penalty on attack rolls against you as long as you are not incapacitated.
 
 **Master Navigator (20th Level)**
 You can chart a course through the fabric of reality itself. Once per week, you can guide your ship through a localized aether-rift, effectively casting the *Teleport* spell, affecting the entire ship and everyone aboard it.
@@ -20940,7 +20940,7 @@ The Bosun (Boatswain) is the chief engineer and the primary enforcer of discipli
 You gain proficiency with Carpenter's Tools and Tinker's Tools. You can perform temporary repairs on ships, vehicles, or mechanical objects in half the usual time. During combat, you can use an action to restore 2d10 Hull Points to your ship.
 
 **Barked Orders (1st Level)**
-Your voice commands instant obedience. You can use the Help action as a bonus action, provided the creature you are helping can hear you and understand you.
+Your voice commands instant obedience. You can use the aid another action as a swift action, provided the creature you are helping can hear you and understand you.
 
 **Tough as Nails (5th Level)**
 Your skin is like tanned leather and your bones like ironwood. Bludgeoning, piercing, and slashing damage that you take from non-magical attacks is reduced by 3.
@@ -20949,7 +20949,7 @@ Your skin is like tanned leather and your bones like ironwood. Bludgeoning, pier
 When your ship takes damage, you can use your reaction to immediately organize a bucket brigade or brace the hull. Roll a d12 and subtract the result from the damage the ship takes. You can use this feature a number of times equal to your Strength or Constitution modifier per long rest.
 
 **Hold the Line (13th Level)**
-You are immovable when you choose to be. You have advantage on any saving throw or ability check to resist being grappled, shoved, or knocked prone. Additionally, your Tough as Nails damage reduction increases to 5, and applies to all damage types except psychic.
+You are immovable when you choose to be. You have a +4 bonus on any saving throw or ability check to resist being grappled, shoved, or knocked prone. Additionally, your Tough as Nails damage reduction increases to 5, and applies to all damage types except psychic.
 
 **Unstoppable Force (17th Level)**
 If you drop to 0 hit points and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead. Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
@@ -20972,12 +20972,12 @@ This heavy, brass-and-iron rifle hums with volatile energy. You gain a +1 bonus 
 It fires concentrated bolts of force rather than physical bullets.
 - **Damage:** 2d8 force damage.
 - **Properties:** Ammunition (range 100/400), two-handed, reload (6 shots).
-- **Overcharge:** As a bonus action, you can overcharge the rifle for your next attack. If the attack hits, it deals an additional 2d8 force damage, but the weapon immediately jams. You must spend an action to vent the aether-steam before the weapon can be fired again.
+- **Overcharge:** As a swift action, you can overcharge the rifle for your next attack. If the attack hits, it deals an additional 2d8 force damage, but the weapon immediately jams. You must spend a standard action to vent the aether-steam before the weapon can be fired again.
 
 #### Inquisitor's Monocle
 *Wondrous item, uncommon (requires attunement)*
 **Cost:** 800 gp
-A brass monocle fitted with a lens carved from raw aether-crystal. While wearing this monocle, you have advantage on Wisdom (Insight) checks to determine if someone is lying.
+A brass monocle fitted with a lens carved from raw aether-crystal. While wearing this monocle, you have a +4 bonus on Sense Motive checks to determine if someone is lying.
 Additionally, the monocle holds 1 charge. You can expend the charge to cast the *zone of truth* spell (save DC 13). The monocle regains its expended charge daily at dawn.
 
 #### Ironclad Plating
@@ -20985,7 +20985,7 @@ Additionally, the monocle holds 1 charge. You can expend the charge to cast the 
 **Cost:** 12,000 gp
 This heavy suit of mechanized armor is powered by a small aether-engine mounted on the back. While wearing this armor, you gain a +1 bonus to AC.
 - **Juggernaut:** Any critical hit against you becomes a normal hit.
-- **Heavy Machinery:** The armor is incredibly loud and unwieldy. You have disadvantage on Dexterity (Stealth) checks and Strength (Athletics) checks made to swim. If you fall into water while wearing this armor, you sink at a rate of 30 feet per round.
+- **Heavy Machinery:** The armor is incredibly loud and unwieldy. You take a -4 penalty on Stealth and Swim checks. If you fall into water while wearing this armor, you sink at a rate of 30 feet per round.
 
 ---
 
@@ -20996,7 +20996,7 @@ This heavy suit of mechanized armor is powered by a small aether-engine mounted 
 *Wondrous item, rare*
 **Cost:** 5,000 gp (Rarely sold, highly illegal to steal)
 A heavy book bound in gilded leather. If a creature voluntarily signs their name in the ledger, agreeing to a specific debt or contract, the terms become magically binding.
-If the signer breaks the terms of the contract, the ledger glows red. The oathbreaker is immediately subjected to a curse: they suffer disadvantage on all Charisma checks, and any gold or gems they touch instantly turn into worthless lead. The curse can only be lifted by the owner of the ledger crossing out the signature, or by a *remove curse* spell cast at 5th level or higher.
+If the signer breaks the terms of the contract, the ledger glows red. The oathbreaker is immediately subjected to a curse: they suffer a -4 penalty on all Charisma checks, and any gold or gems they touch instantly turn into worthless lead. The curse can only be lifted by the owner of the ledger crossing out the signature, or by a *remove curse* spell cast at 5th level or higher.
 
 #### Smuggler's Coin
 *Wondrous item, uncommon*
@@ -21042,7 +21042,7 @@ Woven from the silk of abyssal spiders and enchanted by the High Priestesses of 
 #### Aegis Shield-Bracer
 *Armor (shield), rare (requires attunement)*
 **Cost:** 4,500 gp
-A sleek, metallic bracer that hums with energy. While wearing this bracer, you can use a bonus action to activate it, causing a disc of crackling blue "hard-light" to project from your wrist. While active, it provides a +2 bonus to AC, leaving your hand free to hold (but not attack with) other items.
+A sleek, metallic bracer that hums with energy. While wearing this bracer, you can use a swift action to activate it, causing a disc of crackling blue "hard-light" to project from your wrist. While active, it provides a +2 bonus to AC, leaving your hand free to hold (but not attack with) other items.
 - **Unstable Matrix:** When a creature rolls a natural 20 on a melee attack against you while the shield is active, the matrix overloads. You and the attacker both take 3d6 force damage, and the shield deactivates and cannot be used again until you finish a short rest.
 
 #### Gravity Anchor
@@ -22140,12 +22140,14 @@ The Dominion relies on heavily armored infantry, arcane-suppression, and relentl
 
 ### Dominion Marine
 *Medium humanoid (any race), lawful evil*
-- **Armor Class:** 16 (Chain Mail)
+- **Armor Class:** 16 Chain Mail, touch 11, flat-footed 15
 - **Hit Points:** 22 (4d8 + 4)
 - **Speed:** 30 ft.
 - **Challenge:** 1/2 (100 XP)
 
 **STR:** 15 (+2) | **DEX:** 12 (+1) | **CON:** 13 (+1) | **INT:** 10 (+0) | **WIS:** 11 (+0) | **CHA:** 9 (-1)
+- **Base Atk:** +3 | **CMB:** +5 | **CMD:** 16
+- **Feats:** Toughness, Power Attack
 - **Skills:** Athletics +4, Intimidation +1
 - **Senses:** passive Perception 10
 - **Languages:** Common, Dominion Standard
@@ -22161,12 +22163,14 @@ The Dominion relies on heavily armored infantry, arcane-suppression, and relentl
 
 ### Dominion Inquisitor
 *Medium humanoid (any race), lawful evil*
-- **Armor Class:** 15 (Breastplate)
+- **Armor Class:** 15 Breastplate, touch 11, flat-footed 14
 - **Hit Points:** 52 (8d8 + 16)
 - **Speed:** 30 ft.
 - **Challenge:** 3 (700 XP)
 
 **STR:** 11 (+0) | **DEX:** 12 (+1) | **CON:** 14 (+2) | **INT:** 16 (+3) | **WIS:** 14 (+2) | **CHA:** 12 (+1)
+- **Base Atk:** +6 | **CMB:** +6 | **CMD:** 17
+- **Feats:** Toughness, Power Attack
 - **Skills:** Arcana +5, Investigation +5, Perception +4
 - **Senses:** passive Perception 14
 
@@ -22183,12 +22187,14 @@ The Dominion relies on heavily armored infantry, arcane-suppression, and relentl
 
 ### Aegis Automaton
 *Large construct, unaligned*
-- **Armor Class:** 18 (Natural Armor)
+- **Armor Class:** 18 Natural Armor, touch 8, flat-footed 19
 - **Hit Points:** 85 (10d10 + 30)
 - **Speed:** 20 ft.
 - **Challenge:** 5 (1,800 XP)
 
 **STR:** 18 (+4) | **DEX:** 8 (-1) | **CON:** 16 (+3) | **INT:** 3 (-4) | **WIS:** 10 (+0) | **CHA:** 1 (-5)
+- **Base Atk:** +7 | **CMB:** +12 | **CMD:** 21
+- **Feats:** Toughness, Power Attack
 - **Damage Immunities:** poison, psychic
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
@@ -22204,12 +22210,14 @@ The Dominion relies on heavily armored infantry, arcane-suppression, and relentl
 
 ### Ironclad Juggernaut
 *Medium humanoid (cyborg), lawful evil*
-- **Armor Class:** 20 (Plate, Shield)
+- **Armor Class:** 20 Plate, Shield, touch 10, flat-footed 20
 - **Hit Points:** 119 (14d8 + 56)
 - **Speed:** 25 ft.
 - **Challenge:** 8 (3,900 XP)
 
 **STR:** 20 (+5) | **DEX:** 10 (+0) | **CON:** 18 (+4) | **INT:** 10 (+0) | **WIS:** 12 (+1) | **CHA:** 14 (+2)
+- **Base Atk:** +10 | **CMB:** +15 | **CMD:** 25
+- **Feats:** Toughness, Power Attack
 - **Saving Throws:** Str +8, Con +7, Wis +4
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -22229,12 +22237,14 @@ The Consortium fights with deep pockets, utilizing expensive magic, mercenaries,
 
 ### Gold Cloak Mercenary
 *Medium humanoid (any race), lawful neutral*
-- **Armor Class:** 15 (Studded Leather, Parry)
+- **Armor Class:** 15 Studded Leather, Parry, touch 13, flat-footed 12
 - **Hit Points:** 33 (6d8 + 6)
 - **Speed:** 30 ft.
 - **Challenge:** 1 (200 XP)
 
 **STR:** 11 (+0) | **DEX:** 16 (+3) | **CON:** 12 (+1) | **INT:** 10 (+0) | **WIS:** 12 (+1) | **CHA:** 10 (+0)
+- **Base Atk:** +4 | **CMB:** +4 | **CMD:** 17
+- **Feats:** Toughness, Power Attack
 - **Skills:** Perception +3, Insight +3
 
 **Traits:**
@@ -22251,12 +22261,14 @@ The Consortium fights with deep pockets, utilizing expensive magic, mercenaries,
 
 ### Ledger-Mage
 *Medium humanoid (any race), neutral*
-- **Armor Class:** 12 (15 with *Mage Armor*)
+- **Armor Class:** 12 15 with *Mage Armor*, touch 12, flat-footed 10
 - **Hit Points:** 49 (11d8)
 - **Speed:** 30 ft.
 - **Challenge:** 4 (1,100 XP)
 
 **STR:** 9 (-1) | **DEX:** 14 (+2) | **CON:** 11 (+0) | **INT:** 17 (+3) | **WIS:** 14 (+2) | **CHA:** 15 (+2)
+- **Base Atk:** +8 | **CMB:** +7 | **CMD:** 19
+- **Feats:** Toughness, Power Attack
 - **Skills:** History +5, Persuasion +4
 
 **Traits:**
@@ -22273,12 +22285,14 @@ The Consortium fights with deep pockets, utilizing expensive magic, mercenaries,
 
 ### Consortium Repo-Man
 *Medium humanoid (any race), lawful evil*
-- **Armor Class:** 16 (Studded Leather)
+- **Armor Class:** 16 Studded Leather, touch 14, flat-footed 12
 - **Hit Points:** 78 (12d8 + 24)
 - **Speed:** 40 ft.
 - **Challenge:** 6 (2,300 XP)
 
 **STR:** 12 (+1) | **DEX:** 18 (+4) | **CON:** 14 (+2) | **INT:** 13 (+1) | **WIS:** 16 (+3) | **CHA:** 11 (+0)
+- **Base Atk:** +9 | **CMB:** +10 | **CMD:** 24
+- **Feats:** Toughness, Power Attack
 - **Skills:** Stealth +7, Perception +6, Investigation +4
 - **Senses:** darkvision 60 ft., passive Perception 16
 
@@ -22298,12 +22312,14 @@ The Drow utilize terrifying flesh-crafting, stealth, and undead thralls from the
 
 ### Abyssal Thrall
 *Medium undead, neutral evil*
-- **Armor Class:** 11 (Natural Armor)
+- **Armor Class:** 11 Natural Armor, touch 9, flat-footed 12
 - **Hit Points:** 22 (3d8 + 9)
 - **Speed:** 20 ft., swim 30 ft.
 - **Challenge:** 1/2 (100 XP)
 
 **STR:** 14 (+2) | **DEX:** 8 (-1) | **CON:** 16 (+3) | **INT:** 3 (-4) | **WIS:** 8 (-1) | **CHA:** 5 (-3)
+- **Base Atk:** +2 | **CMB:** +4 | **CMD:** 13
+- **Feats:** Toughness, Power Attack
 - **Damage Immunities:** poison
 - **Condition Immunities:** poisoned, exhausted
 
@@ -22317,12 +22333,14 @@ The Drow utilize terrifying flesh-crafting, stealth, and undead thralls from the
 
 ### Deep Weaver
 *Medium humanoid (elf), neutral evil*
-- **Armor Class:** 13 (16 with *Mage Armor*)
+- **Armor Class:** 13 16 with *Mage Armor*, touch 13, flat-footed 10
 - **Hit Points:** 45 (10d8)
 - **Speed:** 30 ft.
 - **Challenge:** 3 (700 XP)
 
 **STR:** 9 (-1) | **DEX:** 16 (+3) | **CON:** 11 (+0) | **INT:** 12 (+1) | **WIS:** 14 (+2) | **CHA:** 16 (+3)
+- **Base Atk:** +7 | **CMB:** +6 | **CMD:** 19
+- **Feats:** Toughness, Power Attack
 - **Skills:** Medicine +4, Stealth +5
 
 **Traits:**
@@ -22337,12 +22355,14 @@ The Drow utilize terrifying flesh-crafting, stealth, and undead thralls from the
 
 ### Arachna-Drider (Aquatic)
 *Large monstrosity, chaotic evil*
-- **Armor Class:** 17 (Natural Chitin)
+- **Armor Class:** 17 Natural Chitin, touch 12, flat-footed 14
 - **Hit Points:** 102 (12d10 + 36)
 - **Speed:** 30 ft., climb 30 ft., swim 40 ft.
 - **Challenge:** 7 (2,900 XP)
 
 **STR:** 16 (+3) | **DEX:** 16 (+3) | **CON:** 17 (+3) | **INT:** 13 (+1) | **WIS:** 14 (+2) | **CHA:** 12 (+1)
+- **Base Atk:** +9 | **CMB:** +13 | **CMD:** 26
+- **Feats:** Toughness, Power Attack
 - **Skills:** Stealth +6, Perception +5
 
 **Traits:**
@@ -22362,12 +22382,14 @@ Pirates fight dirty. They rely on mobility, overwhelming aggression, and volatil
 
 ### Corsair Swashbuckler
 *Medium humanoid (any race), chaotic neutral*
-- **Armor Class:** 14 (Leather Armor)
+- **Armor Class:** 14 Leather Armor, touch 13, flat-footed 11
 - **Hit Points:** 27 (5d8 + 5)
 - **Speed:** 30 ft.
 - **Challenge:** 1 (200 XP)
 
 **STR:** 10 (+0) | **DEX:** 16 (+3) | **CON:** 12 (+1) | **INT:** 10 (+0) | **WIS:** 10 (+0) | **CHA:** 14 (+2)
+- **Base Atk:** +3 | **CMB:** +3 | **CMD:** 16
+- **Feats:** Toughness, Power Attack
 - **Skills:** Acrobatics +5, Athletics +2
 
 **Traits:**
@@ -22382,12 +22404,14 @@ Pirates fight dirty. They rely on mobility, overwhelming aggression, and volatil
 
 ### Powder Mage
 *Medium humanoid (any race), chaotic evil*
-- **Armor Class:** 13 (Leather Armor)
+- **Armor Class:** 13 Leather Armor, touch 12, flat-footed 11
 - **Hit Points:** 44 (8d8 + 8)
 - **Speed:** 30 ft.
 - **Challenge:** 4 (1,100 XP)
 
 **STR:** 10 (+0) | **DEX:** 14 (+2) | **CON:** 12 (+1) | **INT:** 16 (+3) | **WIS:** 11 (+0) | **CHA:** 14 (+2)
+- **Base Atk:** +6 | **CMB:** +6 | **CMD:** 18
+- **Feats:** Toughness, Power Attack
 
 **Traits:**
 - *Volatile Magic:* Whenever the Powder Mage casts a spell that deals fire damage, they roll 1d6. On a 1, the spell backfires, dealing 1d6 fire damage to the Mage in addition to its normal effects.
@@ -22400,12 +22424,14 @@ Pirates fight dirty. They rely on mobility, overwhelming aggression, and volatil
 
 ### Wayfinder Captain
 *Medium humanoid (any race), chaotic neutral*
-- **Armor Class:** 16 (Studded Leather)
+- **Armor Class:** 16 Studded Leather, touch 14, flat-footed 12
 - **Hit Points:** 84 (13d8 + 26)
 - **Speed:** 35 ft.
 - **Challenge:** 6 (2,300 XP)
 
 **STR:** 12 (+1) | **DEX:** 18 (+4) | **CON:** 14 (+2) | **INT:** 14 (+2) | **WIS:** 12 (+1) | **CHA:** 16 (+3)
+- **Base Atk:** +9 | **CMB:** +10 | **CMD:** 24
+- **Feats:** Toughness, Power Attack
 - **Skills:** Acrobatics +7, Intimidation +6, Water Vehicles +5
 
 **Traits:**
@@ -22424,12 +22450,14 @@ The Keepers utilize druidic magic, symbiotic plant life, and control over elemen
 
 ### Reef Warden
 *Medium humanoid (any race), neutral*
-- **Armor Class:** 14 (Hide Armor)
+- **Armor Class:** 14 Hide Armor, touch 12, flat-footed 12
 - **Hit Points:** 39 (6d8 + 12)
 - **Speed:** 30 ft., swim 30 ft.
 - **Challenge:** 2 (450 XP)
 
 **STR:** 14 (+2) | **DEX:** 14 (+2) | **CON:** 14 (+2) | **INT:** 10 (+0) | **WIS:** 16 (+3) | **CHA:** 10 (+0)
+- **Base Atk:** +4 | **CMB:** +6 | **CMD:** 18
+- **Feats:** Toughness, Power Attack
 - **Skills:** Nature +4, Survival +5
 
 **Traits:**
@@ -22445,12 +22473,14 @@ The Keepers utilize druidic magic, symbiotic plant life, and control over elemen
 
 ### Bound Water Elemental
 *Large elemental, neutral*
-- **Armor Class:** 14 (Natural Armor)
+- **Armor Class:** 14 Natural Armor, touch 11, flat-footed 12
 - **Hit Points:** 114 (12d10 + 48)
 - **Speed:** 30 ft., swim 90 ft.
 - **Challenge:** 5 (1,800 XP)
 
 **STR:** 18 (+4) | **DEX:** 14 (+2) | **CON:** 18 (+4) | **INT:** 5 (-3) | **WIS:** 10 (+0) | **CHA:** 8 (-1)
+- **Base Atk:** +9 | **CMB:** +14 | **CMD:** 26
+- **Feats:** Toughness, Power Attack
 - **Damage Resistances:** acid; bludgeoning, piercing, and slashing from nonmagical attacks
 
 **Traits:**
@@ -22465,12 +22495,14 @@ The Keepers utilize druidic magic, symbiotic plant life, and control over elemen
 
 ### Sentient Kelp Mass
 *Large plant, unaligned*
-- **Armor Class:** 13 (Natural Armor)
+- **Armor Class:** 13 Natural Armor, touch 9, flat-footed 13
 - **Hit Points:** 75 (10d10 + 20)
 - **Speed:** 10 ft., swim 30 ft.
 - **Challenge:** 4 (1,100 XP)
 
 **STR:** 16 (+3) | **DEX:** 10 (+0) | **CON:** 14 (+2) | **INT:** 1 (-5) | **WIS:** 10 (+0) | **CHA:** 1 (-5)
+- **Base Atk:** +7 | **CMB:** +11 | **CMD:** 21
+- **Feats:** Toughness, Power Attack
 - **Damage Vulnerabilities:** fire
 - **Damage Resistances:** bludgeoning, piercing
 
@@ -22741,12 +22773,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Drowned Sailor
 *Medium undead, unaligned*
-- **Armor Class:** 10
+- **Armor Class:** 10, touch 10, flat-footed 10
 - **Hit Points:** 15 (2d8 + 6)
 - **Speed:** 20 ft., swim 30 ft.
 - **Challenge:** 1/4 (50 XP)
 
 **STR:** 14 (+2) | **DEX:** 10 (+0) | **CON:** 16 (+3) | **INT:** 3 (-4) | **WIS:** 8 (-1) | **CHA:** 5 (-3)
+- **Base Atk:** +1 | **CMB:** +3 | **CMD:** 13
+- **Feats:** Toughness, Power Attack
 - **Damage Immunities:** poison
 - **Condition Immunities:** poisoned
 
@@ -22761,12 +22795,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Aether-Burned Scavenger (Shark)
 *Large beast, unaligned*
-- **Armor Class:** 13 (Natural Armor)
+- **Armor Class:** 13 Natural Armor, touch 10, flat-footed 12
 - **Hit Points:** 45 (6d10 + 12)
 - **Speed:** 0 ft., swim 40 ft.
 - **Challenge:** 2 (450 XP)
 
 **STR:** 18 (+4) | **DEX:** 13 (+1) | **CON:** 15 (+2) | **INT:** 2 (-4) | **WIS:** 10 (+0) | **CHA:** 4 (-3)
+- **Base Atk:** +4 | **CMB:** +9 | **CMD:** 20
+- **Feats:** Toughness, Power Attack
 - **Skills:** Perception +2
 - **Senses:** blindsight 30 ft., passive Perception 12
 - **Damage Immunities:** force
@@ -22782,12 +22818,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Shattered Expanse Siren
 *Medium fey, chaotic evil*
-- **Armor Class:** 14 (Natural Armor)
+- **Armor Class:** 14 Natural Armor, touch 13, flat-footed 11
 - **Hit Points:** 52 (8d8 + 16)
 - **Speed:** 20 ft., swim 40 ft.
 - **Challenge:** 3 (700 XP)
 
 **STR:** 11 (+0) | **DEX:** 16 (+3) | **CON:** 14 (+2) | **INT:** 13 (+1) | **WIS:** 14 (+2) | **CHA:** 18 (+4)
+- **Base Atk:** +6 | **CMB:** +6 | **CMD:** 19
+- **Feats:** Toughness, Power Attack
 - **Skills:** Deception +6, Performance +6
 - **Senses:** darkvision 60 ft.
 
@@ -22803,12 +22841,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Abyssal Anglerfish
 *Huge beast, unaligned*
-- **Armor Class:** 15 (Natural Armor)
+- **Armor Class:** 15 Natural Armor, touch 8, flat-footed 15
 - **Hit Points:** 68 (8d12 + 16)
 - **Speed:** 0 ft., swim 40 ft.
 - **Challenge:** 4 (1,100 XP)
 
 **STR:** 19 (+4) | **DEX:** 10 (+0) | **CON:** 15 (+2) | **INT:** 3 (-4) | **WIS:** 12 (+1) | **CHA:** 6 (-2)
+- **Base Atk:** +6 | **CMB:** +12 | **CMD:** 22
+- **Feats:** Toughness, Power Attack
 - **Senses:** blindsight 60 ft.
 
 **Traits:**
@@ -22821,12 +22861,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Coral Golem
 *Large construct, unaligned*
-- **Armor Class:** 15 (Natural Armor)
+- **Armor Class:** 15 Natural Armor, touch 8, flat-footed 16
 - **Hit Points:** 102 (12d10 + 36)
 - **Speed:** 20 ft., swim 30 ft.
 - **Challenge:** 6 (2,300 XP)
 
 **STR:** 19 (+4) | **DEX:** 9 (-1) | **CON:** 16 (+3) | **INT:** 3 (-4) | **WIS:** 10 (+0) | **CHA:** 1 (-5)
+- **Base Atk:** +9 | **CMB:** +14 | **CMD:** 23
+- **Feats:** Toughness, Power Attack
 - **Damage Immunities:** poison, psychic; piercing, and slashing from nonmagical attacks not made with adamantine weapons
 - **Condition Immunities:** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
@@ -22843,12 +22885,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Aether-Storm Elemental
 *Large elemental, chaotic neutral*
-- **Armor Class:** 16 (Natural Armor)
+- **Armor Class:** 16 Natural Armor, touch 14, flat-footed 11
 - **Hit Points:** 114 (12d10 + 48)
 - **Speed:** 0 ft., fly 60 ft. (hover)
 - **Challenge:** 7 (2,900 XP)
 
 **STR:** 14 (+2) | **DEX:** 20 (+5) | **CON:** 18 (+4) | **INT:** 6 (-2) | **WIS:** 10 (+0) | **CHA:** 10 (+0)
+- **Base Atk:** +9 | **CMB:** +12 | **CMD:** 27
+- **Feats:** Toughness, Power Attack
 - **Damage Immunities:** lightning, thunder, force
 
 **Traits:**
@@ -22863,12 +22907,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Ghost Ship Apparition
 *Gargantuan undead (construct), chaotic evil*
-- **Armor Class:** 14 (Rotting Wood)
+- **Armor Class:** 14 Rotting Wood, touch 5, flat-footed 15
 - **Hit Points:** 145 (10d20 + 40)
 - **Speed:** 0 ft., swim 40 ft., fly 20 ft. (hover)
 - **Challenge:** 8 (3,900 XP)
 
 **STR:** 22 (+6) | **DEX:** 8 (-1) | **CON:** 18 (+4) | **INT:** 6 (-2) | **WIS:** 10 (+0) | **CHA:** 14 (+2)
+- **Base Atk:** +7 | **CMB:** +17 | **CMD:** 26
+- **Feats:** Toughness, Power Attack
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Immunities:** necrotic, poison
 
@@ -22885,12 +22931,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Kelp-Hydra
 *Huge monstrosity, unaligned*
-- **Armor Class:** 15 (Natural Armor)
+- **Armor Class:** 15 Natural Armor, touch 9, flat-footed 14
 - **Hit Points:** 172 (15d12 + 75)
 - **Speed:** 20 ft., swim 40 ft.
 - **Challenge:** 9 (5,000 XP)
 
 **STR:** 20 (+5) | **DEX:** 12 (+1) | **CON:** 20 (+5) | **INT:** 2 (-4) | **WIS:** 10 (+0) | **CHA:** 5 (-3)
+- **Base Atk:** +11 | **CMB:** +18 | **CMD:** 29
+- **Feats:** Toughness, Power Attack
 - **Skills:** Perception +4
 - **Damage Vulnerabilities:** fire
 
@@ -22906,12 +22954,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Leviathan Spawn
 *Huge monstrosity, unaligned*
-- **Armor Class:** 16 (Natural Armor)
+- **Armor Class:** 16 Natural Armor, touch 8, flat-footed 16
 - **Hit Points:** 161 (14d12 + 70)
 - **Speed:** 10 ft., swim 60 ft.
 - **Challenge:** 10 (5,900 XP)
 
 **STR:** 23 (+6) | **DEX:** 10 (+0) | **CON:** 21 (+5) | **INT:** 4 (-3) | **WIS:** 12 (+1) | **CHA:** 5 (-3)
+- **Base Atk:** +10 | **CMB:** +18 | **CMD:** 28
+- **Feats:** Toughness, Power Attack
 - **Saving Throws:** Str +10, Con +9
 - **Senses:** blindsight 60 ft., passive Perception 11
 - **Damage Resistances:** bludgeoning, piercing, and slashing from nonmagical weapons
@@ -22929,12 +22979,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### Deep-Trench Lurker
 *Gargantuan monstrosity, unaligned*
-- **Armor Class:** 19 (Chitin Armor)
+- **Armor Class:** 19 Chitin Armor, touch 6, flat-footed 19
 - **Hit Points:** 201 (13d20 + 65)
 - **Speed:** 30 ft., swim 40 ft.
 - **Challenge:** 11 (7,200 XP)
 
 **STR:** 24 (+7) | **DEX:** 10 (+0) | **CON:** 20 (+5) | **INT:** 3 (-4) | **WIS:** 14 (+2) | **CHA:** 4 (-3)
+- **Base Atk:** +9 | **CMB:** +20 | **CMD:** 30
+- **Feats:** Toughness, Power Attack
 - **Damage Resistances:** fire, cold
 
 **Traits:**
@@ -22949,12 +23001,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### The Kraken (Shattered Expanse Variant)
 *Gargantuan monstrosity (Titan), chaotic evil*
-- **Armor Class:** 18 (Natural Armor)
+- **Armor Class:** 18 Natural Armor, touch 6, flat-footed 18
 - **Hit Points:** 472 (27d20 + 189)
 - **Speed:** 20 ft., swim 60 ft.
 - **Challenge:** 21 (33,000 XP)
 
 **STR:** 30 (+10) | **DEX:** 11 (+0) | **CON:** 25 (+7) | **INT:** 22 (+6) | **WIS:** 18 (+4) | **CHA:** 20 (+5)
+- **Base Atk:** +20 | **CMB:** +34 | **CMD:** 44
+- **Feats:** Toughness, Power Attack
 - **Saving Throws:** Str +17, Dex +7, Con +14, Int +13, Wis +11
 - **Damage Immunities:** lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -22976,12 +23030,14 @@ This chapter provides 5e-compatible statblocks for the wild, unaligned horrors o
 
 ### The Slumbering Leviathan
 *Gargantuan monstrosity (Titan), unaligned*
-- **Armor Class:** 22 (Natural Armor)
+- **Armor Class:** 22 Natural Armor, touch 6, flat-footed 22
 - **Hit Points:** 615 (30d20 + 300)
 - **Speed:** 0 ft., swim 100 ft.
 - **Challenge:** 25 (75,000 XP)
 
 **STR:** 30 (+10) | **DEX:** 10 (+0) | **CON:** 30 (+10) | **INT:** 6 (-2) | **WIS:** 18 (+4) | **CHA:** 10 (+0)
+- **Base Atk:** +22 | **CMB:** +36 | **CMD:** 46
+- **Feats:** Toughness, Power Attack
 - **Saving Throws:** Str +18, Con +18, Wis +12
 - **Skills:** Perception +12
 - **Damage Immunities:** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
@@ -23259,23 +23315,39 @@ Forged by the Crimson Dominion, these items utilize raw, unstable Aether crystal
 
 ### Aether-Core Grenade
 *Wondrous item, uncommon*
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *Encased in heavy, rune-stamped iron, this fist-sized sphere houses a violently vibrating shard of raw blue Aether. The Dominion issues these to boarding parties, where the volatile blast can clear a deck in seconds.*
 - As an action, you can throw the grenade up to 60 feet. It explodes on impact. Each creature within a 15-foot radius must make a DC 13 Dexterity saving throw, taking 14 (4d6) force damage on a failed save, or half as much on a successful one.
 
 ### Inquisitor's Lens
 *Wondrous item, uncommon*
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A thick glass monocle set in a tarnished brass and iron frame. Used by the Crimson Inquisitors to root out unsanctioned magic users, the lens seems to catch and bend the ambient light of the Expanse.*
 - While wearing it, you have advantage on Intelligence (Investigation) checks to find hidden magical traps, glyphs, or illusions.
 - You can cast *Detect Magic* at will, without requiring any components.
 
 ### Aether-Charged Cutlass
-*Weapon (longsword or scimitar), rare (requires attunement)*
+*Weapon (longsword or scimitar), rare *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *This heavy iron blade hums with contained energy. The fuller of the blade contains a thin, glowing blue line of liquid Aether that flares when drawn.*
 - You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 - **Overload:** As a bonus action, you can strike the hilt to overload the Aether core for 1 minute. During this time, the weapon deals an extra 1d6 force damage on a hit. However, if you roll a 1 on an attack roll while overloaded, the weapon vents raw magic, dealing 1d6 force damage to you.
 
 ### Grappling Gauntlet
-*Wondrous item, rare (requires attunement)*
+*Wondrous item, rare *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A heavy mechanical bracer fitted with a spool of high-tensile mythril wire and a jagged, barbed spike. It smells of grease and ozone.*
 - As an action, you can fire the spike at a solid surface or creature within 60 feet (using your Dexterity modifier + proficiency bonus for the attack roll). 
 - If you hit a surface, you can use a bonus action to instantly winch yourself to that point. 
@@ -23283,33 +23355,53 @@ Forged by the Crimson Dominion, these items utilize raw, unstable Aether crystal
 
 ### Inquisitor's Manacles
 *Wondrous item, rare*
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *Heavy iron shackles deeply etched with anti-magic runes. When locked around a prisoner's wrists, the metal feels ice-cold, actively draining the magical spark from their blood.*
 - A creature bound by these manacles cannot cast spells that require somatic or material components.
 - The creature has disadvantage on Constitution saving throws made to maintain concentration on a spell.
 - Escaping requires a successful DC 20 Dexterity (Sleight of Hand) or DC 20 Strength (Athletics) check.
 
 ### Ironclad Breaching Ram
-*Weapon (maul), rare (requires attunement)*
+*Weapon (maul), rare *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A massive, piston-driven hammer designed to shatter ship hulls and fortification doors. The head of the maul is a solid block of Dominion steel powered by an Aether combustion engine.*
 - You gain a +1 bonus to attack and damage rolls. 
 - **Siege Weapon:** This weapon deals double damage to objects and structures.
 - **Earthshatter:** Once per day, you can strike the ground to cast *Earthquake* with a radius of only 15 feet, centered on the point of impact.
 
 ### Aether-Thruster Boots
-*Wondrous item, rare (requires attunement)*
+*Wondrous item, rare *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *Heavy, iron-shod boots equipped with glowing aether-exhaust ports on the heels and soles. They are loud, clunky, and highly effective for ship-to-ship boarding.*
 - You can use a bonus action to activate the boots, granting yourself a flying speed of 30 feet until the end of your turn. 
 - If you do not land on a solid surface at the end of your turn, you fall.
 
 ### Dominion Shield-Generator
 *Wondrous item, very rare*
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A heavy metal tripod topped with a spinning, multifaceted aether crystal. When activated, it emits a low hum that vibrates in the teeth of anyone nearby.*
 - As an action, you can deploy the tripod on a solid surface. It projects a 15-foot-radius dome of shimmering blue force for 1 minute.
 - The dome blocks line of effect and provides total cover to anyone inside it against attacks originating from outside.
 - The dome has 100 hit points and is immune to non-magical physical damage. Once used, it cannot be used again until the next dawn.
 
 ### Vane's Iron Decree
-*Wondrous item, legendary (requires attunement by a lawful creature)*
+*Wondrous item, legendary *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A heavy iron speaking trumpet used by high-ranking admirals of the Dominion fleet. The metal is etched with runes of absolute authority.*
 - While holding it, your voice can be amplified to be heard clearly up to 1 mile away. 
 - **Mass Command:** Once per day, you can shout a one-word command through the trumpet. This acts as a 5th-level *Command* spell (Save DC 17), affecting up to 6 creatures of your choice within 120 feet.
@@ -23321,54 +23413,90 @@ Created through flesh-warping or druidic symbiosis, these items are living organ
 
 ### Blood-Leech Bandage
 *Wondrous item, common*
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A large, pale, sterile-looking slug kept in a jar of brine. When placed on a wound, it rapidly spins a silk-like webbing to stitch flesh together while consuming tainted blood.*
 - As an action, you can apply the slug to a wound. You can expend one of your own Hit Dice. Roll the die, add your Constitution modifier, and you regain that many hit points. The slug then dies, turning to dust.
 
 ### Symbiotic Gills
-*Wondrous item, uncommon (requires attunement)*
+*Wondrous item, uncommon *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A pulsating, fleshy collar resembling a shark's gills. To attune to this item, you must press it against your neck, where it painfully burrows into your flesh and fuses with your windpipe.*
 - You can breathe underwater indefinitely.
 - You gain a swimming speed equal to your walking speed.
 - **Curse of the Deep:** If you remain out of water for more than 24 hours, you begin to suffocate and gain one level of exhaustion every hour until submerged.
 
 ### Kelp-Strand Whip
-*Weapon (whip), uncommon (requires attunement)*
+*Weapon (whip), uncommon *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A living, slimy vine harvested from the deepest trenches. It writhes slightly when held, as if seeking prey to constrict.*
 - You gain a +1 bonus to attack and damage rolls made with this magic weapon. 
 - **Constrict:** When you hit a creature with this weapon, you can attempt to grapple them (escape DC 13) instead of dealing damage. You cannot attack with the whip while grappling a creature in this way.
 
 ### Reef-Walker's Ring
-*Ring, uncommon (requires attunement)*
+*Ring, uncommon *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A ring made of living, vibrant pink coral. It stays warm to the touch and occasionally shifts its shape around your finger.*
 - You ignore difficult terrain caused by aquatic environments (such as deep mud, sharp coral, or thick seaweed).
 - You have advantage on saving throws against being moved or knocked prone while underwater or on a shifting ship deck.
 
 ### Coral-Weave Armor
-*Armor (scale mail), rare (requires attunement)*
+*Armor (scale mail), rare *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *Living, bioluminescent coral grown meticulously over a flexible mesh of woven kelp. The armor breathes with the wearer, hardening upon impact.*
 - You have a +1 bonus to AC. 
 - **Living Defense:** As a reaction when hit by a melee attack, you can cause razor-sharp coral to sprout outward, dealing 1d10 piercing damage to the attacker. Once used, it cannot be used again until the next dawn, as the coral requires time to regrow.
 
 ### The Eye of the Deep
-*Wondrous item, rare (requires attunement)*
+*Wondrous item, rare *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A preserved, oversized eye of a deep-sea leviathan, mounted on a bone chain. The pupil constantly dilates and contracts, tracking movement in the dark.*
 - You gain darkvision out to a range of 120 feet. If you already have darkvision, its range increases by 60 feet.
 - You can see through magical darkness as if it were dim light.
 
 ### Chitinous Tower Shield
-*Armor (shield), rare (requires attunement)*
+*Armor (shield), rare *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A massive, jagged shield made from the hollowed carapace of a gargantuan deep-sea crab. It is surprisingly light despite its immense size.*
 - While holding this shield, you have a +3 bonus to AC instead of the normal +2. 
 - **Carapace Plating:** As a reaction when you take bludgeoning, piercing, or slashing damage, you can reduce the damage by 1d10 + your Constitution modifier.
 
 ### Matron's Flesh-Borer
-*Weapon (dagger), very rare (requires attunement)*
+*Weapon (dagger), very rare *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A grotesque, writhing bone knife that seems to be made of a single, petrified tooth. The hilt is wrapped in drow spider-silk.*
 - You gain a +2 bonus to attack and damage rolls. 
 - **Flesh-Warp:** When you hit a creature with this dagger, they must succeed on a DC 16 Constitution saving throw or have their Constitution score reduced by 1d4. The target dies if this reduces its Constitution to 0. The reduction lasts until the target finishes a long rest.
 
 ### Staff of the Deep Mother
-*Weapon (quarterstaff), legendary (requires attunement by a spellcaster)*
+*Weapon (quarterstaff), legendary *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A staff formed of black, weeping coral, topped with a glowing, bioluminescent lure resembling an anglerfish. It constantly drips saltwater.*
 - You gain a +2 bonus to attack and damage rolls made with this magic weapon, and a +2 bonus to spell attack rolls and your spell save DC.
 - **Summon the Deep:** Once per week, you can cast *Conjure Elemental* to summon a Water Elemental, or cast a modified *Conjure Animals* to summon a CR 5 or lower aquatic beast/monstrosity. The creature obeys you perfectly and remains for 1 hour without requiring concentration.
@@ -23380,29 +23508,49 @@ The Grand Merchant Consortium produces items designed to protect wealth, ensure 
 
 ### Coin of Safe Passage
 *Wondrous item, common*
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A beautifully minted gold coin, slightly heavier than a standard piece. The Consortium gives these to their most valued VIPs.*
 - If you snap the coin in half (requiring an action), it emits a silent magical beacon. Any Consortium ship within 50 miles is instantly aware of the beacon's exact location and will move to retrieve you. Note: the Consortium will charge an exorbitant "rescue fee" once you are aboard.
 
 ### Silk-Weave Cloak
-*Wondrous item, uncommon (requires attunement)*
+*Wondrous item, uncommon *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *An incredibly stylish, water-resistant cloak woven from abyssal spider-silk. It shifts colors subtly to match the current high-fashion trends of the floating cities.*
 - You can cast *Mage Armor* on yourself at will. 
 - You have advantage on Charisma (Persuasion) checks made against nobility, merchants, or politicians.
 
 ### Vault-Lock Box
 *Wondrous item, rare*
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A small, heavily reinforced iron and mythril lockbox containing 1 cubic foot of space. It has no keyhole, only a smooth ruby set into the lid.*
 - To open or close the box, a specific individual (chosen when the box is enchanted) must press a drop of their blood to the ruby. 
 - The box is completely immune to the *Knock* spell, lockpicks, and all mundane attempts to force it open.
 
 ### Ledger-Mage's Quill
 *Wondrous item, rare*
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A golden quill that never runs out of ink and never snaps its nib. The feather belonged to a celestial bird of trade.*
 - It grants you advantage on Intelligence (Investigation) checks to detect forgeries or altered documents. 
 - You can use the quill to cast *Illusory Script* at will, without requiring material components.
 
 ### Abjuration Signet Ring
-*Ring, rare (requires attunement)*
+*Ring, rare *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A heavy gold ring bearing the crest of a Merchant Lord. It hums with latent, protective magic designed to stop assassins.*
 - This ring has 3 charges. It regains 1d3 expended charges daily at dawn.
 - As a reaction when you are hit by an attack, you can expend 1 charge to cast *Shield*. 
@@ -23410,17 +23558,29 @@ The Grand Merchant Consortium produces items designed to protect wealth, ensure 
 
 ### Golden Contract
 *Wondrous item, very rare*
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A glowing piece of enchanted parchment with a pre-written, highly dense legal agreement. The ink is mixed with crushed diamond dust.*
 - If two or more willing creatures sign their true names to a bargain written on this parchment, they are subjected to a 9th-level *Geas* spell to fulfill the terms of the bargain. Only a *Wish* spell can break the contract before the terms are met.
 
 ### The Dividend Shield
-*Armor (shield), legendary (requires attunement)*
+*Armor (shield), legendary *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A shield made of solid, enchanted gold. Despite its material, it is perfectly balanced and practically indestructible.*
 - You gain a +2 bonus to AC in addition to the shield's normal bonus. 
 - **Compound Interest:** When you are hit by a melee attack, you can use your reaction to absorb the kinetic energy. You reduce the damage by 1d10 + your Dexterity modifier. You then gain temporary hit points equal to the damage reduced. You can use this ability 3 times per day.
 
 ### Ledger of Infinite Coin
-*Wondrous item, legendary (requires attunement)*
+*Wondrous item, legendary *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A heavy, gold-leafed book that feels slightly warm to the touch. The pages are blank, but smell of freshly minted currency.*
 - Once per day at dawn, the book produces 100 gold pieces that spill endlessly from its pages.
 - **The Catch:** The gold is magically marked. Any Consortium agent or ledger-mage can instantly track the exact location of any coin produced by this book, no matter what plane it is on.
@@ -23432,40 +23592,68 @@ Dirty, reliable, and deeply illegal. The Free Captains forge items for boarding 
 
 ### Rust-Eaten Mutineer's Dagger
 *Weapon (dagger), uncommon*
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A rusted, barnacle-encrusted blade with a handle wrapped in flayed skin. It perpetually drips a foul-smelling black ichor, yearning for the blood of a friend.*
 - You gain a +1 bonus to attack and damage rolls made with this magic weapon. 
 - **Betrayal's Rot:** If you make an attack against a creature that considers you an ally, the attack automatically becomes a critical hit if it connects, and the wound immediately rots, dealing an extra 2d6 necrotic damage.
 
 ### Smuggler's Pocket
 *Wondrous item, uncommon*
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A mundane-looking patch of dark leather that can be hastily sewn into the inside of a coat or trousers.*
 - It functions exactly like a *Bag of Holding*, but is completely undetectable by visual inspection unless the coat is thoroughly searched (Investigation DC 16).
 
 ### Tricorne of the Zephyr
-*Wondrous item, uncommon (requires attunement)*
+*Wondrous item, uncommon *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A faded leather pirate hat with a brightly colored, magical parrot feather tucked into the brim. It always smells of sea salt and fresh wind.*
 - While wearing this hat, you have advantage on initiative rolls.
 - You can cast *Gust of Wind* once per day, regaining the ability to do so at dawn, allowing you to quickly fill your ship's sails in a dead calm.
 
 ### Compass of the Drowned
 *Wondrous item, rare*
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A rusted brass compass containing murky seawater instead of glass. The needle is carved from human bone.*
 - The needle does not point North. Instead, it points to the nearest location where a creature has died within the last 24 hours.
 - If no creature has died within 10 miles in the last 24 hours, the needle spins aimlessly.
 
 ### Boarding-Axe of the Zephyr
-*Weapon (handaxe), rare (requires attunement)*
+*Weapon (handaxe), rare *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A perfectly balanced throwing axe with a wickedly curved blade. The handle is wrapped in storm-cloud-grey linen.*
 - You gain a +1 bonus to attack and damage rolls made with this magic weapon. 
 - **Boomerang Strike:** When you throw the axe, it immediately returns to your hand after the attack resolves. If the attack hits, it deals an extra 1d6 thunder damage.
 
 ### False-Flag Pennant
-*Wondrous item, rare (requires attunement by a ship captain)*
+*Wondrous item, rare *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A magical flag, torn and stained, that must be flown from the highest mast of a vessel.*
 - As an action, the captain can speak a command word to cast a massive, ship-wide *Mirage Arcane* (or *Seeming*). This illusion can alter the ship's colors, flag, and overall silhouette to look like any other mundane ship of the same size class. The illusion lasts for 8 hours.
 
 ### Powder-Mage's Flintlock
-*Weapon (pistol), rare (requires attunement)*
+*Weapon (pistol), rare *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A masterfully crafted, heavily scarred flintlock pistol. The barrel glows cherry-red when fired.*
 - You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 - This weapon does not require black powder or physical ammunition. It magically conjures its own explosive force, dealing force damage instead of piercing.
@@ -23479,73 +23667,121 @@ DMs are encouraged to use these artifacts as major plot devices. They offer char
 ---
 
 ### Lantern of the Sunken Souls
-*Wondrous item, rare (requires attunement)*
+*Wondrous item, rare *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A barnacle-encrusted brass lantern that burns with a cold, pale-blue light. It smells faintly of rotting kelp and cold grave dirt. The light it casts casts long, unnatural shadows that seem to move on their own.*
 - **The Boon:** The lantern casts bright light for 30 feet and dim light for an additional 30 feet. While holding it, you have *Truesight* out to 30 feet, allowing you to see invisible creatures and peer through illusions.
 - **The Curse (The Beacon):** The light of the lantern acts as a beacon to the dead. Every hour the lantern is lit outside of a magically warded area, there is a cumulative 10% chance that a hostile undead encounter (e.g., Specters, Wraiths, or a Ghost Ship) is drawn to your exact location. They will prioritize targeting the lantern bearer above all others.
 
 ### The Drowned Captain's Log
-*Wondrous item, rare (requires attunement)*
+*Wondrous item, rare *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A water-logged, bloated leather journal that never dries out. The ink inside glows a faint, sickly green. The pages contain the frantic scrawlings of captains who sought legendary treasures, only to find their graves.*
 - **The Boon:** The book knows the location of every sunken ship in the Shattered Expanse. By spending 1 hour reading the log, you can name a specific lost ship or ask for the nearest wreck. The log will magically sketch a highly accurate map to the wreck's location.
 - **The Curse (The Drowned Crew):** Every time you use the book to locate a wreck, you must make a DC 16 Wisdom saving throw. On a failure, you are haunted by horrific visions of drowning in absolute darkness. You suffer one level of exhaustion and gain an extreme phobia of deep water. While on a ship out of sight of land, you have disadvantage on all attack rolls and ability checks.
 
 ### Spyglass of Paranoia
-*Wondrous item, very rare (requires attunement)*
+*Wondrous item, very rare *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A collapsible brass spyglass, heavily tarnished. The glass lens looks eerily like a bloodshot human eye. When you peer through it, you feel a cold breath on the back of your neck.*
 - **The Boon:** You can use the spyglass to look at any location within 10 miles that you are familiar with, functioning as the *Scrying* spell.
 - **The Curse (The Watching Eye):** You become intensely, cripplingly paranoid. You constantly see shadows moving in the corners of your vision and hear whispers of mutiny from your crew. You suffer disadvantage on all saving throws against the frightened condition, and you can no longer gain the benefits of a short or long rest if another creature is within 10 feet of you.
 
 ### The Blood-Drinker Cutlass
-*Weapon (longsword), very rare (requires attunement)*
+*Weapon (longsword), very rare *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A jagged, crimson-stained blade that hums with sentient, malevolent hunger. The hilt is wrapped in human skin, and the blade is warm to the touch. It desperately wants to feed.*
 - **The Boon:** You gain a +2 bonus to attack and damage rolls. When you hit a creature with this sword, you heal hit points equal to half the damage dealt.
 - **The Curse (Starving Blade):** The sword demands blood. If you go 24 hours without killing a creature of CR 1 or higher with this weapon, the sword begins feeding on you. Your hit point maximum is reduced by 1d10 each dawn. This reduction cannot be reversed until the sword kills a creature.
 
 ### The Black Spot Doubloon
-*Wondrous item, legendary (requires attunement)*
+*Wondrous item, legendary *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A heavy, impossibly cold coin minted from obsidian. It bears the jagged emblem of a forgotten pirate king on one side, and a screaming skull on the other.*
 - **The Boon:** While this coin is on your person, you cannot be killed by mundane means. If an attack or effect would reduce you to 0 hit points, you drop to 1 hit point instead. You can use this ability a number of times equal to your Constitution modifier (minimum 1). You regain all expended uses at midnight.
 - **The Curse (The Black Spot):** Attuning to the coin permanently sears a black, necrotic mark onto your palm. This curse cannot be removed by any spell short of a *Wish*. Every time you use the coin's boon to survive dropping to 0 HP, a powerful, hostile undead creature from the Expanse is immediately drawn to your exact location to claim your soul. If you ever willingly give the coin away or lose it, you immediately suffer 10d10 necrotic damage, and the Black Spot begins to rot your flesh, giving you disadvantage on all Charisma checks until you reclaim the coin or die.
 
 ### The Aether-Core Heart
-*Wondrous item (implant), legendary (requires attunement)*
+*Wondrous item (implant), legendary *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A fist-sized crystal of pure, glowing red Aether, encased in a crude mechanical pump. It was designed by a mad Dominion scientist to replace a failing biological heart with endless magical energy.*
 - **The Boon:** To attune to this item, it must be surgically implanted into your chest, replacing your actual heart (a process requiring a DC 20 Medicine check and 8 hours of surgery). Once implanted, your Constitution score becomes 22. You become immune to the exhausted and poisoned conditions, and you no longer need to eat, sleep, or breathe.
 - **The Curse (Meltdown):** The raw magic inside your chest is highly volatile. Every time you cast a spell of 1st level or higher, or take more than 20 points of damage in a single hit, the core surges. Roll a d20. On a 1, the core vents raw magic. You and every creature within 10 feet of you take 4d10 force damage. If you die while the core is implanted, it detonates in a catastrophic explosion. Every creature and object within a 60-foot radius takes 10d10 force damage and 10d10 fire damage.
 
 ### Ring of the Leviathan's Bargain
-*Ring, legendary (requires attunement)*
+*Ring, legendary *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A massive, heavy ring made of blackened gold, depicting a kraken dragging a galleon down into the abyss. It whispers promises of ultimate power in the dark.*
 - **The Boon:** You can cast the *Wish* spell once. 
 - **The Curse (The Debt Collector):** Immediately after you cast *Wish*, the ring dissolves into seawater and vanishes. Within 1d4 days, an ancient Leviathan (or Kraken) is summoned within 1 mile of your location. The beast has only one goal: to utterly destroy you and everyone you love. It magically knows your exact location at all times, no matter where you flee, until it is slain.
 
 ### The Crimson Anchor
-*Weapon (maul), legendary (requires attunement)*
+*Weapon (maul), legendary *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A massive, two-handed ship's anchor that drips with fresh blood, regardless of how long it has been out of the water. It requires immense strength just to lift, let alone swing.*
 - **The Boon:** You gain a +3 bonus to attack and damage rolls. When you hit a creature, they must succeed on a DC 18 Strength saving throw or be knocked prone and paralyzed until the end of their next turn, crushed by the phantom weight of the anchor.
 - **The Curse (Dead Weight):** Your physical weight increases by 500 pounds. Your walking speed is reduced by 10 feet. If you ever fall into water, you sink like a stone at a rate of 60 feet per round, and you automatically fail all Athletics checks to swim. You cannot be buoyant.
 
 ### Crown of the Deep Mother
-*Wondrous item, artifact (requires attunement)*
+*Wondrous item, artifact *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A crown formed of interlaced, razor-sharp black coral. It constantly drips saltwater and smells of the deepest, lightless ocean trenches.*
 - **The Boon:** While wearing the crown, you gain telepathic control over the lesser monsters of the deep. You can cast *Dominate Monster* (DC 18 Wisdom save) at will, but it only affects beasts or monstrosities with a swim speed. You also gain resistance to cold damage and a swim speed of 60 feet.
 - **The Curse (Deep-Sea Symbiosis):** The crown is alive. Upon attunement, it fuses with your skull (taking 4d10 piercing damage). It cannot be removed without killing the wearer. Over the course of 1d4 weeks, the wearer begins to mutate. First, their skin turns pale and clammy (disadvantage on Charisma checks). Second, they grow gills and lose the ability to breathe air. Finally, they begin hearing the whispers of the Deep Mother. Every time they finish a long rest, they must make a DC 15 Wisdom saving throw. On a failure, their alignment shifts one step closer to Chaotic Evil, and they become obsessed with returning to the abyss.
 
 ### Sextant of the Void
-*Wondrous item, artifact (requires attunement by a navigator)*
+*Wondrous item, artifact *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *An impossibly complex navigational tool made of dark, unearthly metal that feels cold to the touch. The lenses are ground from meteorites.*
 - **The Boon:** When navigating a ship using this sextant, the ship can never be lost. It can perfectly navigate through magical storms, impenetrable fog, and spatial anomalies. Additionally, once per week, you can use the sextant to cast *Teleport* on the entire ship and its crew, moving it to any ocean location in the world instantly.
 - **The Curse (Gaze of the Abyss):** When looking through the sextant, you look directly into the terrifying vastness of the Void. Every time you use the item, you must succeed on a DC 18 Intelligence saving throw. On a failure, you suffer short-term madness for 1d10 minutes. If you fail this saving throw three times total over your lifetime, you gain a permanent, incurable long-term madness.
 
 ### The Gorgon's Figurehead
-*Wondrous item, artifact (requires attunement by a ship captain)*
+*Wondrous item, artifact *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *A beautifully carved, serpentine figurehead of a medusa-like woman with glowing, venomous green eyes. It must be mounted on the prow of a ship to function.*
 - **The Boon:** When mounted to the prow of a ship, the captain can use an action to unleash the Gorgon's Gaze. Every creature and enemy vessel within a 120-foot cone must make a DC 18 Constitution saving throw. On a failure, creatures are petrified, and enemy ships instantly have their rigging, sails, and hulls turn to solid stone, rendering them immobile and causing them to rapidly sink.
 - **The Curse (The Heavy Toll):** The terrible magic bleeds backward into your own ship. Every time you use the Gorgon's Gaze, 5% of your own ship's hull permanently turns to stone. This reduces your ship's maximum speed by 5 feet each time it is used. If the ship's speed reaches 0, the entire ship fully petrifies and sinks like a stone, taking the captain and crew with it. The petrification of the hull cannot be reversed by any means.
 
 ### The Drowned King's Crown
-*Wondrous item, artifact (requires attunement)*
+*Wondrous item, artifact *
+- **Caster Level (CL):** 5th
+- **Aura:** Moderate magic
+- **Market Price:** 5,000 gp
+- **Construction Requirements:** Craft Wondrous Item
 *An ancient, rusted iron crown set with massive pearls. It constantly leaks seawater down the wearer's face, making them look perpetually sorrowful.*
 - **The Boon:** You exude an aura of terrifying, regal majesty. Any creature that serves on your crew is magically bound to your will. They cannot mutiny, they cannot lie to you, and they have advantage on saving throws against being charmed or frightened by anyone other than you. You can cast *Geas* at will on any member of your crew without components.
 - **The Curse (Bound to the Sea):** The crown permanently binds you to the ocean, the only domain you are now allowed to rule. You can never step foot on dry land again. If you step onto land (or an island, continent, or non-floating city), you take 10d10 necrotic damage every minute you remain there. Your body will rapidly begin to dry out and turn to dust if you leave the water.
@@ -23620,7 +23856,7 @@ The island itself is sheer, black volcanic rock. There are no natural beaches; s
 
 ### Local Laws & Dangers
 - **Absolute Prohibition on Unsanctioned Magic:** Casting a spell in Bastion without an official Dominion writ is a capital offense. Inquisitor patrols use *Inquisitor's Lenses* to constantly scan the crowds.
-- **The Ash-Sickness:** The air in the lower tiers is highly toxic. Creatures without a filter-mask or immunity to poison who spend more than 24 hours in the lower city must succeed on a DC 14 Constitution saving throw or suffer 1 level of exhaustion.
+- **The Ash-Sickness:** The air in the lower tiers is highly toxic. Creatures without a filter-mask or immunity to poison who spend more than 24 hours in the lower city must succeed on a DC 15 Fortitude save or become fatigued.
 
 ### Points of Interest
 
@@ -23647,7 +23883,7 @@ The city is a three-dimensional maze of rotting wood, canvas sails, and rope bri
 
 ### Local Laws & Dangers
 - **The Pirate's Code:** There is only one real lawâ€”do not betray the Cove to the Dominion or the Consortium. Those found guilty of treason are keelhauled beneath the city's massive, barnacle-encrusted underbelly.
-- **Structural Instability:** The Cove is constantly shifting. During a fight, there is a 10% chance each round that the floor (a rotting deck or frayed rope bridge) collapses. Creatures must make a DC 14 Dexterity saving throw or fall 20 feet into the shark-infested waters below.
+- **Structural Instability:** The Cove is constantly shifting. During a fight, there is a 10% chance each round that the floor (a rotting deck or frayed rope bridge) collapses. Creatures must make a DC 15 Reflex save or fall 20 feet into the shark-infested waters below.
 
 ### Points of Interest
 
@@ -23750,7 +23986,7 @@ Before the world flooded, Aethelgard was a continent-spanning empire built on un
 The ruins vary from half-submerged spires jutting out of the ocean like broken teeth, to massive, hermetically sealed biodomes resting in the abyssal trenches. The architecture is sleek, white stone mixed with veins of raw Aether crystal. The geometry is often broken, with stairs leading nowhere and gravity behaving erratically.
 
 ### Local Dangers
-- **Aether Radiation:** The ambient magic here is highly unstable. Every hour spent exploring a major ruin, characters must make a DC 14 Constitution saving throw. On a failure, they suffer a random magical mutation (e.g., skin turns blue, hair falls out, gain vulnerability to force damage) that lasts until cured by *Greater Restoration*.
+- **Aether Radiation:** The ambient magic here is highly unstable. Every hour spent exploring a major ruin, characters must make a DC 15 Fortitude save. On a failure, they suffer a random magical mutation (e.g., skin turns blue, hair falls out, gain vulnerability to force damage) that lasts until cured by *Greater Restoration*.
 - **The Silent Guardians:** Aethelgard was defended by advanced constructs (use statblocks for Golems or Aegis Automatons) that are still active, relentlessly following millennium-old patrol routes.
 
 ### Points of Interest
@@ -23807,7 +24043,7 @@ The players set sail. The DM should use this time to let players test their ship
 
 **The Encounter:** On the second day, a **Crimson Dominion Patrol Skiff** (Size 1) spots them. 
 - The Dominion ship will fire a warning shot and demand to board and inspect the cargo.
-- If the players allow the boarding, a **Dominion Marine** and an **Inquisitor** (See Chapter 35) will search the hold. They will find the core unless the players pass a DC 15 Deception/Stealth check.
+- If the players allow the boarding, a **Dominion Marine** and an **Inquisitor** (See Chapter 35) will search the hold. They will find the core unless the players pass a DC 15 Bluff or Stealth check.
 - If combat breaks out, the DM runs a tutorial Naval Combat encounter. The Dominion Skiff has 50 Hull Points and two basic cannons. The goal is to either sink the patrol or damage their sails to escape.
 
 ## Part 2: Razor-Reef
@@ -23822,8 +24058,8 @@ The players arrive at the atoll. It is desolate, surrounded by sharp coral. The 
 During the fight (perhaps on Initiative count 0 of the second round), the wooden crate holding the Aether Core is damaged. The core begins to glow bright red and emit a high-pitched whine. 
 
 - The players have 3 rounds to secure the core before it explodes. 
-- A player adjacent to the core can use their action to make a DC 13 Intelligence (Arcana) or Dexterity (Sleight of Hand) check to magically stabilize or physically realign the crystal matrix.
-- If it explodes, it deals 3d6 force damage to everything in a 20-foot radius (DC 13 Dexterity save for half). 
+- A player adjacent to the core can use a standard action to make a DC 15 Knowledge (arcana) or Sleight of Hand check to magically stabilize or physically realign the crystal matrix.
+- If it explodes, it deals 3d6 force damage to everything in a 20-foot radius (DC 15 Reflex save for half). 
 
 ## Conclusion and Rewards
 If the players survive and defeat Kargen, they can loot his body (finding a *Smuggler's Pocket* and 100 gp). If they saved the core, they can keep it. An Unstable Aether Core can be sold at a black market (like Shipwreck Cove) for 1,000 gp, or kept to power a future ship upgrade. 
@@ -23842,7 +24078,7 @@ To reach it, the players must either acquire a submarine, cast *Water Breathing*
 The ruin is a massive, cracked glass-and-white-stone biodome resting on the ocean floor in utter darkness. It was once a precursor research facility. 
 
 ### Environmental Hazards
-- **Aether Radiation:** The facility is leaking. Every 2 hours spent inside, players must make a DC 14 Constitution save or suffer a random minor mutation (e.g., hair turns to kelp, eyes glow in the dark).
+- **Aether Radiation:** The facility is leaking. Every 2 hours spent inside, players must make a DC 15 Fortitude save or suffer a random minor mutation (e.g., hair turns to kelp, eyes glow in the dark).
 - **Gravity Inversions:** Certain hallways have broken gravity plating. Walking into these zones causes players to "fall" upward to the ceiling, taking 2d6 bludgeoning damage. Movement in these areas is treated as difficult terrain unless the player has a fly speed.
 
 ## Key Encounters
@@ -23851,7 +24087,7 @@ The ruin is a massive, cracked glass-and-white-stone biodome resting on the ocea
 The outer doors are breached, but the inner doors are magically sealed. The doors are guarded by a **Coral Golem** (CR 6, Chapter 36) that has grown over the millennia. The Golem will attack anything that does not present an Aethelgard insignia.
 
 ### Zone 2: The Cryo-Genesis Labs
-Rows of shattered glass tubes. The water here is murky and cold. Two **Aether-Burned Scavengers** (CR 2, Chapter 36) have made this room their nest. If the players search the debris (DC 15 Investigation), they find an *Inquisitor's Lens* and a rusted Aethelgard keycard.
+Rows of shattered glass tubes. The water here is murky and cold. Two **Aether-Burned Scavengers** (CR 2, Chapter 36) have made this room their nest. If the players search the debris (DC 15 Perception), they find an *Inquisitor's Lens* and a rusted Aethelgard keycard.
 
 ### Zone 3: The Aether-Vault & The Ambush
 The final door is a massive vault locked by a complex arcane puzzle. However, the players are not alone. A raiding party of **Drow** from the Silk Houses tracked the players' ship.
@@ -23881,7 +24117,7 @@ The campaign arc begins with unnatural phenomena.
 To fight a CR 25 Titan, a single party of adventurers is not enough. They need a fleet.
 The players must travel to the faction capitals to secure alliances.
 - **The Crimson Dominion:** High Admiral Vane will only commit his Dreadnoughts if the players assassinate a rival Pirate Lord who is blocking their supply lines.
-- **The Spirit Keepers:** High Elder Naia believes the Leviathan is a natural purge. The players must pass a difficult Skill Challenge (Persuasion, Religion, Nature) to convince her the beast is corrupted by Aether and must be stopped.
+- **The Spirit Keepers:** High Elder Naia believes the Leviathan is a natural purge. The players must pass a difficult Skill Challenge (Diplomacy, Knowledge [religion], Knowledge [nature]) to convince her the beast is corrupted by Aether and must be stopped.
 - **The Consortium:** The Vance Brothers will fund the war effort, but only if the players sign a *Golden Contract* promising them exclusive salvage rights to the Leviathan's corpse.
 
 *Alternative Evil Path:* If the players are ruthless pirates, they can use the Leviathan's approach as a distraction. While the Dominion fleet sails out to fight the beast, the players can infiltrate Bastion and rob the Aether-Forges blind.

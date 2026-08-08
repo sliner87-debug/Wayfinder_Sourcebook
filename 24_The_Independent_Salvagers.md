@@ -63,11 +63,29 @@ The Guild is fractured by differing philosophies on what to do with the technolo
 
 ## 6. The Military Machine
 
-The Salvagers do not have a standing army. They rely on mercenaries for defense and experimental weaponry for survival.
+The Salvagers do not have a standing army. They view naval combat as a massive waste of resources and an unnecessary risk to their precious cargo. However, when cornered, they are the most unpredictable and terrifying combatants on the water, relying on experimental, highly volatile First Captain weaponry.
 
-- **Naval Fleet Composition:** They sail heavily modified, slow, incredibly sturdy salvage vessels. These ships look like floating factories, bristling with cranes, winches, and reinforced diving cages. 
-- **Combat Tactics:** Flee and cover. They avoid naval battles at all costs. If cornered, they will utilize untested, highly volatile First Captain weaponry, which is just as likely to sink their own ship as the enemy's.
-- **Shipboard Weaponry:** Experimental. A Salvager ship might be armed with a cannon that fires bolts of pure gravity, or a shielding device that turns the ship temporarily ethereal, all powered by unstable, glowing crystals.
+### 6.1 Chain of Command & Ranks
+There is no military hierarchy; rank is determined entirely by academic standing and technical expertise.
+- **The Principal Investigator (Captain):** The academic lead who funds and directs the expedition. They rarely have combat experience, leaving tactical decisions to mercenaries.
+- **The Chief Engineer (First Mate):** The most important person on the ship when things go wrong. They maintain the containment fields on the unstable artifacts in the cargo hold.
+- **The Master Diver (Operations Commander):** The veteran who leads the descent into the ruins. In ship-to-ship combat, they usually command the defense of the lower decks.
+- **Contracted Muscle (Marines):** Hired Free Captains or independent mercenaries paid to stand on the deck and shoot anything that gets too close.
+
+### 6.2 Standard Naval Doctrines
+- **The Evasive Protocol:** If a Salvager ship is attacked, the first priority is never to return fire; it is to spool up the Aether-Drives and flee. They will jettison non-essential cargo (and sometimes non-essential crew) to increase speed.
+- **The Scorched-Sea Defense:** If trapped, the Chief Engineer will jury-rig whatever volatile First Captain artifacts they recently hauled up. This could result in creating a localized gravity inversion, summoning a swarm of mechanical constructs, or accidentally vaporizing half their own ship along with the enemy.
+- **The Deep Dive Retreat:** As a last resort, some advanced Salvager vessels can magically seal their upper decks and rapidly alter their buoyancy, sinking like a stone to the ocean floor to escape surface attackers (praying the hull holds against the pressure).
+
+### 6.3 Specific Ship Classes
+- **The *Bathysphere*-Class Dredger (The Workhorse):** Slow, incredibly sturdy, and bristling with heavy winches, decompression chambers, and diving bells. They look like floating factories and move like wounded whales.
+- **The *Archivist*-Class Corvette (The Scout):** Fast, lightly armored ships used to chart new Aether Streams and locate ruins before the Consortium or Dominion can find them.
+- **The *Goliath*-Class Mobile Platform (The Drill):** Massive, semi-stationary rigs that drop anchor over a major ruin. They are heavily armored and usually surrounded by an escort of hired pirate ships. 
+
+### 6.4 Magical Ship Integration
+- **Unstable Energy Cores:** Salvager ships are often retrofitted to run on glowing, humming power cores pulled from the deep. These allow for incredible bursts of speed or temporary forcefields, but a critical hit to the engine room usually results in a localized arcane nuclear explosion.
+- **Decompression Wards:** The lower decks of Salvager ships are heavily enchanted with abjuration magic to regulate pressure, allowing divers to rapidly ascend without their blood boiling.
+- **Grav-Cranes:** Instead of relying purely on block-and-tackle, Salvagers use reverse-engineered gravity manipulators to lift multi-ton statues and stone tablets from the ocean floor with ease.
 
 ## 7. Notable Figures
 

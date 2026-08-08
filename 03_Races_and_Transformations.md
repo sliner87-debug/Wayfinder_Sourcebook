@@ -6,53 +6,53 @@ While the campaign setting supports many races across the Shattered Expanse, the
 "A Pixie born from ocean currents, ancient routes, and the forgotten magic between shores."
 
 **Type:** Fey (Small)
-**Speed:** 20 ft. Land / 60 ft. Fly (Good) / 30 ft. Swim (Good)
-**Ability Adjustments:** Str -4, Dex +8, Int +6, Wis +4, Cha +8
+**Speed:** 20 ft., fly 30 ft., swim 30 ft.
+**Ability Adjustments:** Dex +2, Cha +1
 
 **Racial Traits:**
-- **Tideborn Amphibious Nature:** Ignores underwater movement penalties and natural ocean terrain penalties. Can breathe underwater 1 hr/HD/day (permanent at 5 HD).
-- **Fey Sight:** Low-light vision. **Spirit Sight:** Detect Fey/Spirits/Magical Residue at will (30 ft. range).
-- **Fey Magic:** Original 3.0 Pixie Spell-Like Abilities.
-- **Polymorph:** The original 3.0 Pixie Polymorph ability (self only). Cannot gain spell-like, supernatural, or extraordinary abilities from the new form.
-- **Psionic Spark:** Base Power Points = 1/2 Character Level + Cha Mod (min 1). Start with one power: *Detect Psionics, Far Hand*, or *Minor Metamorphosis*.
+- **Tideborn Amphibious Nature:** Ignores underwater movement penalties and natural ocean terrain penalties. Can breathe underwater 1 hr/level/day (permanent at level 5).
+- **Fey Sight:** Darkvision 60 ft. **Spirit Sight:** Detect Fey/Spirits/Magical Residue at will (30 ft. range).
+- **Fey Magic:** Innate Spellcasting (Pixie spells).
+- **Polymorph:** Innate Polymorph ability (self only). Cannot gain spell-like, supernatural, or legendary abilities from the new form.
+- **Psionic Spark:** Base Power Points = 1/2 Character Level + Cha Mod (min 1). Start with one power: *Detect Psionics, Mage Hand (Invisible)*, or *Minor Illusion*.
 
 ## The Fey Transformation System
 Players may acquire transformations during their journeys. These are not simply chosen from a menu; they are earned or inflicted by the world.
 
 **Transformation Capacity:** A character has a maximum of **4 Transformation Points**.
-**Ability Score Stacking Rule:** No ability score can gain more than a +6 total bonus strictly from templates. (Base Tideborn Pixie bonuses are unaffected).
+**Ability Score Stacking Rule:** Ability scores cannot exceed 20, or 24 for mythic transformations.
 
 ### Category A: Minor Marks
 **Limit:** Max 2 | **Cost:** 1 Transformation Point
 Minor changes caused by magical exposure, blessings, mutations, or small awakenings.
-- **Fey-Touched (+2 Cha):** Pure fey awakening. +2 Diplomacy/Bluff/Perform. *Minor Glamour* (Silent Image 1/day). 
-- **Stormborn Fey (+2 Dex):** Ocean storms. Electricity Resist 5. Wind Rider (flight maneuverability up one step). Storm Sense (+2 Spot, Survival, Sailor).
-- **Coral-Blooded Fey (+2 Con):** Reef adaptation. Natural Armor +1. Improved underwater survival.
-- **Moonlit Fey (+2 Wis):** Lunar tide magic. Darkvision 30 ft. Lunar Grace (+2 Dodge AC at night). Dream Whisper 1/day.
-- **Shadowwake Fey (+2 Dex):** Dark ocean. 10% concealment in dim light. Darkvision 30 ft. Shadow Step (10 ft. teleport between shadows 1/day).
-- **Psionic Spark Fey (+2 Int):** Mind awakening. +3 PP. Minor Psionic Talent (one power). +1 vs mind-affecting.
-- **Spirit Marked Fey (+2 Wis):** Spirit connection. Gain a minor spirit companion. Spirit Awareness (30 ft.). +1 resistance to saves.
-- **Draconic Spark Fey (+2 Con):** Dormant dragon ancestry. Resist 5 to one element. Blindsense 30 ft. Minor breath weapon (1/day, 1d4, 15ft cone).
-- **Arcane Marked Fey (+2 Int):** Minor magical mutation. +1 against spells. Minor arcane trick (cantrip at will). +1 caster level for one school.
+- **Fey-Touched (+1 Cha):** Pure fey awakening. Proficiency in Persuasion, Deception, or Performance. *Minor Glamour* (Silent Image 1/day). 
+- **Stormborn Fey (+1 Dex):** Ocean storms. Lightning Resist. Wind Rider (flight speed +10 ft). Storm Sense (advantage on Perception and Survival in storms).
+- **Coral-Blooded Fey (+1 Con):** Reef adaptation. Natural Armor (AC 13 + Dex). Improved underwater survival.
+- **Moonlit Fey (+1 Wis):** Lunar tide magic. Darkvision 60 ft. Lunar Grace (+1 AC at night). Dream Whisper 1/day.
+- **Shadowwake Fey (+1 Dex):** Dark ocean. Disadvantage on attacks against you in dim light. Darkvision 60 ft. Shadow Step (10 ft. teleport between shadows 1/day).
+- **Psionic Spark Fey (+1 Int):** Mind awakening. +3 PP. Minor Psionic Talent (one power). Advantage on saves vs. charmed.
+- **Spirit Marked Fey (+1 Wis):** Spirit connection. Gain a minor spirit companion. Spirit Awareness (30 ft.). +1 to all saving throws.
+- **Draconic Spark Fey (+1 Con):** Dormant dragon ancestry. Resistance to one element. Blindsight 30 ft. Minor breath weapon (1/day, 1d4, 15ft cone).
+- **Arcane Marked Fey (+1 Int):** Minor magical mutation. Advantage on saves against spells. Minor arcane trick (cantrip at will). +1 to spell attack rolls for one school.
 
 ### Category B: Awakening Templates
 **Limit:** Max 1 | **Cost:** 2 Transformation Points
 A fundamental evolution of the character.
-- **Awakened Fey (+2 Int, +2 Wis, +2 Cha):** Psionic evolution. Gains Psionic subtype. PP = HD + Int + Cha. One Psionic Discipline & 1st level power. +4 vs enchantments/mind-affecting. Lifespan x5, no aging penalties.
-- **Arcane Ascendant Fey (+2 Int, +2 Cha):** Deep magic conduit. Gains Arcane Reservoir (1 bonus spell slot lower than max). Spellweaver Soul (+2 caster checks for one school). Resistance 10 to one element. Arcane Memory (recall witnessed spell 1/day).
-- **Spirit-Bound Fey (+2 Wis, +2 Cha):** Spirit Shaman evolution. Navigator Spirit manifests physically. +2 on spirit-related checks. Ancestral Memory (+10 Knowledge 1/day). Spirit Walk (ethereal 1 round/level, 1/day).
-- **First Captain Legacy Fey (+2 Int, +2 Wis, +2 Cha):** Lost Wayfinder inheritance. +4 Sailor, Survival, Geography. Captain's Echo (visions from past Wayfinders). Improved Ship Bond progression. Lost Route Memory (recognize ancient routes 1/week).
+- **Awakened Fey (+1 Int, +1 Wis, +1 Cha):** Psionic evolution. Gains Psionic subtype. PP = Level + Int + Cha. One Psionic Discipline & 1st level power. Advantage on saves vs. enchantments. Lifespan x5.
+- **Arcane Ascendant Fey (+1 Int, +1 Cha):** Deep magic conduit. Gains Arcane Reservoir. Spellweaver Soul (advantage on checks for one school). Resistance to one element. Arcane Memory (recall witnessed spell 1/day).
+- **Spirit-Bound Fey (+1 Wis, +1 Cha):** Spirit Shaman evolution. Navigator Spirit manifests physically. Advantage on spirit-related checks. Ancestral Memory (advantage on History 1/day). Spirit Walk (ethereal 1 round/level, 1/day).
+- **First Captain Legacy Fey (+1 Int, +1 Wis, +1 Cha):** Lost Wayfinder inheritance. Proficiency in Water Vehicles, Survival, Nature. Captain's Echo (visions from past Wayfinders). Improved Ship Bond progression. Lost Route Memory (recognize ancient routes 1/week).
 
 ### Category C: Heritage Templates
 **Limit:** Max 1 | **Cost:** 3 Transformation Points
 Changes what the character is fundamentally.
-- **Draconic Fey (+2 Str, +2 Con, +2 Int, +2 Cha):** Dragon lineage. Element Resistance 10. Blindsense 30 ft. Breath weapon (1d6/HD, max 10d6, 1/day).
-- **Celestial Tide Fey (+2 Con, +2 Wis, +2 Cha):** Divine blessing. Good alignment. Acid/Cold/Elec Resist 10. Divine Grace (Cha to saves). Radiant Presence (+1 morale to allies' saves).
-- **Infernal Fey (+2 Con, +2 Int, +4 Cha):** Infernal pact. Lawful alignment. Fire Resist 15. Contract Mind (+4 vs charm/domination). Infernal Boon (Hellfire or Binding Word).
-- **Xoriat-Touched Fey (+4 Int, +2 Wis, -2 Cha):** Reality mutation. Aberration subtype. Immune to confusion/insanity. Reality Fracture (reroll 1 failed d20 per day). Impossible Anatomy (20% miss chance).
-- **Chimera Fey (+2 Str, +4 Con, +2 Int):** Engineered evolution. Gain two physical mutations (Predator, Aquatic, Winged, Armored, etc.). Mutable Anatomy (swap one mutation 1/day). +4 vs polymorph/transmutation.
+- **Draconic Fey (+2 Str, +2 Con):** Dragon lineage. Element Resistance. Blindsight 30 ft. Breath weapon (1d6/level, max 10d6, 1/day).
+- **Celestial Tide Fey (+2 Wis, +2 Cha):** Divine blessing. Good alignment. Acid/Cold/Lightning Resistance. Divine Grace (Add Cha to saves). Radiant Presence (advantage on allies' saves).
+- **Infernal Fey (+2 Int, +2 Cha):** Infernal pact. Lawful alignment. Fire Resistance. Contract Mind (advantage vs. charm/domination). Infernal Boon (Hellfire or Binding Word).
+- **Xoriat-Touched Fey (+2 Int, +2 Con):** Reality mutation. Aberration subtype. Immune to confusion/insanity. Reality Fracture (reroll 1 failed d20 per day). Impossible Anatomy (attacks against you have disadvantage).
+- **Chimera Fey (+2 Str, +2 Con):** Engineered evolution. Gain two physical mutations (Predator, Aquatic, Winged, Armored, etc.). Mutable Anatomy (swap one mutation 1/day). Advantage vs polymorph/transmutation.
 
 ### Category D: Mythic Transformations (Campaign Locked)
 Not purchased. Not selected. Earned through world-altering campaign events.
-- **Deep-Touched Fey (+4 Con, +2 Int, +2 Wis, +2 Cha):** Altered by the Underdark Ocean. Aberration/Aquatic traits. Darkvision 120 ft., Water breathing, Pressure immunity, Cold Resist 10. Abyssal Telepathy 60 ft. Deep Resonance (Bonus PP = Level + Cha). Unlocks an entire mythic evolution tree at levels 5, 10, 15, and 20.
-- **Abyssal Fey (+2 Con, +2 Int, +4 Cha):** Corrupted ocean magic. Evil alignment. Dark Tide abilities. Abyssal Mark (gain power but attract outsider attention). Speak with dead sailors.
+- **Deep-Touched Fey (+2 Con, +2 Int, +2 Wis):** Altered by the Underdark Ocean. Aberration/Aquatic traits. Darkvision 120 ft., Water breathing, Pressure immunity, Cold Resistance. Abyssal Telepathy 60 ft. Deep Resonance (Bonus PP = Level + Cha). Unlocks an entire mythic evolution tree at levels 5, 10, 15, and 20.
+- **Abyssal Fey (+2 Con, +2 Cha):** Corrupted ocean magic. Evil alignment. Dark Tide abilities. Abyssal Mark (gain power but attract outsider attention). Speak with dead sailors.

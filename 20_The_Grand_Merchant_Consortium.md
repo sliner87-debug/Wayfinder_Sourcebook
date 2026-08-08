@@ -63,13 +63,30 @@ The Consortium is a cutthroat meritocracy where hostile takeovers are literal.
 
 ## 6. The Military Machine
 
-The Consortium's military is entirely privatized. They do not have citizens defending a homeland; they have mercenaries defending cargo.
+The Consortium's military is entirely privatized. They do not have citizens defending a homeland; they have mercenaries defending cargo. Their combat doctrine revolves around risk mitigation, defensive superiority, and overwhelming the enemy with expensive, disposable magical ordnance.
 
-- **Naval Fleet Composition:** 
-  - *Treasure Galleons:* Massive, heavily warded floating vaults designed to transport fortunes. They are slow but practically unsinkable.
-  - *The Gold Cloak Escorts:* Sleek, fast, heavily armed frigates that guard the trade lanes.
-- **Shipboard Weaponry:** They prioritize defense. Their ships are equipped with advanced Abjuration shielding, enchanted sails for speed, and magical flares to summon nearby mercenary fleets.
-- **Combat Tactics:** They prefer to buy off enemies. If forced into a fight, they rely on overwhelming, expensive firepower (e.g., mercenaries armed with wands and enchanted ammunition) and rapid tactical retreats to protect their investments.
+### 6.1 Chain of Command & Ranks
+The command structure is organized exactly like a corporate hierarchy, with shares and profit margins replacing traditional medals and honor.
+- **The Board of Defense:** A committee of high-ranking guild factors who authorize military budgets and declare bounties.
+- **Commodore-Shareholder (Admiral):** The highest rank in the private navy. They hold direct stock in the Consortium's success and command large convoys. 
+- **Captain-Contractor (Captain):** Independent operators hired to command escort ships. They are paid massive bonuses for every ship that safely reaches port, and severely fined for lost cargo.
+- **Ledger-Mage (First Mate):** A specialized wizard whose job is to calculate combat risk, project damage expenses during a battle, and cast defensive abjuration magic.
+- **Gold Cloak Enforcer (Marine):** Elite mercenaries clad in yellow-gold enchanted leather. They are highly paid, well-fed, and armed with masterwork weaponry.
+
+### 6.2 Standard Naval Doctrines
+- **The Toll-Gate Defense:** Consortium ships prefer to control chokepoints rather than chase enemies. They set up blockades at narrow straits or trade winds, demanding "protection fees."
+- **The Calculated Retreat:** Unlike the Dominion, the Consortium has no honor in fighting to the death. If a battle is deemed mathematically unprofitable by the Ledger-Mage, the ship immediately deploys alchemical smoke clouds, activates enchanted sails for a massive speed boost, and flees.
+- **The Iron Bank Boarding:** If forced to board, Gold Cloak Enforcers use wands of *Sleep* or *Glitterdust* to blind and incapacitate the enemy. They do not slaughter crews if they can avoid it; captured pirates are branded and sold into the Debt Docks to recoup the cost of the battle.
+
+### 6.3 Specific Ship Classes
+- **The *Ledger*-Class Treasure Galleon (The Vault):** Massive, lumbering behemoths built exclusively to transport fortunes. They are heavily warded and practically unsinkable. Their hulls are reinforced with lead to block divination and teleportation magic.
+- **The *Audit*-Class Escort Frigate (The Guard Dog):** Sleek, fast, heavily armed frigates that guard the trade lanes. They lack cargo space entirely, maximizing room for ballistae, crew, and alchemical fire-throwers.
+- **The *Dividend*-Class Cutter (The Courier):** Tiny, hyper-fast magical skiffs used for transporting high-value intelligence, magical artifacts, or VIPs. They rely entirely on speed and illusion magic to avoid combat.
+
+### 6.4 Magical Ship Integration
+- **Abjuration Shield Emitters:** Expensive ship modifications that project a temporary, regenerative forcefield around the hull, absorbing a set amount of damage before shattering.
+- **Alchemical Ordnance:** Consortium ships rarely use heavy iron cannons. They use precision-engineered ballistae that fire glass vials of *Golden Fire* or *Thunderstones*, maximizing collateral damage to enemy rigging while preserving the hull (so it can be salvaged).
+- **Communication Runes:** Every Captain-Contractor's cabin contains a secure magical slate linked directly to the Golden Spire, allowing instantaneous market updates and distress signals.
 
 ## 7. Notable Figures
 
@@ -85,6 +102,6 @@ The Consortium's military is entirely privatized. They do not have citizens defe
 
 ## 9. Unique Regional Assets
 
-- **Abjuration Shield Emitters:** Expensive ship modifications that project a temporary, regenerative forcefield around the hull, absorbing a set amount of damage before shattering.
+- **Alchemical Ordnance:** Custom-engineered ballistae that fire glass vials of *Golden Fire* or *Thunderstones*, maximizing collateral damage to enemy rigging while preserving the hull.
 - **Contract Marks:** Magical tattoos given to indentured laborers or sworn mercenaries. They act as tracking devices and can inflict pain if the wearer breaches their contract.
 - **Golden Fire:** A highly volatile, alchemically modified Greek Fire that burns even underwater. The Consortium sells it at a premium.

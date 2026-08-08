@@ -63,11 +63,30 @@ The Alliance is constantly on the verge of tearing itself apart, held together o
 
 ## 6. The Military Machine
 
-The Free Captains do not have a uniform standing navy. They fight a guerrilla war at sea.
+The Free Captains do not have a uniform standing navy. They fight a guerrilla war at sea characterized by extreme independence, unpredictable tactics, and highly customized vessels. They are the undisputed masters of asymmetrical naval warfare.
 
-- **Naval Fleet Composition:** A chaotic mix of everything. Stolen Dominion frigates, retrofitted Consortium merchantmen, and custom-built, impossibly fast blockade runners. No two ships look alike.
-- **Combat Tactics:** Speed and surprise. They rely on ambush tactics, utilizing thick fog (often magically summoned), narrow straits, and boarding actions. They prefer to capture ships intact rather than sink them.
-- **Shipboard Weaponry:** A mix of traditional black-powder cannons (which they favor for their reliability), scavenged Arcane Ballistae, and whatever experimental, highly volatile First Captain weaponry they managed to salvage.
+### 6.1 Chain of Command & Ranks
+There is no centralized admiralty. Command structures exist only on a per-ship basis or temporary armadas.
+- **Pirate King / Queen (Armada Commander):** A temporary rank granted by the Brethren Court only when a massive, unified fleet is required to repel a Dominion invasion.
+- **Wayfinder / Captain (Sovereign Leader):** The absolute authority on a ship during combat. However, their position relies on the continued consent of the crew.
+- **Quartermaster (The Adjudicator):** The second-in-command, elected by the crew. They lead the boarding parties, distribute the plunder, and step in if the Captain makes decisions that threaten the ship's survival.
+- **The Powder Monkey (Artillery Chief):** Given the volatile nature of black powder and scavenged arcane weapons, this role is highly respected and heavily hazard-paid.
+- **Sworn Corsair (Marine/Sailor):** There is no distinction between a sailor and a marine in the Alliance. Every deckhand is expected to fight, and every fighter is expected to rig the sails.
+
+### 6.2 Standard Naval Doctrines
+- **The Fog Ambush:** Free Captains rarely engage in the open ocean where Dominion Dreadnoughts can out-range them. They use Spirit Magic or weather-controlling artifacts to conjure blinding fog banks, hiding within them until they are mere feet from the enemy hull.
+- **The Swarm Tactic (The Wolfpack):** When attacking a massive target like a Consortium Treasure Galleon, Free Captains coordinate strikes from 4 or 5 smaller, hyper-fast ships. They circle the target, tearing down the rigging and harassing the defenders, waiting for the heavy ship to run out of magical ordnance before closing in for the kill.
+- **The "No Quarter" Boarding:** Unlike the Consortium's sleep magic or the Dominion's methodical slaughter, an Alliance boarding action is pure, terrifying chaos. Corsairs swing across on grappling lines, swinging cutlasses, firing flintlock pistols, and screaming sea-shanties. The psychological shock is often enough to force a quick surrender.
+
+### 6.3 Specific Ship Classes
+- **The *Zephyr*-Class Sloop (The Blockade Runner):** Impossibly light and fast, heavily modified to carry more sail than should be structurally sound. They are fragile but can outrun anything on the ocean. Used primarily by smugglers and scouts.
+- **The *Corsair*-Class Brigantine (The Raider):** The backbone of the pirate fleets. Fast enough to catch merchant galleons, armed well enough to fight off light escorts. They are usually bristling with black-powder cannons and heavy grappling winches.
+- **The *Kraken*-Class Ship-of-the-Line (The Pirate Lord's Flagship):** Extremely rare. These are usually stolen Dominion or Consortium heavy warships that have been aggressively retrofitted. They sacrifice armor and luxury for raw speed, extra cannons, and massive ramming prows.
+
+### 6.4 Magical Ship Integration
+- **Scavenger Sails:** Canvas sails patched with the hides of minor elementals or sea monsters, allowing a ship to catch magical Aether winds that normal canvas would tear in.
+- **Jury-Rigged Ballistae:** When pirates steal Dominion Arcane Ballistae, they often lack the magical training to use them properly. Instead, they hot-wire them with unstable elemental shards, resulting in incredibly destructive, but highly dangerous, weapons.
+- **Living Figureheads:** Wealthy captains hire shamans to bind minor spirits (like water nymphs or wind sylphs) directly into the ship's wooden figurehead, granting the vessel a rudimentary personality and minor localized weather control.
 
 ## 7. Notable Figures
 

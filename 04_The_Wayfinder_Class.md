@@ -5,10 +5,10 @@
 ## Class Chassis
 **Hit Die:** d8
 **Alignment:** Any
-**Class Skills:** 8 + Int modifier per level. (Balance, Bluff, Concentration, Craft (Ships), Decipher Script, Diplomacy, Gather Information, Handle Animal, Intimidate, Knowledge (Arcana/Geography/History/Local/Nature/Psionics/Religion), Profession (Sailor), Search, Sense Motive, Spellcraft, Spot, Survival, Swim, UMD, UPD).
-**Base Attack Bonus:** Medium (+15 at Level 20).
-**Saving Throws:** Good Reflex and Will, Poor Fortitude.
-**Weapon & Armor Proficiency:** Simple weapons, martial light weapons, rapier, cutlass, hand crossbow, shortbow, longbow, firearms. Light armor (Medium at level 5), shields (except tower).
+**Proficiencies:** Choose four from Acrobatics, Arcana, Athletics, Deception, History, Insight, Intimidation, Investigation, Nature, Perception, Persuasion, Religion, Stealth, Survival, and Water Vehicles.
+**Proficiency Bonus:** standard 5e progression (+2 to +6).
+**Saving Throws:** Dexterity, Charisma.
+**Weapon & Armor Proficiency:** Simple weapons, martial weapons with the finesse or light property, firearms. Light armor, medium armor (at level 5), shields.
 
 ## The Threefold Magic Systems
 The Wayfinder progresses in three magical paths simultaneously.

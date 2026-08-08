@@ -32,7 +32,7 @@ To preserve the campaign sandbox and prevent the Wayfinder from bypassing all ga
 4. **Legendary World Effects:**
    - *Rule:* Permanent world-changing effects (e.g., discovering impossible routes, establishing sovereign domains) require time, resources, and narrative consequences. The captain can influence history, but they do not own it.
 5. **Passive & Action Economy Limits:**
-   - *Rule:* Bonuses from Captain's Techniques follow normal D&D 3.5 stacking rules. A Wayfinder may use only **one** Immediate-Action Captain's Technique per round.
+   - *Rule:* Bonuses from Captain's Techniques follow normal 5e advantage/disadvantage and bounded accuracy rules. A Wayfinder may use only **one** Reaction Captain's Technique per round.
 
 ## Final DM Principle
 *The captain may change the world, but the world always responds. A Wayfinder's greatest victories should not close the campaign; they should create the next chapter.*

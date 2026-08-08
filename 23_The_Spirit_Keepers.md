@@ -62,11 +62,30 @@ The Keepers are generally united in purpose, but deeply divided on methodology.
 
 ## 6. The Military Machine
 
-The Keepers do not fight in line-of-battle formations. They use the ocean itself as a weapon.
+The Keepers do not fight in line-of-battle formations, nor do they possess a standardized navy. They are protectors of the deep, utilizing environmental warfare, symbiotic magic, and the wrath of the ocean itself as their primary weapons.
 
-- **Naval Fleet Composition:** They sail "Living Ships"—salvaged wrecks that have been completely overgrown and fused together by magically hardened coral and iron-wood kelp. They are incredibly resilient and self-repairing.
-- **Combat Tactics:** Environmental warfare. They rarely engage in broadside cannon duels. Instead, they summon localized squalls, manipulate currents to smash enemy ships into reefs, and use bonded sea creatures (like giant squids or elementals) to tear hulls apart from beneath.
-- **Shipboard Weaponry:** They do not use black powder. They use enchanted ballistae that fire explosive coral shards, and rely on their shamans to cast *Call Lightning* and *Control Water* to devastate enemy crews.
+### 6.1 Chain of Command & Ranks
+Their military structure is highly decentralized, based entirely on spiritual attunement rather than military discipline.
+- **The High Elder (Grand Shaman):** They do not issue combat orders directly; they commune with the Aether Streams to declare a region "sacred" or "lost," authorizing the Wardens to use lethal force.
+- **The Grove-Tender (Fleet Commander):** A senior Druid or Shaman who coordinates the defense of a large sector of the Verdant Expanse. They communicate via water-conduits and animal messengers.
+- **The Reef-Warden (Captain):** The commanding officer of a single Living Ship. They are physically and spiritually bonded to the vessel's animating spirit. If the ship dies, the Reef-Warden often suffers catastrophic psychic backlash.
+- **The Tide-Caller (First Mate):** Specialized weather-mages whose sole duty in combat is to manipulate the wind and current, allowing the Living Ship to maneuver impossibly fast against the wind.
+- **The Coral-Bound (Marines):** Elite warriors who have undergone a ritual grafting of living coral armor to their skin. They wield weapons carved from leviathan bone and enchanted kelp-whips.
+
+### 6.2 Standard Naval Doctrines
+- **The Wrath of the Deep (Environmental Warfare):** Keepers rarely engage in broadside cannon duels. They use *Control Water* to create massive whirlpools beneath enemy fleets, or summon localized squalls to shatter masts before moving in.
+- **The Symbiotic Boarding:** Keepers do not use grappling hooks. Their Living Ships physically ram the enemy vessel, and the magically accelerated kelp of their hull rapidly grows and entwines with the enemy ship, locking them together. The Coral-Bound then cross the living bridge to engage in melee.
+- **The Leviathan's Call:** In dire situations (such as a Dominion Dreadnought attack), a Reef-Warden will sacrifice their own life force to sing the "Deep Song," summoning a slumbering, gargantuan sea beast to shatter the enemy fleet from below.
+
+### 6.3 Specific Ship Classes
+- **The *Bramble*-Class Skiff (The Scout):** Small, incredibly fast interceptors grown from flexible mangrove roots. They are practically invisible when resting against a coastline or within a kelp forest.
+- **The *Iron-Reef*-Class Galleon (The Defender):** The core combat vessel. The hull is a calcified, incredibly dense mass of living coral. They are slow but possess an armor class and regeneration rate that frustrates traditional artillery.
+- **The *World-Tree*-Class Carrier (The Sanctuary):** Extremely rare. These are massive, floating island-ships grown around a single ancient seed from the Heartwood Spire. They serve as mobile bases of operation and carry entire pods of bonded sea beasts (like dire sharks or elemental water weirds) that they deploy into combat.
+
+### 6.4 Magical Ship Integration
+- **Living Hull Plating:** The ships bleed sap instead of splintering. They regenerate hull points passively, and Reef-Wardens can cast *Cure Light Wounds* directly on the ship to repair it instantly.
+- **Coral-Shard Ballistae:** Instead of heavy iron cannons, Keepers use massive ballistae that fire magically pressurized, razor-sharp coral shards. When the shard strikes wood or flesh, it violently splinters into hundreds of pieces.
+- **Aether-Sails:** They do not use canvas. Their sails are woven from bioluminescent, gossamer-like algae that catches magical Aether currents, allowing them to sail swiftly even in a dead calm.
 
 ## 7. Notable Figures
 

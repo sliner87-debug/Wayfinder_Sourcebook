@@ -66,11 +66,32 @@ The Dominion projects absolute unity, but beneath the surface, it is a nest of v
 
 ## 6. The Military Machine
 
-The Crimson Armada is the most feared sight on the Charted Waters.
+The Crimson Armada is not merely a navy; it is an industrialized magical war machine. Their tactical doctrine relies on overwhelming arcane superiority, unbreakable discipline, and heavily armored vessels that laugh at traditional cannon fire.
 
-- **Ship Design:** Dominion ships are built for intimidation. They are angular, heavily armored with dark iron plating, and painted a stark, blood crimson. They do not rely solely on sails; their massive flagships are propelled by bound fire and water elementals churning paddlewheels.
-- **Shipboard Weaponry:** Instead of cannons, they use Arcane Ballistae that fire enchanted bolts, and batteries of battle-mages trained to volley *Lightning Bolt* and *Fireball* in synchronized strikes.
-- **Boarding Tactics:** The Iron Legion does not swing over on ropes. Dominion ships use magical grappling hooks that forcefully drag enemy ships against their armored hulls, while Magi cast *Hold Person* and *Web* to paralyze the enemy crew before the heavily armored marines march across the gangplanks.
+### 6.1 Chain of Command & Ranks
+The Dominion military strictly divides arcane casters from mundane soldiers, creating a stark caste system even aboard ship.
+- **High Admiral (The Council of Twelve):** The supreme commanders of the Dominion, operating from the Obsidian Spire. They are exclusively Archmages of the Evocation and Abjuration schools.
+- **Fleet-Magus (Admiral):** Commands a flotilla of 5-10 ships. Usually a Wizard of at least 13th level.
+- **Spell-Captain (Captain):** The commanding officer of a single vessel. They wear crimson robes lined with steel pauldrons. They lead the ship's casting batteries.
+- **Iron Praetor (First Mate/Marine Commander):** The highest-ranking non-magical officer. They do not steer the ship; they command the Iron Legion marines in boarding actions and enforce discipline with brutal efficiency.
+- **Aether-Helmsman (Quartermaster):** Specialized artificers or sorcerers who interface directly with the ship's bound elementals, steering the vessel via magical conduits rather than a traditional wheel.
+- **Legionnaire (Marine):** The rank-and-file of the Iron Legion. Heavily armored in plate, wielding halberds and heavy crossbows.
+
+### 6.2 Standard Naval Doctrines
+- **The Aegis Phalanx:** Dominion ships never engage alone. They travel in perfectly spaced diamond formations. If one ship is targeted by heavy fire, neighboring ships cast *Wall of Force* or *Otiluke's Resilient Sphere* to shield it.
+- **The Arcane Volley:** Instead of relying on black powder (which is susceptible to wet powder and backfires), Dominion ships use batteries of low-level mages (Evokers). When the Spell-Captain drops their baton, the battery casts synchronized *Magic Missiles* or *Lightning Bolts* directly at the enemy's waterline.
+- **The Iron Boarding:** The Iron Legion never swings on ropes. Dominion ships use heavy, magically-propelled grappling chains that forcefully drag the enemy vessel hull-to-hull. Magi then cast *Hold Person*, *Slow*, or *Web* onto the enemy deck, while the heavily armored Iron Legion marches across wide gangplanks to methodically slaughter the paralyzed crew.
+
+### 6.3 Specific Ship Classes
+- **The *Ignis*-Class Frigate (The Hunter):** Fast, sleek interceptors. They have no sails. Instead, they are propelled by a bound water elemental pushing a jet stream beneath the hull. Armed with forward-facing Arcane Ballistae. Used for hunting pirates and blockading ports.
+- **The *Aegis*-Class Galleon (The Line-Breaker):** The standard ship of the line. Plated in Crimson Iron (granting fire resistance). They house a battery of 20 battle-mages and carry a compliment of 100 Iron Legion marines.
+- **The *Obsidian*-Class Dreadnought (The Flagship):** Massive, floating fortresses propelled by bound fire elementals turning colossal paddlewheels. They carry a massive central arcane cannon (The God-Spear) capable of casting a maximized *Disintegrate* beam once per hour. Only three exist in the Armada.
+- **The *Inquisitor*-Class Sub-Chaser (The Silent Eye):** Small, stealthy vessels painted pitch black. They use Psionic scrying nets dragged through the water to detect the brainwaves of submerged Drow submarines or hiding Wayfinders.
+
+### 6.4 Magical Ship Integration
+- **Elemental Cores:** The heart of a Dominion ship is its Engine Room, where bound elementals are tortured and siphoned for raw locomotive power. If the containment runes are broken in combat, the elemental breaks free, usually destroying the ship from the inside out in a violent rage.
+- **Scrying Nets:** Dominion rigging is often interwoven with divination magic. Climbing the rigging of a Dominion ship while invisible will often trigger magical alarms on the bridge.
+- **Warded Hulls:** The hulls are inscribed with Abjuration runes, giving them exceptional Hardness against magical attacks, but making them ironically vulnerable to raw, overwhelming physical force (like a Leviathan ramming them).
 
 ## 7. Notable Figures
 

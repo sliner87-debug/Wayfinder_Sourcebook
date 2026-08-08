@@ -62,11 +62,30 @@ The Silk Houses are united only in their hatred of the surface; internally, they
 
 ## 6. The Military Machine
 
-The Drow do not fight fair. They strike from the shadows, cripple their enemies, and vanish before a retaliation can be organized.
+The Drow do not fight fair. They have no standing army in the traditional sense; their military is a collection of house-funded assassination fleets and biological terror weapons. They strike from the shadows, cripple their enemies' logistics, and vanish before retaliation can be organized.
 
-- **Naval Fleet Composition:** They do not use wooden sailing ships. They utilize biological submarines—massive, hollowed-out, undead sea leviathans (like giant armored squids or skeletal whales) piloted by Necromancers. 
-- **Combat Tactics:** They attack from below. Their "ships" breach the surface, deploying elite boarding parties that use innate darkness magic to blind the enemy crew. 
-- **Shipboard Weaponry:** They do not use cannons. They use sonic projectors that can shatter wooden hulls, and magical torpedoes that rapidly freeze the water around an enemy ship, trapping it in ice.
+### 6.1 Chain of Command & Ranks
+Command is based entirely on House affiliation, gender, and magical prowess. Mutiny is common but must be executed flawlessly to be recognized by the Matrons.
+- **The Matron-Admiral (Fleet Commander):** A High Priestess who commands multiple vessels. She does not leave the capital; she commands telepathically through enslaved aboleths or psionic relays.
+- **The Web-Master (Captain):** Usually a female cleric or necromancer. They have absolute authority on their vessel and can execute any male crew member without cause.
+- **The Shadow-Blade (First Mate/Marine Commander):** The highest rank a male Drow can achieve. They lead the Crimson Guard boarding parties and handle the physical brutality of combat.
+- **The Flesh-Weaver (Ship Surgeon/Artificer):** Necromancers and biomancers who maintain the biological functions of their undead or mutated vessels.
+- **The Crimson Guard (Marines):** Elite male Drow warriors armed with poisoned hand-crossbows, dual rapiers, and innate darkness magic.
+
+### 6.2 Standard Naval Doctrines
+- **The Abyssal Breach:** Drow vessels do not sail on the surface. They track surface targets from hundreds of feet below using sonar and psionics. When the target is isolated, the Drow vessel rapidly ascends, breaching the surface directly beneath or alongside the enemy ship, creating massive rogue waves that capsize smaller escorts.
+- **The Silent Boarding:** As the Drow ship breaches, the Crimson Guard casts *Darkness* directly onto the enemy's command deck and cannon batteries. They board in total silence using spider-climb boots, specifically targeting officers and spellcasters with sleep poison before the crew can mount a defense.
+- **The Leviathan's Grip:** If a target is too heavily armored (like a Dominion Dreadnought), the Drow do not board. They deploy mutated giant squids or undead kraken tentacles to wrap around the enemy hull, dragging the entire vessel beneath the waves to crush it with atmospheric pressure.
+
+### 6.3 Specific Ship Classes
+- **The *Arachna*-Class Submersible (The Hunter):** A 100-foot-long biological vessel crafted from the hollowed-out chitin of a massive deep-sea crustacean. Propelled by magical impellers, it carries 20 Crimson Guard.
+- **The *Necropolis*-Class Carrier (The Hive):** A horrifying vessel built into the ribbed skeleton of an ancient, undead whale. It serves as a mobile forward operating base, carrying hundreds of disposable Kuo-toa and drowned zombie thralls that are deployed as cannon fodder.
+- **The *Viper*-Class Skiff (The Assassin):** A tiny, sleek, magically-silenced submersible used strictly for deploying high-value assassins (like Bregan D'aerthe) into heavily guarded harbors like Port Meridian.
+
+### 6.4 Magical Ship Integration
+- **Biological Hulls:** Drow vessels heal over time. Flesh-Weavers can cast *Inflict Wounds* or *Harm* on the hull to rapidly seal breaches during combat (since the vessels are undead or Aberrations).
+- **Sonic Projectors:** Mounted in the 'maw' of their vessels. They fire concentrated blasts of thundering sound that bypass magical abjuration shields and shatter wooden hulls through sheer vibration.
+- **Cryo-Torpedoes:** Living, magically modified eels packed with volatile elemental ice. When they ram an enemy hull, they detonate, instantly freezing the water around the ship and trapping it in a block of ice, making it a sitting duck for boarding.
 
 ## 7. Notable Figures
 

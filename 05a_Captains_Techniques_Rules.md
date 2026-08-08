@@ -7,8 +7,8 @@ A Captain's Technique is not a spell, a maneuver, or a psionic power. It is a le
 ## Mechanics
 - **Save DC Formula:** `10 + 1/2 Wayfinder level + Charisma Modifier`.
 - **Usage Limits:** Unless stated otherwise, they are generally at-will or have specific per-encounter/per-day limits outlined in their text.
-- **Action Types:** Standard D&D 3.5e actions (Standard, Move, Swift, Immediate, Passive/Special).
-  - *Global Rule:* A Wayfinder may only use **one Immediate Action Captain's Technique per round** to prevent reaction bloat.
+- **Action Types:** Standard 5e actions (Action, Bonus Action, Reaction, Special).
+  - *Global Rule:* A Wayfinder may only use **one Reaction Captain's Technique per round** to prevent reaction bloat.
 
 ## Categories
 Each category has a unique gameplay identity. If a technique solves a problem, the category defines *how* it solves it.
